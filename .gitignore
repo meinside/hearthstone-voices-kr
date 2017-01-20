@@ -1,0 +1,6 @@
+*.swp
+
+sounds*/
+
+*copy.sqlite
+*copy.csv
