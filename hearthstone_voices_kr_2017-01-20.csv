@@ -1014,11 +1014,11 @@ id,filename,expansion,cardname,txt
 1013,VO_CFM_BKP2_Male_Grummle_Attack_01,비열한 거리의 가젯잔,,이건 내 복덩이
 1014,VO_CFM_BKP2_Male_Grummle_Death_01,비열한 거리의 가젯잔,,죽음
 1015,VO_CFM_BKP2_Male_Grummle_Play_01,비열한 거리의 가젯잔,,보물을 찾고 있나요
-1016,VO_Crone_Female_Troll_CroneDeath_02,"",,안돼 거기서 내가 널
-1017,VO_Crone_Female_Troll_CroneEmoteResponse_02,"",,웃음
-1018,VO_Crone_Female_Troll_CroneFlyingMonkeys_01,"",,저 여자애를 데려와
-1019,VO_Crone_Female_Troll_CroneHeroPower_02,"",,웃음
-1020,VO_Crone_Female_Troll_CroneOpen_01,"",,도망쳐라 앙큼한 것들아
+1016,VO_Crone_Female_Troll_CroneDeath_02,한여름 밤의 카라잔,마녀,안돼 거기서 내가 널
+1017,VO_Crone_Female_Troll_CroneEmoteResponse_02,한여름 밤의 카라잔,마녀,웃음
+1018,VO_Crone_Female_Troll_CroneFlyingMonkeys_01,한여름 밤의 카라잔,마녀,저 여자애를 데려와
+1019,VO_Crone_Female_Troll_CroneHeroPower_02,한여름 밤의 카라잔,마녀,웃음
+1020,VO_Crone_Female_Troll_CroneOpen_01,한여름 밤의 카라잔,마녀,도망쳐라 앙큼한 것들아
 1021,VO_CS1_042_Attack_02,오리지널,,전투 준비
 1022,VO_CS1_042_Death_03,오리지널,,죽음
 1023,VO_CS1_042_Play_01,오리지널,,명령만 내리십시오
@@ -1150,15 +1150,15 @@ id,filename,expansion,cardname,txt
 1149,VO_Curator_Male_ArcaneGolem_NightbaneTurn3_01,한여름 밤의 카라잔,,생물체들을 확보해야 구역 내의 이동을 허가할 수 있습니다
 1150,VO_Curator_Male_ArcaneGolem_NightbaneUnstablePortal_01,한여름 밤의 카라잔,,전시물들을 부드럽게 다뤄주십시오 이 용족은 불안정한 마법을 두려워합니다
 1151,VO_Curator_Male_ArcaneGolem_NightbaneWin_01,한여름 밤의 카라잔,,추가 지원이 필요합니다
-1152,VO_DREAM_01_Attack_02,"",,해보죠
-1153,VO_DREAM_01_Death_03,"",,죽음
-1154,VO_DREAM_01_Play_01,"",,무슨 문제 있나요
-1155,VO_DS1_055_Attack_02,"",,어디부터 공격해줄까
-1156,VO_DS1_055_Death_03,"",,죽음
-1157,VO_DS1_055_Play_01,"",,나즈자탄을 위해
-1158,VO_DS1_070_Attack_02,"",,기합
-1159,VO_DS1_070_Death_03,"",,죽음
-1160,VO_DS1_070_Play_01,"",,내가 개판을 보여주마
+1152,VO_DREAM_01_Attack_02,오리지널,미소 띤 자매,해보죠
+1153,VO_DREAM_01_Death_03,오리지널,미소 띤 자매,죽음
+1154,VO_DREAM_01_Play_01,오리지널,미소 띤 자매,무슨 문제 있나요
+1155,VO_DS1_055_Attack_02,오리지널,어둠비늘 치유사,어디부터 공격해줄까
+1156,VO_DS1_055_Death_03,오리지널,어둠비늘 치유사,죽음
+1157,VO_DS1_055_Play_01,오리지널,어둠비늘 치유사,나즈자타를 위해
+1158,VO_DS1_070_Attack_02,오리지널,사냥개조련사,기합
+1159,VO_DS1_070_Death_03,오리지널,사냥개조련사,죽음
+1160,VO_DS1_070_Play_01,오리지널,사냥개조련사,내가 개판을 보여주마
 1161,VO_ELISE_LOE16_ALT_1_FIRST_HALF_02,탐험가 연맹,,라팜은 지팡에 힘을 모으는 동안 무적이에요
 1162,VO_ELISE_LOE16_ALT_1_SECOND_HALF_03,탐험가 연맹,,하지만 지팡이가 과부하되면 틈을 찾을 수 있을거에요 그가 소환한 하수인을 상대해야겠지만 말이에요
 1163,VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04,탐험가 연맹,,저 나가가 핀리를 사로잡았어요 서두르세요 탐험가 님
@@ -1518,7 +1518,7 @@ id,filename,expansion,cardname,txt
 1517,VO_FP1_028_EnterPlay_01,낙스라마스의 저주,,네 안의 망자를 끌어내라
 1518,VO_FP1_031_Attack_07,낙스라마스의 저주,,도살장에 끌려가는 어린 양이로다
 1519,VO_FP1_031_EnterPlay_06,낙스라마스의 저주,,스컬지가 너를 삼키리로다
-1520,VO_GULDAN_Male_Orc_Response_08,"",,카라 카잠
+1520,VO_GULDAN_Male_Orc_Response_08,한여름 밤의 카라잔,카라 카잠!,카라 카잠
 1521,VO_GVG_002_Attack_02,고블린 대 노움,,칙칙폭폭
 1522,VO_GVG_002_Death_03,고블린 대 노움,,칙칙폭
 1523,VO_GVG_002_Play_01,고블린 대 노움,,칙칙폭폭 칙칙폭폭
@@ -2421,7 +2421,7 @@ id,filename,expansion,cardname,txt
 2420,VO_INNKEEPER_ZINAAR_24,공통,여관주인,지나르
 2421,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,,어설픈 공작 같으니 자락서스처럼 가창력을 기르란 말이다
 2422,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_02,한여름 밤의 카라잔,,우린 탐험가 연맹이다 함께 할 자 어서 오라
-2423,VO_Jaxus_Summon,"",,지옥불을 받아라
+2423,VO_Jaxus_Summon,오리지널,군주 자락서스,지옥불을 받아라
 2424,VO_JobsDone,공통,,Jobs done
 2425,VO_Julianne_Female_Human_JulianneDeath_01,한여름 밤의 카라잔,,로밀로 당신께 축배를
 2426,VO_Julianne_Female_Human_JulianneEmoteResponse_01,한여름 밤의 카라잔,,우릴 왜 이리 경멸하시나요
@@ -2876,7 +2876,7 @@ id,filename,expansion,cardname,txt
 2875,VO_LOEA16_1_START_01,탐험가 연맹,,이게 시초의 지팡이의 진정한 힘이다
 2876,VO_LOEA16_1_TURN1_02,탐험가 연맹,,나는 무적이다 티탄의 힘이 내 손안에 있다
 2877,VO_LOEA16_RAFAAM2_PREGAME,탐험가 연맹,,그만 너따위는 시초의 지팡이의 힘을 당해낼 수 없다
-2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,"",,너의 행동은 그냥 넘길 수가 없다
+2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,"",NULL,너의 행동은 그냥 넘길 수가 없다
 2879,VO_Malchezaar_Male_Demon_Brawl_06,한여름 밤의 카라잔,,물론 이길거라는 생각은 하지 않았겠지
 2880,VO_Malchezaar_Male_Demon_EmoteParty_01,한여름 밤의 카라잔,,말체자르도 파티를 좋아한다
 2881,VO_Malchezaar_Male_Demon_FinalAltOpening_01,한여름 밤의 카라잔,,바보 같으니
@@ -3161,12 +3161,12 @@ id,filename,expansion,cardname,txt
 3160,VO_NAXM_001_Attack_02,낙스라마스의 저주,,어리석은 것
 3161,VO_NAXM_001_Death_03,낙스라마스의 저주,,죽음
 3162,VO_NAXM_001_EnterPlay_01,낙스라마스의 저주,,죽어서 나와 함께 하라
-3163,VO_Nazra_Female_Orc_FinalNazraChogall_02,"",,황혼의 망치단이라고 여기에
-3164,VO_Nazra_Female_Orc_FinalNazraDeath_03,"",,죽음
-3165,VO_Nazra_Female_Orc_FinalNazraEmoteResponse_01,"",,나즈라가 널 부술거다
-3166,VO_Nazra_Female_Orc_FinalNazraGrom_01,"",,그롬마쉬 님 정말 오랜만이군요
-3167,VO_Nazra_Female_Orc_FinalNazraHeroPower_01,"",,나즈라가 이 초라한 세계를 지배할 것이다
-3168,VO_Nazra_Female_Orc_FInalStartSequence_01,"",,호드의 힘 앞에 몸서리쳐라
+3163,VO_Nazra_Female_Orc_FinalNazraChogall_02,한여름 밤의 카라잔,나즈라 와일드액스,황혼의 망치단이라고 여기에
+3164,VO_Nazra_Female_Orc_FinalNazraDeath_03,한여름 밤의 카라잔,나즈라 와일드액스,죽음
+3165,VO_Nazra_Female_Orc_FinalNazraEmoteResponse_01,한여름 밤의 카라잔,나즈라 와일드액스,나즈라가 널 부술거다
+3166,VO_Nazra_Female_Orc_FinalNazraGrom_01,한여름 밤의 카라잔,나즈라 와일드액스,그롬마쉬 님 정말 오랜만이군요
+3167,VO_Nazra_Female_Orc_FinalNazraHeroPower_01,한여름 밤의 카라잔,나즈라 와일드액스,나즈라가 이 초라한 세계를 지배할 것이다
+3168,VO_Nazra_Female_Orc_FInalStartSequence_01,한여름 밤의 카라잔,나즈라 와일드액스,호드의 힘 앞에 몸서리쳐라
 3169,VO_NEFARIAN_ATRAMEDES_75,낙스라마스의 저주,,아트라메데스는 눈이 보이지 않지만 겁에 질린 네놈의 소리를 들을 수 있지
 3170,VO_NEFARIAN_ATRAMEDES_DEATH_76,낙스라마스의 저주,,눈 먼 용을 죽이다니 부끄러운 줄 알아라
 3171,VO_NEFARIAN_BARON_GEDDON_39,낙스라마스의 저주,,남작 게돈이 우리의 길을 막는군 처리해라 나의 종이여
@@ -3551,29 +3551,29 @@ id,filename,expansion,cardname,txt
 3550,VO_Sylvanas_01_Play_01,오리지널,,장난칠 시간은 없다
 3551,VO_Sylvanas_02_Attack_02,오리지널,,모두 없애라
 3552,VO_Sylvanas_04_Death_04,오리지널,,죽음
-3553,VO_TB_1503_FATHER_WINTER_GIFT1,"",,웃음
-3554,VO_TB_1503_FATHER_WINTER_GIFT2,"",,다들 선물 받아가려무나
-3555,VO_TB_1503_FATHER_WINTER_GIFT3,"",,아 이렇게 즐거울 수가
-3556,VO_TB_1503_FATHER_WINTER_GIFT4,"",,선물이 더 있었군
-3557,VO_TB_1503_FATHER_WINTER_LONG1,"",,말썽쟁이에겐 선물을 안 준단다
-3558,VO_TB_1503_FATHER_WINTER_LONG2,"",,이 굴뚝은 왜 이렇게 좁은거야
-3559,VO_TB_1503_FATHER_WINTER_LONG3,"",,왜 선물이 어디 하늘에서 뚝 떨어지는지 알았니
-3560,VO_TB_1503_FATHER_WINTER_LONG4,"",,아 겨울 할머니가 보고싶군
-3561,VO_TB_1503_FATHER_WINTER_LONG5,"",,이 판은 도대체 언제 끝나려나
-3562,VO_TB_1503_FATHER_WINTER_LONG6,"",,즐거운 겨울맞이축제 보내려무나
-3563,VO_TB_1503_FATHER_WINTER_START,"",,자자 착하게 지내거라 알겠지
-3564,VO_TIRION_INTRO_01,"",,지원자들이여 대마상시합에 온걸 환영하네
-3565,VO_TIRION_INTRO_02,"",,이 곳에서 불꽃튀는 창시합과 휘황찬란한 공연 그리고 숨가쁜 전투를 즐기게나
-3566,VO_TIRION_INTRO_03,"",,오늘 어느 용감한 기사가 최고의 용사가 되는 영광을 누릴 것인가
-3567,VO_tt_010a_Attack_02,"",,알겠어요
-3568,VO_tt_010a_Death_03,"",,죽음
-3569,VO_tt_010a_Play_01,"",,그렇게 하죠
-3570,VO_TU4d_002_Death_02,"",,죽음
-3571,VO_TU4d_002_Play_01,"",,야수 잡을 시간이다
-3572,VO_TU4f_002_Death_02,"",,죽음
-3573,VO_TU4f_002_Play_01,"",,예 전승지기 님
-3574,VO_TU4f_003_Death_02,"",,죽음
-3575,VO_TU4f_003_Play_01,"",,경의를 표합니다 장로님
+3553,VO_TB_1503_FATHER_WINTER_GIFT1,선술집 난투,선물 교환,웃음
+3554,VO_TB_1503_FATHER_WINTER_GIFT2,선술집 난투,선물 교환,다들 선물 받아가려무나
+3555,VO_TB_1503_FATHER_WINTER_GIFT3,선술집 난투,선물 교환,아 이렇게 즐거울 수가
+3556,VO_TB_1503_FATHER_WINTER_GIFT4,선술집 난투,선물 교환,선물이 더 있었군
+3557,VO_TB_1503_FATHER_WINTER_LONG1,선술집 난투,선물 교환,말썽쟁이에겐 선물을 안 준단다
+3558,VO_TB_1503_FATHER_WINTER_LONG2,선술집 난투,선물 교환,이 굴뚝은 왜 이렇게 좁은거야
+3559,VO_TB_1503_FATHER_WINTER_LONG3,선술집 난투,선물 교환,왜 선물이 어디 하늘에서 뚝 떨어지는지 알았니
+3560,VO_TB_1503_FATHER_WINTER_LONG4,선술집 난투,선물 교환,아 겨울 할머니가 보고싶군
+3561,VO_TB_1503_FATHER_WINTER_LONG5,선술집 난투,선물 교환,이 판은 도대체 언제 끝나려나
+3562,VO_TB_1503_FATHER_WINTER_LONG6,선술집 난투,선물 교환,즐거운 겨울맞이축제 보내려무나
+3563,VO_TB_1503_FATHER_WINTER_START,선술집 난투,선물 교환,자자 착하게 지내거라 알겠지
+3564,VO_TIRION_INTRO_01,선술집 난투,대 마상시합 경기,지원자들이여 대마상시합에 온걸 환영하네
+3565,VO_TIRION_INTRO_02,선술집 난투,대 마상시합 경기,이 곳에서 불꽃튀는 창시합과 휘황찬란한 공연 그리고 숨가쁜 전투를 즐기게나
+3566,VO_TIRION_INTRO_03,선술집 난투,대 마상시합 경기,오늘 어느 용감한 기사가 최고의 용사가 되는 영광을 누릴 것인가
+3567,VO_tt_010a_Attack_02,오리지널,주문왜곡사,알겠어요
+3568,VO_tt_010a_Death_03,오리지널,주문왜곡사,죽음
+3569,VO_tt_010a_Play_01,오리지널,주문왜곡사,그렇게 하죠
+3570,VO_TU4d_002_Death_02,튜토리얼,,죽음
+3571,VO_TU4d_002_Play_01,튜토리얼,,야수 잡을 시간이다
+3572,VO_TU4f_002_Death_02,튜토리얼,,죽음
+3573,VO_TU4f_002_Play_01,튜토리얼,,예 전승지기 님
+3574,VO_TU4f_003_Death_02,튜토리얼,,죽음
+3575,VO_TU4f_003_Play_01,튜토리얼,,경의를 표합니다 장로님
 3576,VO_TUTORIAL02_MILLHOUSE_01_04,오리지널,,내가 먼저 하고 싶었는데
 3577,VO_TUTORIAL02_MILLHOUSE_02_05,오리지널,,제이나 위대한 밀하우스 마나스톰 님의 진정한 힘을 보아라
 3578,VO_TUTORIAL02_MILLHOUSE_03_06,오리지널,,무슨 하수인이 저래 멀록
@@ -3725,7 +3725,7 @@ id,filename,expansion,cardname,txt
 3724,VO_TUTORIAL_06_JAINA_04_52,오리지널,,지금은 그렇죠 우선은 병사들을 다 없애고 상대해 드릴게요
 3725,VO_TUTORIAL_06_JAINA_05_53,오리지널,,영광이었어요 전승지기 님
 3726,VO_TUTORIAL_JAINA_02_55_ALT2,오리지널,,죽음
-3727,VO_W2_462_AnimalSummon_18,"",,이리 와라
+3727,VO_W2_462_AnimalSummon_18,오리지널,야생의 벗,이리 와라
 3728,VO_WhiteKing_Male_ChessPiece_ChessDeath_01,한여름 밤의 카라잔,,체크메이트
 3729,VO_WhiteKing_Male_ChessPiece_ChessDeath_02,한여름 밤의 카라잔,,죽음
 3730,VO_WhiteKing_Male_ChessPiece_ChessEmoteGreetings_01,한여름 밤의 카라잔,,한 수 두시겠는가
