@@ -30,6 +30,10 @@
 
 (내 경우엔 .m4a로)
 
+```bash
+$ ffmpeg -i xxxxx.wav -b:a 192k xxxxx.m4a
+```
+
 ## 정리된 DB를 이용, 추출된 음성파일에 활용
 
 ### 파일명 변환하기
