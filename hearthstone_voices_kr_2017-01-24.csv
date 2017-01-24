@@ -339,15 +339,15 @@ id,filename,expansion,cardname,txt
 338,VO_BigBadWolf_Male_Worgen_WolfOpen_01,한여름 밤의 카라잔,커다란 나쁜 늑대,도망쳐라 꼬마야 달아나라
 339,VO_BigBadWolf_Male_Worgen_WolfScarletCrusader_01,한여름 밤의 카라잔,커다란 나쁜 늑대,빨간 모자야 이리로 오려무나
 340,VO_BigBadWolf_Male_Worgen_WolfTurn1_01,한여름 밤의 카라잔,커다란 나쁜 늑대,나를 보며 한없이 작아지는 네 하수인들을 봐라
-341,VO_BlackKing_Male_ChessPiece_ChessDeath_06,한여름 밤의 카라잔,검은색 킹,죽음
-342,VO_BlackKing_Male_ChessPiece_ChessEmoteGreetings_01,한여름 밤의 카라잔,검은색 킹,언제든지
-343,VO_BlackKing_Male_ChessPiece_ChessEmoteOops_01,한여름 밤의 카라잔,검은색 킹,혹은 함정일 수도
-344,VO_BlackKing_Male_ChessPiece_ChessEmoteSorry_01,한여름 밤의 카라잔,검은색 킹,필요한 희생이었다
-345,VO_BlackKing_Male_ChessPiece_ChessEmoteThanks_01,한여름 밤의 카라잔,검은색 킹,별 말씀을
-346,VO_BlackKing_Male_ChessPiece_ChessEmoteThreaten_01,한여름 밤의 카라잔,검은색 킹,그럼 더 일찍 끝내드리지
-347,VO_BlackKing_Male_ChessPiece_ChessEmoteWellPlayed_01,한여름 밤의 카라잔,검은색 킹,너무 앞서가는군
-348,VO_BlackKing_Male_ChessPiece_ChessEmoteWow_01,한여름 밤의 카라잔,검은색 킹,고맙군
-349,VO_BlackKing_Male_ChessPiece_ChessOpen_01,한여름 밤의 카라잔,검은색 킹,누구도 지나갈 수 없다
+341,VO_BlackKing_Male_ChessPiece_ChessDeath_06,선술집 난투,체스 경기,죽음
+342,VO_BlackKing_Male_ChessPiece_ChessEmoteGreetings_01,선술집 난투,체스 경기,언제든지
+343,VO_BlackKing_Male_ChessPiece_ChessEmoteOops_01,선술집 난투,체스 경기,혹은 함정일 수도
+344,VO_BlackKing_Male_ChessPiece_ChessEmoteSorry_01,선술집 난투,체스 경기,필요한 희생이었다
+345,VO_BlackKing_Male_ChessPiece_ChessEmoteThanks_01,선술집 난투,체스 경기,별 말씀을
+346,VO_BlackKing_Male_ChessPiece_ChessEmoteThreaten_01,선술집 난투,체스 경기,그럼 더 일찍 끝내드리지
+347,VO_BlackKing_Male_ChessPiece_ChessEmoteWellPlayed_01,선술집 난투,체스 경기,너무 앞서가는군
+348,VO_BlackKing_Male_ChessPiece_ChessEmoteWow_01,선술집 난투,체스 경기,고맙군
+349,VO_BlackKing_Male_ChessPiece_ChessOpen_01,선술집 난투,체스 경기,누구도 지나갈 수 없다
 350,VO_BLACKKNIGHT_RESPONSE_01,대 마상시합,흑기사,내 할일을 끝내러 왔다
 351,VO_BOSS_AYA_Female_Pandaren_BC_0_Jade_Golem_02,비열한 거리의 가젯잔,아이야 블랙포우,골렘은 많을 수록 좋지
 352,VO_BOSS_AYA_Female_Pandaren_BC_0_Jade_Golem_03,비열한 거리의 가젯잔,아이야 블랙포우,가라 내 골렘들아
@@ -1159,15 +1159,15 @@ id,filename,expansion,cardname,txt
 1158,VO_DS1_070_Attack_02,오리지널,사냥개조련사,기합
 1159,VO_DS1_070_Death_03,오리지널,사냥개조련사,죽음
 1160,VO_DS1_070_Play_01,오리지널,사냥개조련사,내가 개판을 보여주마
-1161,VO_ELISE_LOE16_ALT_1_FIRST_HALF_02,탐험가 연맹,,라팜은 지팡에 힘을 모으는 동안 무적이에요
-1162,VO_ELISE_LOE16_ALT_1_SECOND_HALF_03,탐험가 연맹,,하지만 지팡이가 과부하되면 틈을 찾을 수 있을거에요 그가 소환한 하수인을 상대해야겠지만 말이에요
-1163,VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04,탐험가 연맹,,저 나가가 핀리를 사로잡았어요 서두르세요 탐험가 님
-1164,VO_ELISE_STAFF_CLICK_DONE_65,탐험가 연맹,,고마워요 탐험가 님 당신 덕분에 시초의 지팡이를 탐험가의 전당에 안전하게 보관할 수 있게 됐어요
-1165,VO_ELISE_STAFF_CLICK_EARLY_64,탐험가 연맹,,드디어 시초의 지팡이에 대한 단서를 찾았어요 어서 이 박물관에 가져다 놓고 싶네요
-1166,VO_ELISE_WEIRD_DECK_05,탐험가 연맹,,죄송해요 덱이 좀 구식이죠 작년 대회 때 쓴 뒤로 카드를 바꾼 적이 없어서 그래요
-1167,VO_ELISE_WING_1_OPEN_06,탐험가 연맹,,지팡이의 첫번째 조각은 오르시스 사원에 있어요 리노가 이미 사원 안에 들어가 있죠 당신의 도움이 필요해요
-1168,VO_ELISE_WING_3_OPEN_07,탐험가 연맹,,지팡이의 세번째 조각인 해일의 진주는 가시덤불 밀림에 있어요 핀리 경이 이미 도착했을 건데 최근에 연락이 안되더라구요
-1169,VO_ELISE_WING_4_OPEN_08,탐험가 연맹,,라팜이 지팡이를 훔쳐 박물관을 장악했어요 전시물에 생명을 불어넣어 조종하면서 유물들을 훔치고 있어요
+1161,VO_ELISE_LOE16_ALT_1_FIRST_HALF_02,탐험가 연맹,엘리스 스타시커,라팜은 지팡에 힘을 모으는 동안 무적이에요
+1162,VO_ELISE_LOE16_ALT_1_SECOND_HALF_03,탐험가 연맹,엘리스 스타시커,하지만 지팡이가 과부하되면 틈을 찾을 수 있을거에요 그가 소환한 하수인을 상대해야겠지만 말이에요
+1163,VO_ELISE_SLITHERSPEAR_PREGAME_ALT_04,탐험가 연맹,엘리스 스타시커,저 나가가 핀리를 사로잡았어요 서두르세요 탐험가 님
+1164,VO_ELISE_STAFF_CLICK_DONE_65,탐험가 연맹,엘리스 스타시커,고마워요 탐험가 님 당신 덕분에 시초의 지팡이를 탐험가의 전당에 안전하게 보관할 수 있게 됐어요
+1165,VO_ELISE_STAFF_CLICK_EARLY_64,탐험가 연맹,엘리스 스타시커,드디어 시초의 지팡이에 대한 단서를 찾았어요 어서 이 박물관에 가져다 놓고 싶네요
+1166,VO_ELISE_WEIRD_DECK_05,탐험가 연맹,엘리스 스타시커,죄송해요 덱이 좀 구식이죠 작년 대회 때 쓴 뒤로 카드를 바꾼 적이 없어서 그래요
+1167,VO_ELISE_WING_1_OPEN_06,탐험가 연맹,엘리스 스타시커,지팡이의 첫번째 조각은 오르시스 사원에 있어요 리노가 이미 사원 안에 들어가 있죠 당신의 도움이 필요해요
+1168,VO_ELISE_WING_3_OPEN_07,탐험가 연맹,엘리스 스타시커,지팡이의 세번째 조각인 해일의 진주는 가시덤불 밀림에 있어요 핀리 경이 이미 도착했을 건데 최근에 연락이 안되더라구요
+1169,VO_ELISE_WING_4_OPEN_08,탐험가 연맹,엘리스 스타시커,라팜이 지팡이를 훔쳐 박물관을 장악했어요 전시물에 생명을 불어넣어 조종하면서 유물들을 훔치고 있어요
 1170,VO_EX1_001_Attack_02,오리지널,,빛을 상대해라
 1171,VO_EX1_001_Death_03,오리지널,,죽음
 1172,VO_EX1_001_Play_01,오리지널,,빛의 이름으로
@@ -1475,7 +1475,7 @@ id,filename,expansion,cardname,txt
 1474,VO_EX1_finkle_Death_03,오리지널,,죽음
 1475,VO_EX1_finkle_Play_01,오리지널,,저기 몇 달이나 들어가 있었다구요
 1476,VO_EX1_tk33_HeroPower_04,오리지널,,지옥불을 받아라
-1477,VO_FINLEY_MORGL_02,탐험가 연맹,,안녕하십니까 친구 이 경기가 끝나고 차 한 잔 드시겠습니까
+1477,VO_FINLEY_MORGL_02,탐험가 연맹,핀리 므르글턴 경,안녕하십니까 친구 이 경기가 끝나고 차 한 잔 드시겠습니까
 1478,VO_FP1_004_Attack_02,낙스라마스의 저주,,저능아들
 1479,VO_FP1_004_Death_03,낙스라마스의 저주,,과학을 위하여
 1480,VO_FP1_004_EnterPlay_01,낙스라마스의 저주,,내가 보여주겠다 모두에게 증명하겠다
@@ -2278,15 +2278,15 @@ id,filename,expansion,cardname,txt
 2277,VO_HERONAME_NAX13_13,공통,여관주인,타디우스
 2278,VO_HERONAME_NAX14_14,공통,여관주인,사피론
 2279,VO_HERONAME_NAX15_15,공통,여관주인,켈투자드
-2280,VO_Illhoof_Male_Demon_IlhoofKilrek_01,한여름 밤의 카라잔,,오너라 킬렉 소원이 거의 끝났다
-2281,VO_Illhoof_Male_Demon_IllhoofDeath_02,한여름 밤의 카라잔,,안돼 거의 다 됐건만 살게라
-2282,VO_Illhoof_Male_Demon_IllhoofDeath_03,한여름 밤의 카라잔,,죽음
-2283,VO_Illhoof_Male_Demon_IllhoofEmoteResponse_01,한여름 밤의 카라잔,,이 장소가 의식에 생명을 불어넣는구나
-2284,VO_Illhoof_Male_Demon_IllhoofOpen_01,한여름 밤의 카라잔,,때맞춰 와줬군
-2285,VO_Illhoof_Male_Demon_IllhoofSummonImps_01,한여름 밤의 카라잔,,나오너라 어둠의 피조물들이여 내 부름에 응답하라
-2286,VO_Illhoof_Male_Demon_IllhoofSummoningPortal_01,한여름 밤의 카라잔,,소환의식이 필요 없는 차원문이라니 정말 간편해 보이는군
-2287,VO_Illhoof_Male_Demon_IllhoofTurn1_01,한여름 밤의 카라잔,,막 의식을 시작하려던 참이었다
-2288,VO_Illhoof_Male_Demon_IllhoofWounded_01,한여름 밤의 카라잔,,모여라 내 귀여운 아이들아 의식을 마쳐야 한다
+2280,VO_Illhoof_Male_Demon_IlhoofKilrek_01,한여름 밤의 카라잔,테레스티안 일후프,오너라 킬렉 소원이 거의 끝났다
+2281,VO_Illhoof_Male_Demon_IllhoofDeath_02,한여름 밤의 카라잔,테레스티안 일후프,안돼 거의 다 됐건만 살게라
+2282,VO_Illhoof_Male_Demon_IllhoofDeath_03,한여름 밤의 카라잔,테레스티안 일후프,죽음
+2283,VO_Illhoof_Male_Demon_IllhoofEmoteResponse_01,한여름 밤의 카라잔,테레스티안 일후프,이 장소가 의식에 생명을 불어넣는구나
+2284,VO_Illhoof_Male_Demon_IllhoofOpen_01,한여름 밤의 카라잔,테레스티안 일후프,때맞춰 와줬군
+2285,VO_Illhoof_Male_Demon_IllhoofSummonImps_01,한여름 밤의 카라잔,테레스티안 일후프,나오너라 어둠의 피조물들이여 내 부름에 응답하라
+2286,VO_Illhoof_Male_Demon_IllhoofSummoningPortal_01,한여름 밤의 카라잔,테레스티안 일후프,소환의식이 필요 없는 차원문이라니 정말 간편해 보이는군
+2287,VO_Illhoof_Male_Demon_IllhoofTurn1_01,한여름 밤의 카라잔,테레스티안 일후프,막 의식을 시작하려던 참이었다
+2288,VO_Illhoof_Male_Demon_IllhoofWounded_01,한여름 밤의 카라잔,테레스티안 일후프,모여라 내 귀여운 아이들아 의식을 마쳐야 한다
 2289,VO_INKEEPER_Male_Dwarf_ClassLegendaryDruid_01,공통,여관주인,오 드루이드 전설카드를 얻으셨군요 클래식 견본에 들어가는 카드입니다 덱을 한 번 만들어 보시죠
 2290,VO_INKEEPER_Male_Dwarf_ClassLegendaryHunter_01,공통,여관주인,오 사냥꾼 전설카드를 얻으셨군요 클래식 견본에 들어가는 카드입니다 덱을 한 번 만들어 보시죠
 2291,VO_INKEEPER_Male_Dwarf_ClassLegendaryMage_01,공통,여관주인,오 마법사 전설카드를 얻으셨군요 클래식 견본에 들어가는 카드입니다 덱을 한 번 만들어 보시죠
@@ -2422,7 +2422,7 @@ id,filename,expansion,cardname,txt
 2421,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,,어설픈 공작 같으니 자락서스처럼 가창력을 기르란 말이다
 2422,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_02,한여름 밤의 카라잔,,우린 탐험가 연맹이다 함께 할 자 어서 오라
 2423,VO_Jaxus_Summon,오리지널,군주 자락서스,지옥불을 받아라
-2424,VO_JobsDone,공통,,Job's done
+2424,VO_JobsDone,공통,턴 종료,Job's done
 2425,VO_Julianne_Female_Human_JulianneDeath_01,한여름 밤의 카라잔,,로밀로 당신께 축배를
 2426,VO_Julianne_Female_Human_JulianneEmoteResponse_01,한여름 밤의 카라잔,,우릴 왜 이리 경멸하시나요
 2427,VO_Julianne_Female_Human_JulianneFeignDeath_03,한여름 밤의 카라잔,,행복한 잠에서 깨어난 것처럼 일어날지니
@@ -3540,14 +3540,14 @@ id,filename,expansion,cardname,txt
 3539,VO_RAGNAROS_NEF7_76,검은바위 산,,불의 군주의 화염은 꺼지지 않는다
 3540,VO_RAGNAROS_NEF8_77,검은바위 산,,복수의 시간이다 용이여
 3541,VO_RAGNAROS_NEF_INTRO2_70,검은바위 산,,필멸자여 난 아직 죽지 않았다 네파리안을 물리칠 수 있게 내가 도와주겠노라
-3542,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02,한여름 밤의 카라잔,,접시가 깨졌다
-3543,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_03,한여름 밤의 카라잔,,죽음
-3544,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01,한여름 밤의 카라잔,,세척할 시간이다
-3545,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareForkedLightning_01,한여름 밤의 카라잔,,포크처럼 갈라진 번개다
-3546,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareHeroPower_01,한여름 밤의 카라잔,,식기를 놓고 식사를 준비하자
-3547,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01,한여름 밤의 카라잔,,우와 식칼 곡예다
-3548,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01,한여름 밤의 카라잔,,춤추는거 재밌다
-3549,VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01,한여름 밤의 카라잔,,너도 접시 너도 접시 모두에게 접시
+3542,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02,한여름 밤의 카라잔,식기 골렘,접시가 깨졌다
+3543,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_03,한여름 밤의 카라잔,식기 골렘,죽음
+3544,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01,한여름 밤의 카라잔,식기 골렘,세척할 시간이다
+3545,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareForkedLightning_01,한여름 밤의 카라잔,식기 골렘,포크처럼 갈라진 번개다
+3546,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareHeroPower_01,한여름 밤의 카라잔,식기 골렘,식기를 놓고 식사를 준비하자
+3547,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01,한여름 밤의 카라잔,식기 골렘,우와 식칼 곡예다
+3548,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01,한여름 밤의 카라잔,식기 골렘,춤추는거 재밌다
+3549,VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01,한여름 밤의 카라잔,식기 골렘,너도 접시 너도 접시 모두에게 접시
 3550,VO_Sylvanas_01_Play_01,오리지널,,장난칠 시간은 없다
 3551,VO_Sylvanas_02_Attack_02,오리지널,,모두 없애라
 3552,VO_Sylvanas_04_Death_04,오리지널,,죽음
@@ -3726,16 +3726,16 @@ id,filename,expansion,cardname,txt
 3725,VO_TUTORIAL_06_JAINA_05_53,오리지널,,영광이었어요 전승지기 님
 3726,VO_TUTORIAL_JAINA_02_55_ALT2,오리지널,,죽음
 3727,VO_W2_462_AnimalSummon_18,오리지널,야생의 벗,이리 와라
-3728,VO_WhiteKing_Male_ChessPiece_ChessDeath_01,한여름 밤의 카라잔,,체크메이트
-3729,VO_WhiteKing_Male_ChessPiece_ChessDeath_02,한여름 밤의 카라잔,,죽음
-3730,VO_WhiteKing_Male_ChessPiece_ChessEmoteGreetings_01,한여름 밤의 카라잔,,한 수 두시겠는가
-3731,VO_WhiteKing_Male_ChessPiece_ChessEmoteOops_01,한여름 밤의 카라잔,,이런 실수인가
-3732,VO_WhiteKing_Male_ChessPiece_ChessEmoteSorry_01,한여름 밤의 카라잔,,좋지 않은 전개군
-3733,VO_WhiteKing_Male_ChessPiece_ChessEmoteThanks_01,한여름 밤의 카라잔,,정말 친절하군
-3734,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_01,한여름 밤의 카라잔,,룩을 A3에
-3735,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_02,한여름 밤의 카라잔,,나이트를 F6에
-3736,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_03,한여름 밤의 카라잔,,퀸을 F5에 아니아니 아니야
-3737,VO_WhiteKing_Male_ChessPiece_ChessEmoteThreaten_01,한여름 밤의 카라잔,,네 수 안에 끝낼 수 있겠군
-3738,VO_WhiteKing_Male_ChessPiece_ChessEmoteWellPlayed_01,한여름 밤의 카라잔,,체크메이트
-3739,VO_WhiteKing_Male_ChessPiece_ChessEmoteWow_01,한여름 밤의 카라잔,,아 훌륭하군
-3740,VO_WhiteKing_Male_ChessPiece_ChessOpen_02,한여름 밤의 카라잔,,각오해라
+3728,VO_WhiteKing_Male_ChessPiece_ChessDeath_01,선술집 난투,체스 경기,체크메이트
+3729,VO_WhiteKing_Male_ChessPiece_ChessDeath_02,선술집 난투,체스 경기,죽음
+3730,VO_WhiteKing_Male_ChessPiece_ChessEmoteGreetings_01,선술집 난투,체스 경기,한 수 두시겠는가
+3731,VO_WhiteKing_Male_ChessPiece_ChessEmoteOops_01,선술집 난투,체스 경기,이런 실수인가
+3732,VO_WhiteKing_Male_ChessPiece_ChessEmoteSorry_01,선술집 난투,체스 경기,좋지 않은 전개군
+3733,VO_WhiteKing_Male_ChessPiece_ChessEmoteThanks_01,선술집 난투,체스 경기,정말 친절하군
+3734,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_01,선술집 난투,체스 경기,룩을 A3에
+3735,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_02,선술집 난투,체스 경기,나이트를 F6에
+3736,VO_WhiteKing_Male_ChessPiece_ChessEmoteThinking_03,선술집 난투,체스 경기,퀸을 F5에 아니아니 아니야
+3737,VO_WhiteKing_Male_ChessPiece_ChessEmoteThreaten_01,선술집 난투,체스 경기,네 수 안에 끝낼 수 있겠군
+3738,VO_WhiteKing_Male_ChessPiece_ChessEmoteWellPlayed_01,선술집 난투,체스 경기,체크메이트
+3739,VO_WhiteKing_Male_ChessPiece_ChessEmoteWow_01,선술집 난투,체스 경기,아 훌륭하군
+3740,VO_WhiteKing_Male_ChessPiece_ChessOpen_02,선술집 난투,체스 경기,각오해라
