@@ -1019,108 +1019,108 @@ id,filename,expansion,cardname,txt
 1018,VO_Crone_Female_Troll_CroneFlyingMonkeys_01,한여름 밤의 카라잔,마녀,저 여자애를 데려와
 1019,VO_Crone_Female_Troll_CroneHeroPower_02,한여름 밤의 카라잔,마녀,웃음
 1020,VO_Crone_Female_Troll_CroneOpen_01,한여름 밤의 카라잔,마녀,도망쳐라 앙큼한 것들아
-1021,VO_CS1_042_Attack_02,오리지널,,전투 준비
-1022,VO_CS1_042_Death_03,오리지널,,죽음
-1023,VO_CS1_042_Play_01,오리지널,,명령만 내리십시오
-1024,VO_CS2_059_Attack_02,오리지널,,좋아 작은 고추 나가신다
-1025,VO_CS2_059_Death_03,오리지널,,죽음
-1026,VO_CS2_059_Play_01,오리지널,,꼭 해야만 돼
-1027,VO_CS2_065_Attack_02,오리지널,,명령대로 하겠다
-1028,VO_CS2_065_Death_03,오리지널,,죽음
-1029,VO_CS2_065_Play_01,오리지널,,왜 날 불렀지
+1021,VO_CS1_042_Attack_02,오리지널,황금골 보병,전투 준비
+1022,VO_CS1_042_Death_03,오리지널,황금골 보병,죽음
+1023,VO_CS1_042_Play_01,오리지널,황금골 보병,명령만 내리십시오
+1024,VO_CS2_059_Attack_02,오리지널,피의 임프,좋아 작은 고추 나가신다
+1025,VO_CS2_059_Death_03,오리지널,피의 임프,죽음
+1026,VO_CS2_059_Play_01,오리지널,피의 임프,꼭 해야만 돼
+1027,VO_CS2_065_Attack_02,오리지널,공허방랑자,명령대로 하겠다
+1028,VO_CS2_065_Death_03,오리지널,공허방랑자,죽음
+1029,VO_CS2_065_Play_01,오리지널,공허방랑자,왜 날 불렀지
 1030,VO_CS2_088_Attack_02,오리지널,,복수
 1031,VO_CS2_088_Death_03,오리지널,,너
 1032,VO_CS2_088_Play_01,오리지널,,정의
-1033,VO_CS2_101t_Attack_02,오리지널,,전장으로
-1034,VO_CS2_101t_Death_03,오리지널,,죽음
-1035,VO_CS2_101t_Play_01,오리지널,,임무를 내려주십시오
-1036,VO_CS2_117_Attack_02,오리지널,,물론이지
-1037,VO_CS2_117_Death_03,오리지널,,죽음
-1038,VO_CS2_117_Play_01,오리지널,,내 눈은 뜨여있다
-1039,VO_CS2_121_Attack_02,오리지널,,처치할 시간이다
-1040,VO_CS2_121_Death_03,오리지널,,죽음
-1041,VO_CS2_121_Play_01,오리지널,,원하는게 뭡니까
-1042,VO_CS2_122_Attack_02,오리지널,,거기 어떻게좀 해봐
-1043,VO_CS2_122_Death_03,오리지널,,죽음
-1044,VO_CS2_122_Male_Orc_Attack_02,오리지널,,아니 그 광선 말고
-1045,VO_CS2_122_Male_Orc_Death_03,오리지널,,빠져나와 안돼
-1046,VO_CS2_122_Male_Orc_Play_01,오리지널,,광선을 막아
-1047,VO_CS2_122_Play_01,오리지널,,엄청 빠르고 강력하게 치라고
-1048,VO_CS2_124_Attack_02,오리지널,,내 칼을 받아라
-1049,VO_CS2_124_Death_03,오리지널,,죽음
-1050,VO_CS2_124_Play_01,오리지널,,돌격 준비 완료
-1051,VO_CS2_131_Attack_02,오리지널,,명예를 위해
-1052,VO_CS2_131_Death_03,오리지널,,아이고 이런
-1053,VO_CS2_131_Play_01,오리지널,,국왕폐하를 위해
-1054,VO_CS2_141_Attack_02,오리지널,,발사
-1055,VO_CS2_141_Death_03,오리지널,,죽음
-1056,VO_CS2_141_Play_01,오리지널,,장전 완료
-1057,VO_CS2_142_Attack_02,오리지널,,내꺼야
-1058,VO_CS2_142_Death_03,오리지널,,죽음
-1059,VO_CS2_142_Play_01,오리지널,,너 양초 못가져간다
-1060,VO_CS2_147_Attack_02,오리지널,,어라 잠깐만요
-1061,VO_CS2_147_Death_03,오리지널,,죽음
-1062,VO_CS2_147_Play_01,오리지널,,만능스패너좀 던져주세요
-1063,VO_CS2_150_Attack_02,오리지널,,준비됐어
-1064,VO_CS2_150_Death_03,오리지널,,죽음
-1065,VO_CS2_150_Play_01,오리지널,,커다란 총을 가져왔지
-1066,VO_CS2_151_Attack_02,오리지널,,전장으로
-1067,VO_CS2_151_Death_03,오리지널,,죽음
-1068,VO_CS2_151_Play_01,오리지널,,종자여 내게 오라
-1069,VO_CS2_152_Attack_02,오리지널,,정 그러시다면
-1070,VO_CS2_152_Death_03,오리지널,,죽음
-1071,VO_CS2_152_Play_01,오리지널,,준비됐습니다
-1072,VO_CS2_155_Attack_02,오리지널,,눈 깜짝할 새에
-1073,VO_CS2_155_Death_03,오리지널,,죽음
-1074,VO_CS2_155_Play_01,오리지널,,이런건 어떨까
-1075,VO_CS2_161_Attack_02,오리지널,,문제 해결
-1076,VO_CS2_161_Death_03,오리지널,,죽음
-1077,VO_CS2_161_Play_01,오리지널,,문제가 생겼다고 들었습니다만
-1078,VO_CS2_162_Attack_02,오리지널,,잘가라
-1079,VO_CS2_162_Death_03,오리지널,,죽음
-1080,VO_CS2_162_Play_01,오리지널,,문이  열렸다
-1081,VO_CS2_179_Attack_02,오리지널,,알았다고
-1082,VO_CS2_179_Death_03,오리지널,,죽음
-1083,VO_CS2_179_Play_01,오리지널,,타즈딩고 헤헤헤 좋아
-1084,VO_CS2_181_Attack_02,오리지널,,네 피를 볼 차례다
-1085,VO_CS2_181_Death_03,오리지널,,죽음
-1086,VO_CS2_181_Play_01,오리지널,,의무병
-1087,VO_CS2_187_Attack_02,오리지널,,제가 처리하죠
-1088,VO_CS2_187_Death_03,오리지널,,죽음
-1089,VO_CS2_187_Play_01,오리지널,,제 뒤로 오세요
-1090,VO_CS2_188_Attack_02,오리지널,,내 분노를 봐라
-1091,VO_CS2_188_Death_03,오리지널,,죽음
-1092,VO_CS2_188_Play_01,오리지널,,나가서 싸워라 머저리들아
-1093,VO_CS2_189_Attack_02,오리지널,,해보겠습니다
-1094,VO_CS2_189_Death_03,오리지널,,죽음
-1095,VO_CS2_189_Play_01,오리지널,,한 발이면 충분하죠
-1096,VO_CS2_196_Attack_02,오리지널,,망치 맛을 보여주마
-1097,VO_CS2_196_Death_03,오리지널,,죽음
-1098,VO_CS2_196_Play_01,오리지널,,울 엄니한테 까불지 마
-1099,VO_CS2_197_Attack_02_MIX,오리지널,,뭉개자 안돼 박살내자
-1100,VO_CS2_197_Death_03_MIX,오리지널,,죽음
-1101,VO_CS2_197_Play_01_MIX,오리지널,,준비됐어 난 아직인데
-1102,VO_CS2_200_Attack_02,오리지널,,나 부순다
-1103,VO_CS2_200_Death_03,오리지널,,죽음
-1104,VO_CS2_200_Play_01,오리지널,,뭘 보는거야
-1105,VO_CS2_213_Attack_02,오리지널,,웃음
-1106,VO_CS2_213_Death_03,오리지널,,죽음
-1107,VO_CS2_213_Play_01,오리지널,,난다 날아
-1108,VO_CS2_221_Attack_02,오리지널,,고통이여
-1109,VO_CS2_221_Death_03,오리지널,,네가 감히
-1110,VO_CS2_221_Play_01,오리지널,,나의 뜻을 복종하라
-1111,VO_CS2_222_Attack_02,오리지널,,얼라이언스를 위하여
-1112,VO_CS2_222_Death_03,오리지널,,죽음
-1113,VO_CS2_222_Play_01,오리지널,,스톰윈드의 힘을 보아라
-1114,VO_CS2_226_Attack_02,오리지널,,호드를 위하여
-1115,VO_CS2_226_Death_03,오리지널,,죽음
-1116,VO_CS2_226_Play_01,오리지널,,서리도끼 부족이 간다
-1117,VO_CS2_227_Attack_02,오리지널,,잘 있었어
-1118,VO_CS2_227_Death_03,오리지널,,안좋아 안좋다구 아파
-1119,VO_CS2_227_Play_01,오리지널,,농담하는거지
-1120,VO_CS2_235_Attack_02,오리지널,,그러죠
-1121,VO_CS2_235_Death_03,오리지널,,죽음
-1122,VO_CS2_235_Play_01,오리지널,,다친 사람 있나요
+1033,VO_CS2_101t_Attack_02,오리지널,은빛 성기사단 신병,전장으로
+1034,VO_CS2_101t_Death_03,오리지널,은빛 성기사단 신병,죽음
+1035,VO_CS2_101t_Play_01,오리지널,은빛 성기사단 신병,임무를 내려주십시오
+1036,VO_CS2_117_Attack_02,오리지널,대지 고리회 선견자,물론이지
+1037,VO_CS2_117_Death_03,오리지널,대지 고리회 선견자,죽음
+1038,VO_CS2_117_Play_01,오리지널,대지 고리회 선견자,내 눈은 뜨여있다
+1039,VO_CS2_121_Attack_02,오리지널,서리늑대 그런트,처치할 시간이다
+1040,VO_CS2_121_Death_03,오리지널,서리늑대 그런트,죽음
+1041,VO_CS2_121_Play_01,오리지널,서리늑대 그런트,원하는게 뭡니까
+1042,VO_CS2_122_Attack_02,오리지널,공격대장,거기 어떻게좀 해봐
+1043,VO_CS2_122_Death_03,오리지널,공격대장,죽음
+1044,VO_CS2_122_Male_Orc_Attack_02,오리지널,공격대장,아니 그 광선 말고
+1045,VO_CS2_122_Male_Orc_Death_03,오리지널,공격대장,빠져나와 안돼
+1046,VO_CS2_122_Male_Orc_Play_01,오리지널,공격대장,광선을 막아
+1047,VO_CS2_122_Play_01,오리지널,공격대장,엄청 빠르고 강력하게 치라고
+1048,VO_CS2_124_Attack_02,오리지널,늑대기수,내 칼을 받아라
+1049,VO_CS2_124_Death_03,오리지널,늑대기수,죽음
+1050,VO_CS2_124_Play_01,오리지널,늑대기수,돌격 준비 완료
+1051,VO_CS2_131_Attack_02,오리지널,스톰윈드 기사,명예를 위해
+1052,VO_CS2_131_Death_03,오리지널,스톰윈드 기사,아이고 이런
+1053,VO_CS2_131_Play_01,오리지널,스톰윈드 기사,국왕폐하를 위해
+1054,VO_CS2_141_Attack_02,오리지널,아이언포지 소총병,발사
+1055,VO_CS2_141_Death_03,오리지널,아이언포지 소총병,죽음
+1056,VO_CS2_141_Play_01,오리지널,아이언포지 소총병,장전 완료
+1057,VO_CS2_142_Attack_02,오리지널,코볼트 흙점쟁이,내꺼야
+1058,VO_CS2_142_Death_03,오리지널,코볼트 흙점쟁이,죽음
+1059,VO_CS2_142_Play_01,오리지널,코볼트 흙점쟁이,너 양초 못가져간다
+1060,VO_CS2_147_Attack_02,오리지널,노움 발명가,어라 잠깐만요
+1061,VO_CS2_147_Death_03,오리지널,노움 발명가,죽음
+1062,VO_CS2_147_Play_01,오리지널,노움 발명가,만능스패너좀 던져주세요
+1063,VO_CS2_150_Attack_02,오리지널,스톰파이크 특공대,준비됐어
+1064,VO_CS2_150_Death_03,오리지널,스톰파이크 특공대,죽음
+1065,VO_CS2_150_Play_01,오리지널,스톰파이크 특공대,커다란 총을 가져왔지
+1066,VO_CS2_151_Attack_02,오리지널,은빛 성기사단 기사,전장으로
+1067,VO_CS2_151_Death_03,오리지널,은빛 성기사단 기사,죽음
+1068,VO_CS2_151_Play_01,오리지널,은빛 성기사단 기사,종자여 내게 오라
+1069,VO_CS2_152_Attack_02,오리지널,종자,정 그러시다면
+1070,VO_CS2_152_Death_03,오리지널,종자,죽음
+1071,VO_CS2_152_Play_01,오리지널,종자,준비됐습니다
+1072,VO_CS2_155_Attack_02,오리지널,대마법사,눈 깜짝할 새에
+1073,VO_CS2_155_Death_03,오리지널,대마법사,죽음
+1074,VO_CS2_155_Play_01,오리지널,대마법사,이런건 어떨까
+1075,VO_CS2_161_Attack_02,오리지널,라벤홀트 암살자,문제 해결
+1076,VO_CS2_161_Death_03,오리지널,라벤홀트 암살자,죽음
+1077,VO_CS2_161_Play_01,오리지널,라벤홀트 암살자,문제가 생겼다고 들었습니다만
+1078,VO_CS2_162_Attack_02,오리지널,투기장의 제왕,잘가라
+1079,VO_CS2_162_Death_03,오리지널,투기장의 제왕,죽음
+1080,VO_CS2_162_Play_01,오리지널,투기장의 제왕,문이 열렸다
+1081,VO_CS2_179_Attack_02,오리지널,센진 방패대가,알았다고
+1082,VO_CS2_179_Death_03,오리지널,센진 방패대가,죽음
+1083,VO_CS2_179_Play_01,오리지널,센진 방패대가,타즈딩고 헤헤헤 좋아
+1084,VO_CS2_181_Attack_02,오리지널,부상당한 검귀,네 피를 볼 차례다
+1085,VO_CS2_181_Death_03,오리지널,부상당한 검귀,죽음
+1086,VO_CS2_181_Play_01,오리지널,부상당한 검귀,의무병
+1087,VO_CS2_187_Attack_02,오리지널,무법항 경호원,제가 처리하죠
+1088,VO_CS2_187_Death_03,오리지널,무법항 경호원,죽음
+1089,VO_CS2_187_Play_01,오리지널,무법항 경호원,제 뒤로 오세요
+1090,VO_CS2_188_Attack_02,오리지널,가혹한 하사관,내 분노를 봐라
+1091,VO_CS2_188_Death_03,오리지널,가혹한 하사관,죽음
+1092,VO_CS2_188_Play_01,오리지널,가혹한 하사관,나가서 싸워라 머저리들아
+1093,VO_CS2_189_Attack_02,오리지널,엘프 궁수,해보겠습니다
+1094,VO_CS2_189_Death_03,오리지널,엘프 궁수,죽음
+1095,VO_CS2_189_Play_01,오리지널,엘프 궁수,한 발이면 충분하죠
+1096,VO_CS2_196_Attack_02,오리지널,가시덩굴 사냥꾼,망치 맛을 보여주마
+1097,VO_CS2_196_Death_03,오리지널,가시덩굴 사냥꾼,죽음
+1098,VO_CS2_196_Play_01,오리지널,가시덩굴 사냥꾼,뿔엄니한테 까불지 마
+1099,VO_CS2_197_Attack_02_MIX,오리지널,오우거 마법사,뭉개자 안돼 박살내자
+1100,VO_CS2_197_Death_03_MIX,오리지널,오우거 마법사,죽음
+1101,VO_CS2_197_Play_01_MIX,오리지널,오우거 마법사,준비됐어 난 아직인데
+1102,VO_CS2_200_Attack_02,오리지널,돌주먹 오우거,나 부순다
+1103,VO_CS2_200_Death_03,오리지널,돌주먹 오우거,죽음
+1104,VO_CS2_200_Play_01,오리지널,돌주먹 오우거,뭘 보는거야
+1105,VO_CS2_213_Attack_02,오리지널,못 말리는 로켓병,웃음
+1106,VO_CS2_213_Death_03,오리지널,못 말리는 로켓병,죽음
+1107,VO_CS2_213_Play_01,오리지널,못 말리는 로켓병,난다 날아
+1108,VO_CS2_221_Attack_02,오리지널,원한 맺힌 대장장이,고통이여
+1109,VO_CS2_221_Death_03,오리지널,원한 맺힌 대장장이,네가 감히
+1110,VO_CS2_221_Play_01,오리지널,원한 맺힌 대장장이,나의 뜻을 복종하라
+1111,VO_CS2_222_Attack_02,오리지널,스톰윈드 용사,얼라이언스를 위하여
+1112,VO_CS2_222_Death_03,오리지널,스톰윈드 용사,죽음
+1113,VO_CS2_222_Play_01,오리지널,스톰윈드 용사,스톰윈드의 힘을 보아라
+1114,VO_CS2_226_Attack_02,오리지널,서리늑대 전쟁군주,호드를 위하여
+1115,VO_CS2_226_Death_03,오리지널,서리늑대 전쟁군주,죽음
+1116,VO_CS2_226_Play_01,오리지널,서리늑대 전쟁군주,서리도끼 부족이 간다
+1117,VO_CS2_227_Attack_02,오리지널,투자개발회사 용병,잘 있었어
+1118,VO_CS2_227_Death_03,오리지널,투자개발회사 용병,안좋아 안좋다구 아파
+1119,VO_CS2_227_Play_01,오리지널,투자개발회사 용병,농담하는거지
+1120,VO_CS2_235_Attack_02,오리지널,북녘골 성직자,그러죠
+1121,VO_CS2_235_Death_03,오리지널,북녘골 성직자,죽음
+1122,VO_CS2_235_Play_01,오리지널,북녘골 성직자,다친 사람 있나요
 1123,VO_Curator_Male_ArcaneGolem_CuratorArcaneGolem_01,한여름 밤의 카라잔,전시 관리인,본 관리인과 상당부분 닮은 개체입니다
 1124,VO_Curator_Male_ArcaneGolem_CuratorBeasts_01,한여름 밤의 카라잔,전시 관리인,본 관리인은 야수에 알레르기가 있습니다
 1125,VO_Curator_Male_ArcaneGolem_CuratorDeath_04,한여름 밤의 카라잔,전시 관리인,관리인 작동을 중단합니다
@@ -1168,167 +1168,167 @@ id,filename,expansion,cardname,txt
 1167,VO_ELISE_WING_1_OPEN_06,탐험가 연맹,엘리스 스타시커,지팡이의 첫번째 조각은 오르시스 사원에 있어요 리노가 이미 사원 안에 들어가 있죠 당신의 도움이 필요해요
 1168,VO_ELISE_WING_3_OPEN_07,탐험가 연맹,엘리스 스타시커,지팡이의 세번째 조각인 해일의 진주는 가시덤불 밀림에 있어요 핀리 경이 이미 도착했을 건데 최근에 연락이 안되더라구요
 1169,VO_ELISE_WING_4_OPEN_08,탐험가 연맹,엘리스 스타시커,라팜이 지팡이를 훔쳐 박물관을 장악했어요 전시물에 생명을 불어넣어 조종하면서 유물들을 훔치고 있어요
-1170,VO_EX1_001_Attack_02,오리지널,,빛을 상대해라
-1171,VO_EX1_001_Death_03,오리지널,,죽음
-1172,VO_EX1_001_Play_01,오리지널,,빛의 이름으로
-1173,VO_EX1_002_Attack_02,오리지널,,나는 무적이다
-1174,VO_EX1_002_Death_03,오리지널,,죽음
-1175,VO_EX1_002_Play_01,오리지널,,아무도 보내지 않겠다
-1176,VO_EX1_004_Attack_02,오리지널,,또 훈련인가요
-1177,VO_EX1_004_Death_03,오리지널,,죽음
-1178,VO_EX1_004_Play_01,오리지널,,축복이 필요하신가요
-1179,VO_EX1_005_Attack_02,오리지널,,잡았다
-1180,VO_EX1_005_Death_03,오리지널,,죽음
-1181,VO_EX1_005_Play_01,오리지널,,사냥감 포착 완료
-1182,VO_EX1_007_Attack_02,오리지널,,고통 그래 그래
-1183,VO_EX1_007_Death_03,오리지널,,그래
-1184,VO_EX1_007_Play_01,오리지널,,고통이 나를 부른다
-1185,VO_EX1_008_Attack_02,오리지널,,난 싸우리라
-1186,VO_EX1_008_Death_03,오리지널,,죽음
-1187,VO_EX1_008_Play_01,오리지널,,빛이 나를 보호하신다
-1188,VO_EX1_010_Attack_02,오리지널,,살상의 시작이다
-1189,VO_EX1_010_Death_03,오리지널,,죽음
-1190,VO_EX1_010_Play_01,오리지널,,피냄새가 나는군
-1191,VO_EX1_011_Attack_02,오리지널,,아
-1192,VO_EX1_011_Death_03,오리지널,,죽음
-1193,VO_EX1_011_Play_01,오리지널,,누가 의술사를 찾았지
-1194,VO_EX1_012_Attack_02,오리지널,,영혼 영혼이 더 필요해
-1195,VO_EX1_012_Death_03,오리지널,,죽음
-1196,VO_EX1_012_Play_01,오리지널,,우리는 복수에 굶주려있다
-1197,VO_EX1_015_Attack_02,오리지널,,자신있다면야
-1198,VO_EX1_015_Death_03,오리지널,,죽음
-1199,VO_EX1_015_Play_01,오리지널,,내 발명품이 마음에 들길
-1200,VO_EX1_019_Attack_02,오리지널,,앞으로 돌격
-1201,VO_EX1_019_Death_03,오리지널,,죽음
-1202,VO_EX1_019_Play_01,오리지널,,태양샘을 정화해야 해요
-1203,VO_EX1_020_Attack_02,오리지널,,함께 하거나 죽어라
-1204,VO_EX1_020_Death_03,오리지널,,죽음
-1205,VO_EX1_020_Play_01,오리지널,,십자군을 위하여
-1206,VO_EX1_021_Attack_02,오리지널,,네 최후가 보이는구나
-1207,VO_EX1_021_Death_03,오리지널,,죽음
-1208,VO_EX1_021_Play_01,오리지널,,미래가 무엇을 품고 있을까
-1209,VO_EX1_023_Attack_02,오리지널,,쿠엘탈라스를 기억하라
-1210,VO_EX1_023_Death_03,오리지널,,죽음
-1211,VO_EX1_023_Play_01,오리지널,,실버문은 지지 않는다
-1212,VO_EX1_025_Attack_02,오리지널,,이얏
-1213,VO_EX1_025_Death_03,오리지널,,죽음
-1214,VO_EX1_025_Play_01,오리지널,,나랑 앙앙이 나가요
-1215,VO_EX1_029_Attack_02,오리지널,,꼭 안아줘
-1216,VO_EX1_029_Death_03,오리지널,,죽음
-1217,VO_EX1_029_Play_01,오리지널,,속이 메스꺼워
-1218,VO_EX1_032_Attack_02,오리지널,,정의가 승리합니다
-1219,VO_EX1_032_Death_03,오리지널,,죽음
-1220,VO_EX1_032_Play_01,오리지널,,진실이 제 방패입니다
-1221,VO_EX1_044_Attack_02,오리지널,,퀘스트를 받았소
-1222,VO_EX1_044_Death_03,오리지널,,퀘스트 실패
-1223,VO_EX1_044_Play_01,오리지널,,퀘스트를 주시오
-1224,VO_EX1_046_Attack_02,오리지널,,끝내주지
-1225,VO_EX1_046_Death_03,오리지널,,죽음
-1226,VO_EX1_046_Play_01,오리지널,,그것도 무기라고
-1227,VO_EX1_048_Attack_02,오리지널,,죽어라 마법사
-1228,VO_EX1_048_Death_03,오리지널,,죽음
-1229,VO_EX1_048_Play_01,오리지널,,네  마법은 소용없다
-1230,VO_EX1_049_Attack_02,오리지널,,도전을 받아주지
-1231,VO_EX1_049_Death_03,오리지널,,죽음
-1232,VO_EX1_049_Play_01,오리지널,,한 잔 하지 친구
-1233,VO_EX1_055_Attack_02,오리지널,,이 느낌이야
-1234,VO_EX1_055_Death_03,오리지널,,죽음
-1235,VO_EX1_055_Play_01,오리지널,,마나 맛이 난다
-1236,VO_EX1_057_Attack_02,오리지널,,한 잔 더
-1237,VO_EX1_057_Death_03,오리지널,,죽음
-1238,VO_EX1_057_Play_01,오리지널,,자네 장부에 달아두겠네
-1239,VO_EX1_058_Attack_02,오리지널,,내가 맡지
-1240,VO_EX1_058_Death_03,오리지널,,죽음
-1241,VO_EX1_058_Play_01,오리지널,,방어태세 완료
-1242,VO_EX1_059_Attack_02,오리지널,,재촉하지 마시고
-1243,VO_EX1_059_Death_03,오리지널,,죽음
-1244,VO_EX1_059_Play_01,오리지널,,새 물약이 맘에 들겁니다
-1245,VO_EX1_067_Attack_02,오리지널,,반드시 승리하리라
-1246,VO_EX1_067_Death_03,오리지널,,죽음
-1247,VO_EX1_067_Play_01,오리지널,,노스랜드로
-1248,VO_EX1_076_Attack_02,오리지널,,통과합니다
-1249,VO_EX1_076_Death_03,오리지널,,죽음
-1250,VO_EX1_076_Play_01,오리지널,,소환문 준비
-1251,VO_EX1_080_Attack_02,오리지널,,웃음
-1252,VO_EX1_080_Death_03,오리지널,,죽음
-1253,VO_EX1_080_Play_01,오리지널,,입 꼭 다물게요
-1254,VO_EX1_082_Attack_02,오리지널,,그래 알았다구
-1255,VO_EX1_082_Death_03,오리지널,,죽음
-1256,VO_EX1_082_Play_01,오리지널,,날려버리고 싶은거 있어
-1257,VO_EX1_083_Attack_02,오리지널,,놈리건을 위하여
-1258,VO_EX1_083_Death_03,오리지널,,죽음
-1259,VO_EX1_083_Play_01,오리지널,,이번엔 성공할거야
-1260,VO_EX1_084_Attack_02,오리지널,,전쟁 노래를 위하여
-1261,VO_EX1_084_Death_03,오리지널,,죽음
-1262,VO_EX1_084_Play_01,오리지널,,돌격 앞으로
-1263,VO_EX1_085_Attack_02,오리지널,,너 누구야
-1264,VO_EX1_085_Death_03,오리지널,,죽음
-1265,VO_EX1_085_Play_01,오리지널,,TC130 정신분열기 작동
-1266,VO_EX1_091_Attack_02,오리지널,,복종해라
-1267,VO_EX1_091_Death_03,오리지널,,안돼
-1268,VO_EX1_091_Play_01,오리지널,,네 마음으로 장난을 쳐볼까
-1269,VO_EX1_093_Attack_02,오리지널,,틈을 노려라
-1270,VO_EX1_093_Death_03,오리지널,,죽음
-1271,VO_EX1_093_Play_01,오리지널,,내 방패를 아르거스에
-1272,VO_EX1_095_Attack_02,오리지널,,값을 치를 시간이다
-1273,VO_EX1_095_Death_03,오리지널,,죽음
-1274,VO_EX1_095_Play_01,오리지널,,나보다 싼 곳 있으면 나오라 그래
-1275,VO_EX1_096_Attack_02,오리지널,,이봐 그건 내꺼라구
-1276,VO_EX1_096_Death_03,오리지널,,죽음
-1277,VO_EX1_096_Play_01,오리지널,,입찰해도 될까
-1278,VO_EX1_097_Attack_02,오리지널,,찢고 뜯는다
-1279,VO_EX1_097_Death_03,오리지널,,죽음
-1280,VO_EX1_097_Play_01,오리지널,,무엇을 해야하나
-1281,VO_EX1_110_Alternate_04,오리지널,,가로쉬 넌 호드를 이끌 재목이 아니야
-1282,VO_EX1_110_Attack_02,오리지널,,명예를 위해
-1283,VO_EX1_110_Death_03,오리지널,,죽음
-1284,VO_EX1_110_Play_01,오리지널,,힘을 내게 젊은이 대지모신이 자네 곁에 있네
-1285,VO_EX1_110t_Attack_02,오리지널,,이쉬네 알로 포라
-1286,VO_EX1_110t_Death_03,오리지널,,죽음
-1287,VO_EX1_110t_Play_01,오리지널,,대지모신께서 우릴 굽어보시네
-1288,VO_EX1_112_Attack_02,오리지널,,가만두지 않을거야
-1289,VO_EX1_112_Death_03,오리지널,,죽음
-1290,VO_EX1_112_Play_01,오리지널,,내 강력한 발명품을 보여주지
-1291,VO_EX1_116_Attack_02,오리지널,,시간 없어 가자고
-1292,VO_EX1_116_Death_03,오리지널,,그래도 나한텐 닭고기가 있다고
-1293,VO_EX1_116_Play_01,오리지널,,리로이 젠킨스
-1294,VO_EX1_130a_Attack_02,오리지널,,살았다
-1295,VO_EX1_130a_Death_03,오리지널,,죽음
-1296,VO_EX1_130a_Play_01,오리지널,,엎드려
-1297,VO_EX1_131_Attack_02,오리지널,,방금 날 째려본거냐
-1298,VO_EX1_131_Death_03,오리지널,,죽음
-1299,VO_EX1_131_Play_01,오리지널,,여긴 우리 구역이다
-1300,VO_EX1_131t_Attack_02,오리지널,,웃음
-1301,VO_EX1_131t_Death_03,오리지널,,죽음
-1302,VO_EX1_131t_Play_01,오리지널,,그래 당장 꺼져
-1303,VO_EX1_134_Attack_02,오리지널,,어이 깜깜한거 좋아하나
-1304,VO_EX1_134_Death_03,오리지널,,죽음
-1305,VO_EX1_134_Play_01,오리지널,,이 친구 풋내기군
-1306,VO_EX1_165_Attack_02,오리지널,,제 힘은 당신의 것입니다
-1307,VO_EX1_165_Death_03,오리지널,,죽음
-1308,VO_EX1_165_Play_01,오리지널,,어디를 공격할까요
-1309,VO_EX1_166_Attack_02,오리지널,,자연의 분노를 느껴라
-1310,VO_EX1_166_Death_03,오리지널,,죽음
-1311,VO_EX1_166_Play_01,오리지널,,이 땅을 지켜야 하오
-1312,VO_EX1_298_Attack_02,오리지널,,아직 때가 아니다
-1313,VO_EX1_298_Death_04,오리지널,,죽음
-1314,VO_EX1_298_Play_01,오리지널,,불의 세례를 받아라
-1315,VO_EX1_298_Trigger_03,오리지널,,죽어라 벌레 같은 놈들
-1316,VO_EX1_301_Attack_02,오리지널,,직접 싸우기는 싫은건가
-1317,VO_EX1_301_Death_03,오리지널,,죽음
-1318,VO_EX1_301_Play_01,오리지널,,네 죽음을 즐겁게 지켜봐주마
-1319,VO_EX1_306_Attack_02,오리지널,,주인님께서 원하신다면
-1320,VO_EX1_306_Death_03,오리지널,,죽음
-1321,VO_EX1_306_Play_01,오리지널,,자기 무슨 문제 있는거야
-1322,VO_EX1_310_Attack_02,오리지널,,까짓것 해주지
-1323,VO_EX1_310_Death_03,오리지널,,죽음
-1324,VO_EX1_310_Play_01,오리지널,,누가 감히 날 부르는가
-1325,VO_EX1_313_Attack_02,오리지널,,벌레야 사라져라
-1326,VO_EX1_313_Death_03,오리지널,,죽음
-1327,VO_EX1_313_Play_01,오리지널,,학살을 시작하지
-1328,VO_EX1_319_Attack_02,오리지널,,정말 이래야만 하겠소
-1329,VO_EX1_319_Death_03,오리지널,,죽음
-1330,VO_EX1_319_Play_01,오리지널,,그래 바로 처리해주지
+1170,VO_EX1_001_Attack_02,오리지널,빛의 감시자,빛을 상대해라
+1171,VO_EX1_001_Death_03,오리지널,빛의 감시자,죽음
+1172,VO_EX1_001_Play_01,오리지널,빛의 감시자,빛의 이름으로
+1173,VO_EX1_002_Attack_02,오리지널,흑기사,나는 무적이다
+1174,VO_EX1_002_Death_03,오리지널,흑기사,죽음
+1175,VO_EX1_002_Play_01,오리지널,흑기사,아무도 보내지 않겠다
+1176,VO_EX1_004_Attack_02,오리지널,젊은 여사제,또 훈련인가요
+1177,VO_EX1_004_Death_03,오리지널,젊은 여사제,죽음
+1178,VO_EX1_004_Play_01,오리지널,젊은 여사제,축복이 필요하신가요
+1179,VO_EX1_005_Attack_02,오리지널,나 이런 사냥꾼이야,잡았다
+1180,VO_EX1_005_Death_03,오리지널,나 이런 사냥꾼이야,죽음
+1181,VO_EX1_005_Play_01,오리지널,나 이런 사냥꾼이야,사냥감 포착 완료
+1182,VO_EX1_007_Attack_02,오리지널,고통의 수행사제,고통 그래 그래
+1183,VO_EX1_007_Death_03,오리지널,고통의 수행사제,그래
+1184,VO_EX1_007_Play_01,오리지널,고통의 수행사제,고통이 나를 부른다
+1185,VO_EX1_008_Attack_02,오리지널,은빛십자군 종자,난 싸우리라
+1186,VO_EX1_008_Death_03,오리지널,은빛십자군 종자,죽음
+1187,VO_EX1_008_Play_01,오리지널,은빛십자군 종자,빛이 나를 보호하신다
+1188,VO_EX1_010_Attack_02,오리지널,늑대인간 침투요원,살상의 시작이다
+1189,VO_EX1_010_Death_03,오리지널,늑대인간 침투요원,죽음
+1190,VO_EX1_010_Play_01,오리지널,늑대인간 침투요원,피냄새가 나는군
+1191,VO_EX1_011_Attack_02,오리지널,부두교 의술사,아
+1192,VO_EX1_011_Death_03,오리지널,부두교 의술사,죽음
+1193,VO_EX1_011_Play_01,오리지널,부두교 의술사,누가 의술사를 찾았지
+1194,VO_EX1_012_Attack_02,오리지널,혈법사 탈노스,영혼 영혼이 더 필요해
+1195,VO_EX1_012_Death_03,오리지널,혈법사 탈노스,죽음
+1196,VO_EX1_012_Play_01,오리지널,혈법사 탈노스,우리는 복수에 굶주려있다
+1197,VO_EX1_015_Attack_02,오리지널,풋내기 기술자,자신있다면야
+1198,VO_EX1_015_Death_03,오리지널,풋내기 기술자,죽음
+1199,VO_EX1_015_Play_01,오리지널,풋내기 기술자,내 발명품이 마음에 들길
+1200,VO_EX1_019_Attack_02,오리지널,무너진 태양 성직자,앞으로 돌격
+1201,VO_EX1_019_Death_03,오리지널,무너진 태양 성직자,죽음
+1202,VO_EX1_019_Play_01,오리지널,무너진 태양 성직자,태양샘을 정화해야 해요
+1203,VO_EX1_020_Attack_02,오리지널,붉은십자군 성전사,함께 하거나 죽어라
+1204,VO_EX1_020_Death_03,오리지널,붉은십자군 성전사,죽음
+1205,VO_EX1_020_Play_01,오리지널,붉은십자군 성전사,십자군을 위하여
+1206,VO_EX1_021_Attack_02,오리지널,스랄마 선견자,네 최후가 보이는구나
+1207,VO_EX1_021_Death_03,오리지널,스랄마 선견자,죽음
+1208,VO_EX1_021_Play_01,오리지널,스랄마 선견자,미래가 무엇을 품고 있을까
+1209,VO_EX1_023_Attack_02,오리지널,실버문 수호병,쿠엘탈라스를 기억하라
+1210,VO_EX1_023_Death_03,오리지널,실버문 수호병,죽음
+1211,VO_EX1_023_Play_01,오리지널,실버문 수호병,실버문은 지지 않는다
+1212,VO_EX1_025_Attack_02,오리지널,기계용 정비사,이얏
+1213,VO_EX1_025_Death_03,오리지널,기계용 정비사,죽음
+1214,VO_EX1_025_Play_01,오리지널,기계용 정비사,나랑 앙앙이 나가요
+1215,VO_EX1_029_Attack_02,오리지널,오염된 노움,꼭 안아줘
+1216,VO_EX1_029_Death_03,오리지널,오염된 노움,죽음
+1217,VO_EX1_029_Play_01,오리지널,오염된 노움,속이 메스꺼워
+1218,VO_EX1_032_Attack_02,오리지널,태양길잡이,정의가 승리합니다
+1219,VO_EX1_032_Death_03,오리지널,태양길잡이,죽음
+1220,VO_EX1_032_Play_01,오리지널,태양길잡이,진실이 제 방패입니다
+1221,VO_EX1_044_Attack_02,오리지널,퀘스트 중인 모험가,퀘스트를 받았소
+1222,VO_EX1_044_Death_03,오리지널,퀘스트 중인 모험가,퀘스트 실패
+1223,VO_EX1_044_Play_01,오리지널,퀘스트 중인 모험가,퀘스트를 주시오
+1224,VO_EX1_046_Attack_02,오리지널,검은무쇠 드워프,끝내주지
+1225,VO_EX1_046_Death_03,오리지널,검은무쇠 드워프,죽음
+1226,VO_EX1_046_Play_01,오리지널,검은무쇠 드워프,그것도 무기라고
+1227,VO_EX1_048_Attack_02,오리지널,주문파괴자,죽어라 마법사
+1228,VO_EX1_048_Death_03,오리지널,주문파괴자,죽음
+1229,VO_EX1_048_Play_01,오리지널,주문파괴자,네  마법은 소용없다
+1230,VO_EX1_049_Attack_02,오리지널,젊은 양조사,도전을 받아주지
+1231,VO_EX1_049_Death_03,오리지널,젊은 양조사,죽음
+1232,VO_EX1_049_Play_01,오리지널,젊은 양조사,한 잔 하지 친구
+1233,VO_EX1_055_Attack_02,오리지널,마나 중독자,이 느낌이야
+1234,VO_EX1_055_Death_03,오리지널,마나 중독자,죽음
+1235,VO_EX1_055_Play_01,오리지널,마나 중독자,마나 맛이 난다
+1236,VO_EX1_057_Attack_02,오리지널,고대의 양조사,한 잔 더
+1237,VO_EX1_057_Death_03,오리지널,고대의 양조사,죽음
+1238,VO_EX1_057_Play_01,오리지널,고대의 양조사,자네 장부에 달아두겠네
+1239,VO_EX1_058_Attack_02,오리지널,성난태양 파수병,내가 맡지
+1240,VO_EX1_058_Death_03,오리지널,성난태양 파수병,죽음
+1241,VO_EX1_058_Play_01,오리지널,성난태양 파수병,방어태세 완료
+1242,VO_EX1_059_Attack_02,오리지널,광기의 연금술사,재촉하지 마시고
+1243,VO_EX1_059_Death_03,오리지널,광기의 연금술사,죽음
+1244,VO_EX1_059_Play_01,오리지널,광기의 연금술사,새 물약이 맘에 들겁니다
+1245,VO_EX1_067_Attack_02,오리지널,은빛십자군 부대장,반드시 승리하리라
+1246,VO_EX1_067_Death_03,오리지널,은빛십자군 부대장,죽음
+1247,VO_EX1_067_Play_01,오리지널,은빛십자군 부대장,노스랜드로
+1248,VO_EX1_076_Attack_02,오리지널,자그마한 소환사,통과합니다
+1249,VO_EX1_076_Death_03,오리지널,자그마한 소환사,죽음
+1250,VO_EX1_076_Play_01,오리지널,자그마한 소환사,소환문 준비
+1251,VO_EX1_080_Attack_02,오리지널,비밀지기,웃음
+1252,VO_EX1_080_Death_03,오리지널,비밀지기,죽음
+1253,VO_EX1_080_Play_01,오리지널,비밀지기,입 꼭 다물게요
+1254,VO_EX1_082_Attack_02,오리지널,정신나간 폭격수,그래 알았다구
+1255,VO_EX1_082_Death_03,오리지널,정신나간 폭격수,죽음
+1256,VO_EX1_082_Play_01,오리지널,정신나간 폭격수,날려버리고 싶은거 있어
+1257,VO_EX1_083_Attack_02,오리지널,수석땜장이 오버스파크,놈리건을 위하여
+1258,VO_EX1_083_Death_03,오리지널,수석땜장이 오버스파크,죽음
+1259,VO_EX1_083_Play_01,오리지널,수석땜장이 오버스파크,이번엔 성공할거야
+1260,VO_EX1_084_Attack_02,오리지널,전쟁노래 사령관,전쟁 노래를 위하여
+1261,VO_EX1_084_Death_03,오리지널,전쟁노래 사령관,죽음
+1262,VO_EX1_084_Play_01,오리지널,전쟁노래 사령관,돌격 앞으로
+1263,VO_EX1_085_Attack_02,오리지널,정신 지배 기술자,너 누구야
+1264,VO_EX1_085_Death_03,오리지널,정신 지배 기술자,죽음
+1265,VO_EX1_085_Play_01,오리지널,정신 지배 기술자,TC130 정신분열기 작동
+1266,VO_EX1_091_Attack_02,오리지널,비밀결사단 어둠사제,복종해라
+1267,VO_EX1_091_Death_03,오리지널,비밀결사단 어둠사제,안돼
+1268,VO_EX1_091_Play_01,오리지널,비밀결사단 어둠사제,네 마음으로 장난을 쳐볼까
+1269,VO_EX1_093_Attack_02,오리지널,아르거스의 수호자,틈을 노려라
+1270,VO_EX1_093_Death_03,오리지널,아르거스의 수호자,죽음
+1271,VO_EX1_093_Play_01,오리지널,아르거스의 수호자,내 방패를 아르거스에
+1272,VO_EX1_095_Attack_02,오리지널,가젯잔 경매인,값을 치를 시간이다
+1273,VO_EX1_095_Death_03,오리지널,가젯잔 경매인,죽음
+1274,VO_EX1_095_Play_01,오리지널,가젯잔 경매인,나보다 싼 곳 있으면 나오라 그래
+1275,VO_EX1_096_Attack_02,오리지널,전리품 수집가,이봐 그건 내꺼라구
+1276,VO_EX1_096_Death_03,오리지널,전리품 수집가,죽음
+1277,VO_EX1_096_Play_01,오리지널,전리품 수집가,입찰해도 될까
+1278,VO_EX1_097_Attack_02,오리지널,누더기골렘,찢고 뜯는다
+1279,VO_EX1_097_Death_03,오리지널,누더기골렘,죽음
+1280,VO_EX1_097_Play_01,오리지널,누더기골렘,무엇을 해야하나
+1281,VO_EX1_110_Alternate_04,오리지널,케른 블러드후프,가로쉬 넌 호드를 이끌 재목이 아니야
+1282,VO_EX1_110_Attack_02,오리지널,케른 블러드후프,명예를 위해
+1283,VO_EX1_110_Death_03,오리지널,케른 블러드후프,죽음
+1284,VO_EX1_110_Play_01,오리지널,케른 블러드후프,힘을 내게 젊은이 대지모신이 자네 곁에 있네
+1285,VO_EX1_110t_Attack_02,오리지널,바인 블러드후프,이쉬네 알로 포라
+1286,VO_EX1_110t_Death_03,오리지널,바인 블러드후프,죽음
+1287,VO_EX1_110t_Play_01,오리지널,바인 블러드후프,대지모신께서 우릴 굽어보시네
+1288,VO_EX1_112_Attack_02,오리지널,겔빈 멕카토크,가만두지 않을거야
+1289,VO_EX1_112_Death_03,오리지널,겔빈 멕카토크,죽음
+1290,VO_EX1_112_Play_01,오리지널,겔빈 멕카토크,내 강력한 발명품을 보여주지
+1291,VO_EX1_116_Attack_02,오리지널,리로이 젠킨스,시간 없어 가자고
+1292,VO_EX1_116_Death_03,오리지널,리로이 젠킨스,그래도 나한텐 닭고기가 있다고
+1293,VO_EX1_116_Play_01,오리지널,리로이 젠킨스,리로이 젠킨스
+1294,VO_EX1_130a_Attack_02,오리지널,수호자,살았다
+1295,VO_EX1_130a_Death_03,오리지널,수호자,죽음
+1296,VO_EX1_130a_Play_01,오리지널,수호자,엎드려
+1297,VO_EX1_131_Attack_02,오리지널,데피아즈단 두목,방금 날 째려본거냐
+1298,VO_EX1_131_Death_03,오리지널,데피아즈단 두목,죽음
+1299,VO_EX1_131_Play_01,오리지널,데피아즈단 두목,여긴 우리 구역이다
+1300,VO_EX1_131t_Attack_02,오리지널,데피아즈단 무법자,웃음
+1301,VO_EX1_131t_Death_03,오리지널,데피아즈단 무법자,죽음
+1302,VO_EX1_131t_Play_01,오리지널,데피아즈단 무법자,그래 당장 꺼져
+1303,VO_EX1_134_Attack_02,오리지널,SI7 요원,어이 깜깜한거 좋아하나
+1304,VO_EX1_134_Death_03,오리지널,SI7 요원,죽음
+1305,VO_EX1_134_Play_01,오리지널,SI7 요원,이 친구 풋내기군
+1306,VO_EX1_165_Attack_02,오리지널,발톱의 드루이드,제 힘은 당신의 것입니다
+1307,VO_EX1_165_Death_03,오리지널,발톱의 드루이드,죽음
+1308,VO_EX1_165_Play_01,오리지널,발톱의 드루이드,어디를 공격할까요
+1309,VO_EX1_166_Attack_02,오리지널,숲의 수호자,자연의 분노를 느껴라
+1310,VO_EX1_166_Death_03,오리지널,숲의 수호자,죽음
+1311,VO_EX1_166_Play_01,오리지널,숲의 수호자,이 땅을 지켜야 하오
+1312,VO_EX1_298_Attack_02,오리지널,불의 군주 라그나로스,아직 때가 아니다
+1313,VO_EX1_298_Death_04,오리지널,불의 군주 라그나로스,죽음
+1314,VO_EX1_298_Play_01,오리지널,불의 군주 라그나로스,불의 세례를 받아라
+1315,VO_EX1_298_Trigger_03,오리지널,불의 군주 라그나로스,죽어라 벌레 같은 놈들
+1316,VO_EX1_301_Attack_02,오리지널,지옥수호병,직접 싸우기는 싫은건가
+1317,VO_EX1_301_Death_03,오리지널,지옥수호병,죽음
+1318,VO_EX1_301_Play_01,오리지널,지옥수호병,네 죽음을 즐겁게 지켜봐주마
+1319,VO_EX1_306_Attack_02,오리지널,서큐버스,주인님께서 원하신다면
+1320,VO_EX1_306_Death_03,오리지널,서큐버스,죽음
+1321,VO_EX1_306_Play_01,오리지널,서큐버스,자기 무슨 문제 있는거야
+1322,VO_EX1_310_Attack_02,오리지널,파멸수호병,까짓것 해주지
+1323,VO_EX1_310_Death_03,오리지널,파멸수호병,죽음
+1324,VO_EX1_310_Play_01,오리지널,파멸수호병,누가 감히 날 부르는가
+1325,VO_EX1_313_Attack_02,오리지널,지옥의 군주,벌레야 사라져라
+1326,VO_EX1_313_Death_03,오리지널,지옥의 군주,죽음
+1327,VO_EX1_313_Play_01,오리지널,지옥의 군주,학살을 시작하지
+1328,VO_EX1_319_Attack_02,오리지널,화염 임프,정말 이래야만 하겠소
+1329,VO_EX1_319_Death_03,오리지널,화염 임프,죽음
+1330,VO_EX1_319_Play_01,오리지널,화염 임프,그래 바로 처리해주지
 1331,VO_EX1_323_Attack_02,오리지널,,웃음
 1332,VO_EX1_323_Death_03,오리지널,,죽음
 1333,VO_EX1_323_FIZZLEBANG_01,오리지널,,보이지도 않는 노움 주제에 그렇게 까불더니 무덤을 파는구나
@@ -2419,8 +2419,8 @@ id,filename,expansion,cardname,txt
 2418,VO_INNKEEPER_VAELASTRASZ_17,공통,여관주인,밸라스트라즈
 2419,VO_INNKEEPER_WELCOME5_20,공통,여관주인,저희 여관에 오신걸 환영합니다
 2420,VO_INNKEEPER_ZINAAR_24,공통,여관주인,지나르
-2421,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,,어설픈 공작 같으니 자락서스처럼 가창력을 기르란 말이다
-2422,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_02,한여름 밤의 카라잔,,우린 탐험가 연맹이다 함께 할 자 어서 오라
+2421,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,군주 자락서스,어설픈 공작 같으니 자락서스처럼 가창력을 기르란 말이다
+2422,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_02,한여름 밤의 카라잔,군주 자락서스,우린 탐험가 연맹이다 함께 할 자 어서 오라
 2423,VO_Jaxus_Summon,오리지널,군주 자락서스,지옥불을 받아라
 2424,VO_JobsDone,공통,턴 종료,Job's done
 2425,VO_Julianne_Female_Human_JulianneDeath_01,한여름 밤의 카라잔,,로밀로 당신께 축배를
@@ -2877,25 +2877,25 @@ id,filename,expansion,cardname,txt
 2876,VO_LOEA16_1_TURN1_02,탐험가 연맹,,나는 무적이다 티탄의 힘이 내 손안에 있다
 2877,VO_LOEA16_RAFAAM2_PREGAME,탐험가 연맹,,그만 너따위는 시초의 지팡이의 힘을 당해낼 수 없다
 2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,불명,불명,너의 행동은 그냥 넘길 수가 없다
-2879,VO_Malchezaar_Male_Demon_Brawl_06,한여름 밤의 카라잔,,물론 이길거라는 생각은 하지 않았겠지
-2880,VO_Malchezaar_Male_Demon_EmoteParty_01,한여름 밤의 카라잔,,말체자르도 파티를 좋아한다
-2881,VO_Malchezaar_Male_Demon_FinalAltOpening_01,한여름 밤의 카라잔,,바보 같으니
-2882,VO_Malchezaar_Male_Demon_FinalMalchezaarDeath_01,한여름 밤의 카라잔,,안돼 안돼 이럴 수가
-2883,VO_Malchezaar_Male_Demon_FinalMalchezaarEmoteResponse_01,한여름 밤의 카라잔,,제 무덤을 파고 있구나
-2884,VO_Malchezaar_Male_Demon_FinalMalchezaarHeroPower_01,한여름 밤의 카라잔,,이 말체자르 님은 혼자가 아니시다 너는 나의 군대와 맞서야한다
-2885,VO_Malchezaar_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,,너 그 초대장은 내 것이다
-2886,VO_Malchezaar_Male_Demon_FinalMalchezaarMedivhSkin_01,한여름 밤의 카라잔,,변장을 한 것이냐 나도 못할건 없다만
-2887,VO_Malchezaar_Male_Demon_FInalMalchezaarSacrificialPact_03,한여름 밤의 카라잔,,에레다르의 공작에게 그런건 통하지 않는다
-2888,VO_Malchezaar_Male_Demon_FinalMalchezaarTurn1_01,한여름 밤의 카라잔,,메디브는 가히 강력하지만 네놈은 어찌 감히 이렇게 압도적인 힘에 맞서기를 꿈꾸느냐
-2889,VO_Malchezaar_Male_Demon_FinalMalchezaarTurn7_01,한여름 밤의 카라잔,,음악이 들려온다 메디바도 파티를 시작해라 오늘 밤의 주인공은 바로 나다
-2890,VO_Malchezaar_Male_Demon_FinalThirdSequence_01,한여름 밤의 카라잔,,좋아 카라잔이군 시간에 딱 맞춰 도착했어
-2891,VO_Malchezaar_Male_Demon_FinalThirdSequence_04,한여름 밤의 카라잔,,비켜라 미천한 것아
-2892,VO_Malchezaar_Male_Demon_PrologueEmoteResponse_01,한여름 밤의 카라잔,,바보 같으니
-2893,VO_Malchezaar_Male_Demon_PrologueHeroPower_01,한여름 밤의 카라잔,,모든 차원과 실체가 나를 향해 열려있노라
-2894,VO_Malchezaar_Male_Demon_PrologueOpen_01,한여름 밤의 카라잔,,왜 나를 부르지 않았느냐
-2895,VO_Malchezaar_Male_Demon_PrologueTurn11_02,한여름 밤의 카라잔,,자락서스를 초대했다고 저 약골을
-2896,VO_Malchezaar_Male_Demon_PrologueTurn1_04,한여름 밤의 카라잔,,나는 에레다르의 공작이거늘 날 초대하지 않다니
-2897,VO_Malchezaar_Male_Demon_PrologueWin_01,한여름 밤의 카라잔,,네놈까지 데려가겠다
+2879,VO_Malchezaar_Male_Demon_Brawl_06,한여름 밤의 카라잔,공작 말체자르,물론 이길거라는 생각은 하지 않았겠지
+2880,VO_Malchezaar_Male_Demon_EmoteParty_01,한여름 밤의 카라잔,공작 말체자르,말체자르도 파티를 좋아한다
+2881,VO_Malchezaar_Male_Demon_FinalAltOpening_01,한여름 밤의 카라잔,공작 말체자르,바보 같으니
+2882,VO_Malchezaar_Male_Demon_FinalMalchezaarDeath_01,한여름 밤의 카라잔,공작 말체자르,안돼 안돼 이럴 수가
+2883,VO_Malchezaar_Male_Demon_FinalMalchezaarEmoteResponse_01,한여름 밤의 카라잔,공작 말체자르,제 무덤을 파고 있구나
+2884,VO_Malchezaar_Male_Demon_FinalMalchezaarHeroPower_01,한여름 밤의 카라잔,공작 말체자르,이 말체자르 님은 혼자가 아니시다 너는 나의 군대와 맞서야한다
+2885,VO_Malchezaar_Male_Demon_FinalMalchezaarJaraxxus_01,한여름 밤의 카라잔,공작 말체자르,너 그 초대장은 내 것이다
+2886,VO_Malchezaar_Male_Demon_FinalMalchezaarMedivhSkin_01,한여름 밤의 카라잔,공작 말체자르,변장을 한 것이냐 나도 못할건 없다만
+2887,VO_Malchezaar_Male_Demon_FInalMalchezaarSacrificialPact_03,한여름 밤의 카라잔,공작 말체자르,에레다르의 공작에게 그런건 통하지 않는다
+2888,VO_Malchezaar_Male_Demon_FinalMalchezaarTurn1_01,한여름 밤의 카라잔,공작 말체자르,메디브는 가히 강력하지만 네놈은 어찌 감히 이렇게 압도적인 힘에 맞서기를 꿈꾸느냐
+2889,VO_Malchezaar_Male_Demon_FinalMalchezaarTurn7_01,한여름 밤의 카라잔,공작 말체자르,음악이 들려온다 메디바도 파티를 시작해라 오늘 밤의 주인공은 바로 나다
+2890,VO_Malchezaar_Male_Demon_FinalThirdSequence_01,한여름 밤의 카라잔,공작 말체자르,좋아 카라잔이군 시간에 딱 맞춰 도착했어
+2891,VO_Malchezaar_Male_Demon_FinalThirdSequence_04,한여름 밤의 카라잔,공작 말체자르,비켜라 미천한 것아
+2892,VO_Malchezaar_Male_Demon_PrologueEmoteResponse_01,한여름 밤의 카라잔,공작 말체자르,바보 같으니
+2893,VO_Malchezaar_Male_Demon_PrologueHeroPower_01,한여름 밤의 카라잔,공작 말체자르,모든 차원과 실체가 나를 향해 열려있노라
+2894,VO_Malchezaar_Male_Demon_PrologueOpen_01,한여름 밤의 카라잔,공작 말체자르,왜 나를 부르지 않았느냐
+2895,VO_Malchezaar_Male_Demon_PrologueTurn11_02,한여름 밤의 카라잔,공작 말체자르,자락서스를 초대했다고 저 약골을
+2896,VO_Malchezaar_Male_Demon_PrologueTurn1_04,한여름 밤의 카라잔,공작 말체자르,나는 에레다르의 공작이거늘 날 초대하지 않다니
+2897,VO_Malchezaar_Male_Demon_PrologueWin_01,한여름 밤의 카라잔,공작 말체자르,네놈까지 데려가겠다
 2898,VO_Mediva_01_Female_Blood Elf_AranHeroPower_01,한여름 밤의 카라잔,,불타버려
 2899,VO_Mediva_01_Female_Blood Elf_AranSpell_04,한여름 밤의 카라잔,,추워
 2900,VO_Mediva_01_Female_Blood Elf_ChessEmoteOops_03,한여름 밤의 카라잔,,조심해
@@ -2935,101 +2935,101 @@ id,filename,expansion,cardname,txt
 2934,VO_Mediva_03_Male_Night Elf_PrologueTurn5_01,한여름 밤의 카라잔,,부르셨습니까
 2935,VO_Mediva_03_Male_Night Elf_PrologueTurn5_02,한여름 밤의 카라잔,,예
 2936,VO_Mediva_03_Male_Night Elf_PrologueTurn5_03,한여름 밤의 카라잔,,메디바 등장
-2937,VO_Medivh_Male_Human_EmoteGreetings_01,한여름 밤의 카라잔,,자넨 왜 여기 있는건가
-2938,VO_Medivh_Male_Human_EmoteOops_01,한여름 밤의 카라잔,,그게 네 계획이라고 정말 우습군
-2939,VO_Medivh_Male_Human_EmoteSorry_01,한여름 밤의 카라잔,,계산에 착오가 있었군
-2940,VO_Medivh_Male_Human_EmoteThanks_01,한여름 밤의 카라잔,,정말 친절하군
-2941,VO_Medivh_Male_Human_EmoteThreaten_01,한여름 밤의 카라잔,,처음부터 자네에겐 승산이 없었네
-2942,VO_Medivh_Male_Human_EmoteWellPlayed_01,한여름 밤의 카라잔,,좋은 시도였다
-2943,VO_Medivh_Male_Human_EmoteWow_01,한여름 밤의 카라잔,,정말 멋지군
-2944,VO_Medivh_Male_Human_FinalMalchezaarTurn5_01,한여름 밤의 카라잔,,훌륭하다 모로스 준비를 모두 마쳤구나
-2945,VO_Medivh_Male_Human_FinalMalchezaarWin_01,한여름 밤의 카라잔,,잘했네 시작해볼까 파티타임
-2946,VO_Medivh_Male_Human_FinalMedivhMedivhSkin_01,한여름 밤의 카라잔,,잠깐 자네가 나라고 미래의 나 말해주게 이 파티는 어땠나 정말 멋진 파티였을테지
-2947,VO_Medivh_Male_Human_FinalThirdSequence_01,한여름 밤의 카라잔,,오 아까 그 손님이시군 이 악마를 잠시 상대해줄 수 있겠나 난 파티를 주관해야해서 말이지
-2948,VO_Medivh_Male_Human_FinalThirdSequence_02,한여름 밤의 카라잔,,카드가 하나도 없다면 저 차원문들을 사용하도록 하게
-2949,VO_Medivh_Male_Human_FinalThirdSequence_03,한여름 밤의 카라잔,,이 지팡이를 사용하게 저 차원문들을 조종할 수 있을걸세 너무 험하게 다루지만 말게나
-2950,VO_Medivh_Male_Human_Intro_01,한여름 밤의 카라잔,,친애하는 자여 자네를 아제로스 제일의 파티에 초대하네
-2951,VO_Medivh_Male_Human_Intro_02,한여름 밤의 카라잔,,카라잔에서 나와 함께 음악과 마법을 마음껏 즐겨보세나
-2952,VO_Medivh_Male_Human_Intro_03,한여름 밤의 카라잔,,자네의 벗 메디브가
-2953,VO_Medivh_Male_Human_PrologueBossCoin_02,한여름 밤의 카라잔,,모로스 내 무도회장에 왜 악마가 있는거지
-2954,VO_Medivh_Male_Human_PrologueDeath_02,한여름 밤의 카라잔,,이럴 수가
-2955,VO_Medivh_Male_Human_PrologueHeroPower_01,한여름 밤의 카라잔,,하지만 이 파티는 열려있지 않지
-2956,VO_Medivh_Male_Human_PrologueOpen_01,한여름 밤의 카라잔,,또 자네인가
-2957,VO_Medivh_Male_Human_PrologueTurn11_01,한여름 밤의 카라잔,,무슨 소린가 저 자의 뛰어난 가창력을 모르나보군
-2958,VO_Medivh_Male_Human_PrologueTurn1_02,한여름 밤의 카라잔,,저번에는 지붕에 구멍을 내버렸으면서 참으로 뻔뻔하군
-2959,VO_Medivh_Male_Human_PrologueTurn3_02,한여름 밤의 카라잔,,모로스 체스 세트가 준비됐는지 확인해라 진짜 손님들이 곧 오실테니
-2960,VO_Medivh_Male_Human_PrologueTurn9_01,한여름 밤의 카라잔,,맞아 풍선 모로스 풍선을 잊고 있었어
-2961,VO_Medivh_Male_Human_PrologueWin_01,한여름 밤의 카라잔,,네가 있던 곳으로 돌아가라 악마야
-2962,VO_Medivh_Male_Human_Wing0Intro_01,한여름 밤의 카라잔,,마법이 깃든 식기 장엄한 오페라 그리고 박물관까지 오늘 밤은 잊을 수 없는 추억으로 가득할 걸세
-2963,VO_Mirror_Male_Mirror_MirrorDeath_01,한여름 밤의 카라잔,,야 이건 반칙이야 다시해 다시 하자구
-2964,VO_Mirror_Male_Mirror_MirrorEmoteResponse_01,한여름 밤의 카라잔,,뭐래니 하
-2965,VO_Mirror_Male_Mirror_MirrorFirstCard_01,한여름 밤의 카라잔,,오호 덱에 그 카드를 넣은거야
-2966,VO_Mirror_Male_Mirror_MirrorMedivhSkin_01,한여름 밤의 카라잔,,오 메디브 님 오늘도 역시 멋이 잉 잠깐 넌 메디브가 아니잖아
-2967,VO_Mirror_Male_Mirror_MirrorMirrorImage_01,한여름 밤의 카라잔,,이봐 그건 내가 제일 좋아하는 카드라고 네건 뭔데 용암 광전사
-2968,VO_Mirror_Male_Mirror_MirrorOpen_02,한여름 밤의 카라잔,,어이 반가워
-2969,VO_Mirror_Male_Mirror_MirrorTurn1_01,한여름 밤의 카라잔,,우와 너 정말 못생겼다
-2970,VO_Mirror_Male_Mirror_MirrorTurn3_01,한여름 밤의 카라잔,,거울아 거울아 이 세상에서 누가 가장 예쁘니
-2971,VO_Mirror_Male_Mirror_MirrorTurn3_03,한여름 밤의 카라잔,,넌 아니야 이 노인네야
-2972,VO_Mirror_Male_Mirror_MirrorTurn5_02,한여름 밤의 카라잔,,네파리우스 아 검은바위산에서 탈탈 털린 그 녀석
-2973,VO_Mirror_Male_Mirror_MirrorWellPlayedResponse_01,한여름 밤의 카라잔,,당연한 말씀
-2974,VO_Moroes_Male_Human_AranTurn1_01,한여름 밤의 카라잔,,이 분은 괴팍한 유령 아란입니다
-2975,VO_Moroes_Male_Human_AranTurn9_04,한여름 밤의 카라잔,,식사를 마친 용족들이 이젠 멀록들을 잡아먹으려 하는군요 메디브 님을 어서 모셔와야 합니다
-2976,VO_Moroes_Male_Human_AranWin_01,한여름 밤의 카라잔,,차원문은 다음 방에 있습니다 아직 시간이 있습니다
-2977,VO_Moroes_Male_Human_ChessBossCoin_01,한여름 밤의 카라잔,,하 메디브 님께서 또 체스말을 밖에 꺼내두셨군요 이건 좀 난감하겠습니다만
-2978,VO_Moroes_Male_Human_ChessForfeit_02,한여름 밤의 카라잔,,체스말이 모두 떨어졌군요 이번 판은 포기하셔야겠습니다
-2979,VO_Moroes_Male_Human_ChessTurn1_03,한여름 밤의 카라잔,,체스말들은 손님의 턴이 끝날 때 자동으로 공격할겁니다
-2980,VO_Moroes_Male_Human_ChessTurn3_01,한여름 밤의 카라잔,,상대방의 말 사이에 있는 체스말들은 양쪽을 모두 공격한답니다
-2981,VO_Moroes_Male_Human_ChessTurn5_01,한여름 밤의 카라잔,,체스말의 위치에 신경을 쓴다면 승리할 수 있을겁니다
-2982,VO_Moroes_Male_Human_ChessTurn7_01,한여름 밤의 카라잔,,다른 손님들이 바깥에서 줄을 서고 있습니다 오페라 극장에 거의 도착했지만 서둘러야겠군요
-2983,VO_Moroes_Male_Human_ChessTurn7_02,한여름 밤의 카라잔,,체스말이 떨어지기 시작했군요 모든 말을 잃으면 패하게 됩니다
-2984,VO_Moroes_Male_Human_CroneTurn5_02,한여름 밤의 카라잔,,청지기 이그젝큐투스 님께서 아래층에 도착하셨습니다 너무 일찍 오셨다고 말씀드릴까요
-2985,VO_Moroes_Male_Human_CroneWin_01,한여름 밤의 카라잔,,마침내 주인님을 쫓을 수 있겠군요
-2986,VO_Moroes_Male_Human_CuratorBossCoin_01,한여름 밤의 카라잔,,전시관리인이 박물관을 어지럽히고 있군요 어서 막아야 합니다
-2987,VO_Moroes_Male_Human_CuratorTurn3_01,한여름 밤의 카라잔,,전시관리인이 혼란에 빠졌습니다 전시물을 모두 풀어주기 전에 막아야 합니다
-2988,VO_Moroes_Male_Human_CuratorWin_01,한여름 밤의 카라잔,,여길 이렇게 손보면 됐습니다 새 것처럼 멀쩡하군요
-2989,VO_Moroes_Male_Human_EndWing1_01,한여름 밤의 카라잔,,훌륭하군요 오페라 극장은 저 계단 위에 있습니다 반즈가 우릴 안내해 줄겁니다
-2990,VO_Moroes_Male_Human_FinalAltBossCoin_01,한여름 밤의 카라잔,,해냈습니다 차원문을 열고 어서 주인님을 모셔옵시다
-2991,VO_Moroes_Male_Human_FinalAltTurn5_01,한여름 밤의 카라잔,,차원문이 너무 많군요 여기 안에는 뭐가 있을까
-2992,VO_Moroes_Male_Human_FinalMaidenTurn1_01,한여름 밤의 카라잔,,이거 죄송합니다 한 번만 더 시도하면 맞출 수 있을 것 같습니다
-2993,VO_Moroes_Male_Human_FinalMaidenTurn7_03,한여름 밤의 카라잔,,아 이건 촉수가 가득한 세상으로 향하는 것이군요 큰일날 뻔 했습니다
-2994,VO_Moroes_Male_Human_FinalNazraTurn7_02,한여름 밤의 카라잔,,제가 다른 차원문을 여는 동안 저 오크를 막아주십시오
-2995,VO_Moroes_Male_Human_FinalSecondSequence_01,한여름 밤의 카라잔,,고생하셨습니다 이제 이걸 사용해보죠
-2996,VO_Moroes_Male_Human_FinalThirdSequence_01,한여름 밤의 카라잔,,이 차원문이 틀림없습니다
-2997,VO_Moroes_Male_Human_FinalTurn1_02,한여름 밤의 카라잔,,이런 이 차원문이 아니군요 다른 차원문을 알아볼테니 저 오크를 상대해 주시겠습니까
-2998,VO_Moroes_Male_Human_IllhoofKilrekResponse_01,한여름 밤의 카라잔,,무엇을 소환하려는 걸까요
-2999,VO_Moroes_Male_Human_JulianneTurn5_01,한여름 밤의 카라잔,,반즈 우릴 보내주게나 파티가 시작하기 전에 메디브 님을 구해야 한다네
-3000,VO_Moroes_Male_Human_JulianneTurn9_02,한여름 밤의 카라잔,,일리단이 도착했군요 아직 우린 준비가 안됐건만
-3001,VO_Moroes_Male_Human_MedivhSkinResponse_01,한여름 밤의 카라잔,,메디브 님을 따라한 변장이라 꽤 훌륭하군요
-3002,VO_Moroes_Male_Human_MirrorBossCoin_01,한여름 밤의 카라잔,,메디브 님께선 마법을 부여한 이 거울에게 손님들을 칭찬하라고 말씀하셨죠 하지만 주인님이 없으니 이젠
-3003,VO_Moroes_Male_Human_MirrorTurn3_01,한여름 밤의 카라잔,,흠
-3004,VO_Moroes_Male_Human_MirrorTurn5_01,한여름 밤의 카라잔,,네파리우스 님께서 곧 오실텐데 어떤 반응을 보이실지 벌써부터 두렵군요
-3005,VO_Moroes_Male_Human_MirrorWin_02,한여름 밤의 카라잔,,훌륭합니다 조금만 더 가면 오페라 극장에 도착할겁니다
-3006,VO_Moroes_Male_Human_NetherspiteBossCoin_01,한여름 밤의 카라잔,,황천의 원령은 카라잔의 모든 차원문을 지배합니다 그의 힘을 이용해야 합니다
-3007,VO_Moroes_Male_Human_NetherspiteTurn1_01,한여름 밤의 카라잔,,저 광선들이 황천의 원령에게 힘을 주고 있습니다 하수인으로 저것들을 막으십시오
-3008,VO_Moroes_Male_Human_NetherspiteTurn5_01,한여름 밤의 카라잔,,그러면 어서 메디브 님께서 계신 차원문을 알려주십시오
-3009,VO_Moroes_Male_Human_NetherspiteTurn7_01,한여름 밤의 카라잔,,서둘러야 합니다 손님들이 서재의 고서들을 마나샘에 던지고 있다고 합니다
-3010,VO_Moroes_Male_Human_NetherspiteWin_01,한여름 밤의 카라잔,,잘 하셨습니다 이제 이걸 어떻게 조절하는지 알아내야 하는데
-3011,VO_Moroes_Male_Human_NightbaneTurn3_01,한여름 밤의 카라잔,,전시관리인이여 우린 메디브 님을 구해야 하네
-3012,VO_Moroes_Male_Human_NightbaneTurn7_01,한여름 밤의 카라잔,,탐험가 연맹이 도착 리노 그 식기들을 제자리에 두십시오
-3013,VO_Moroes_Male_Human_PrologueTurn11_01,한여름 밤의 카라잔,,서재를 불태우지도 않았죠
-3014,VO_Moroes_Male_Human_PrologueTurn5_03,한여름 밤의 카라잔,,주인님 반즈가 메디바들을 준비시키고 있습니다
-3015,VO_Moroes_Male_Human_PrologueTurn7_01,한여름 밤의 카라잔,,밖을 보셨습니까 주인님 초대받고 싶어하는 공격대 우두머리들이 한가득입니다
-3016,VO_Moroes_Male_Human_PrologueTurn9_02,한여름 밤의 카라잔,,주인님 멀록들은 풍선을 보면 기겁할겁니다 저번 주를 떠올려 보십시오
-3017,VO_Moroes_Male_Human_PrologueWin_02,한여름 밤의 카라잔,,정말 난처한 상황이군요
-3018,VO_Moroes_Male_Human_SilverwareBossCoin_01,한여름 밤의 카라잔,,메디브 님이 없으면 탑을 통제할 수 없습니다
-3019,VO_Moroes_Male_Human_SilverwareResponse_01,한여름 밤의 카라잔,,저건 꽤 비싼거였는데
-3020,VO_Moroes_Male_Human_SilverwareTurn3_02,한여름 밤의 카라잔,,식기들이 일사분란하게 움직이고 있습니다 이거 포위된 것 같군요
-3021,VO_Moroes_Male_Human_SilverwareWin_01,한여름 밤의 카라잔,,이거 참 난장판이 되었군요
-3022,VO_Moroes_Male_Human_SilverwareWin_03,한여름 밤의 카라잔,,누군가 이 난장판을 정리해야겠군요
-3023,VO_Moroes_Male_Human_Wing1Intro_02,한여름 밤의 카라잔,,저는 카라잔의 집사인 모로스입니다 메디브 님께서 사라지신 지금 당신의 도움이 필요합니다 탑 꼭대기에 있는 차원문에 들어가 주인님을 구해야 합니다
-3024,VO_Moroes_Male_Human_Wing1Win_01,한여름 밤의 카라잔,,대단하시군요 이 정도라면 파티가 시작하기 전에 탑의 최상층에 다다를 수 있을겁니다
-3025,VO_Moroes_Male_Human_Wing2Win_01,한여름 밤의 카라잔,,가시죠 저 계단을 오르면 박물관에 도착할겁니다 전시관리인이 오작동하지 않는다면 좋겠건만
-3026,VO_Moroes_Male_Human_Wing3Open_02,한여름 밤의 카라잔,,전시관리인이 아제로스의 이국적인 생물들을 전시하고 있는 박물관을 지키고 있습니다 거길 지나면 주인님의 거처에서 차원문을 사용하여 메디브 님을 구할 수 있을겁니다
-3027,VO_Moroes_Male_Human_Wing3Win_02,한여름 밤의 카라잔,,최상층에 거의 도착했습니다 서둘러야겠군요 파티가 난투로 바뀔 지경입니다
-3028,VO_Moroes_Male_Human_Wing4Intro_01,한여름 밤의 카라잔,,드디어 최상층에 도착했습니다 주인님께서 계신 차원문을 찾아보시죠
-3029,VO_Moroes_Male_Human_Wing4Win_01,한여름 밤의 카라잔,,해내셨군요 파티가 제시간에 시작했다니 믿기지가 않습니다 혹시 다음 주에도 오시겠습니까 메디브 님의 생일파티가 있는데 저 혼자는 좀 버거울 것 같군요
-3030,VO_Moroes_Male_Human_WolfClaws_01,한여름 밤의 카라잔,,그런 것 같진 않습니다만
-3031,VO_Moroes_Male_Human_WolfClaws_03,한여름 밤의 카라잔,,전혀 그런 것 같진 않습니다만
+2937,VO_Medivh_Male_Human_EmoteGreetings_01,한여름 밤의 카라잔,수호자 메디브,자넨 왜 여기 있는건가
+2938,VO_Medivh_Male_Human_EmoteOops_01,한여름 밤의 카라잔,수호자 메디브,그게 네 계획이라고 정말 우습군
+2939,VO_Medivh_Male_Human_EmoteSorry_01,한여름 밤의 카라잔,수호자 메디브,계산에 착오가 있었군
+2940,VO_Medivh_Male_Human_EmoteThanks_01,한여름 밤의 카라잔,수호자 메디브,정말 친절하군
+2941,VO_Medivh_Male_Human_EmoteThreaten_01,한여름 밤의 카라잔,수호자 메디브,처음부터 자네에겐 승산이 없었네
+2942,VO_Medivh_Male_Human_EmoteWellPlayed_01,한여름 밤의 카라잔,수호자 메디브,좋은 시도였다
+2943,VO_Medivh_Male_Human_EmoteWow_01,한여름 밤의 카라잔,수호자 메디브,정말 멋지군
+2944,VO_Medivh_Male_Human_FinalMalchezaarTurn5_01,한여름 밤의 카라잔,수호자 메디브,훌륭하다 모로스 준비를 모두 마쳤구나
+2945,VO_Medivh_Male_Human_FinalMalchezaarWin_01,한여름 밤의 카라잔,수호자 메디브,잘했네 시작해볼까 파티타임
+2946,VO_Medivh_Male_Human_FinalMedivhMedivhSkin_01,한여름 밤의 카라잔,수호자 메디브,잠깐 자네가 나라고 미래의 나 말해주게 이 파티는 어땠나 정말 멋진 파티였을테지
+2947,VO_Medivh_Male_Human_FinalThirdSequence_01,한여름 밤의 카라잔,수호자 메디브,오 아까 그 손님이시군 이 악마를 잠시 상대해줄 수 있겠나 난 파티를 주관해야해서 말이지
+2948,VO_Medivh_Male_Human_FinalThirdSequence_02,한여름 밤의 카라잔,수호자 메디브,카드가 하나도 없다면 저 차원문들을 사용하도록 하게
+2949,VO_Medivh_Male_Human_FinalThirdSequence_03,한여름 밤의 카라잔,수호자 메디브,이 지팡이를 사용하게 저 차원문들을 조종할 수 있을걸세 너무 험하게 다루지만 말게나
+2950,VO_Medivh_Male_Human_Intro_01,한여름 밤의 카라잔,수호자 메디브,친애하는 자여 자네를 아제로스 제일의 파티에 초대하네
+2951,VO_Medivh_Male_Human_Intro_02,한여름 밤의 카라잔,수호자 메디브,카라잔에서 나와 함께 음악과 마법을 마음껏 즐겨보세나
+2952,VO_Medivh_Male_Human_Intro_03,한여름 밤의 카라잔,수호자 메디브,자네의 벗 메디브가
+2953,VO_Medivh_Male_Human_PrologueBossCoin_02,한여름 밤의 카라잔,수호자 메디브,모로스 내 무도회장에 왜 악마가 있는거지
+2954,VO_Medivh_Male_Human_PrologueDeath_02,한여름 밤의 카라잔,수호자 메디브,이럴 수가
+2955,VO_Medivh_Male_Human_PrologueHeroPower_01,한여름 밤의 카라잔,수호자 메디브,하지만 이 파티는 열려있지 않지
+2956,VO_Medivh_Male_Human_PrologueOpen_01,한여름 밤의 카라잔,수호자 메디브,또 자네인가
+2957,VO_Medivh_Male_Human_PrologueTurn11_01,한여름 밤의 카라잔,수호자 메디브,무슨 소린가 저 자의 뛰어난 가창력을 모르나보군
+2958,VO_Medivh_Male_Human_PrologueTurn1_02,한여름 밤의 카라잔,수호자 메디브,저번에는 지붕에 구멍을 내버렸으면서 참으로 뻔뻔하군
+2959,VO_Medivh_Male_Human_PrologueTurn3_02,한여름 밤의 카라잔,수호자 메디브,모로스 체스 세트가 준비됐는지 확인해라 진짜 손님들이 곧 오실테니
+2960,VO_Medivh_Male_Human_PrologueTurn9_01,한여름 밤의 카라잔,수호자 메디브,맞아 풍선 모로스 풍선을 잊고 있었어
+2961,VO_Medivh_Male_Human_PrologueWin_01,한여름 밤의 카라잔,수호자 메디브,네가 있던 곳으로 돌아가라 악마야
+2962,VO_Medivh_Male_Human_Wing0Intro_01,한여름 밤의 카라잔,수호자 메디브,마법이 깃든 식기 장엄한 오페라 그리고 박물관까지 오늘 밤은 잊을 수 없는 추억으로 가득할 걸세
+2963,VO_Mirror_Male_Mirror_MirrorDeath_01,한여름 밤의 카라잔,마법 거울,야 이건 반칙이야 다시해 다시 하자구
+2964,VO_Mirror_Male_Mirror_MirrorEmoteResponse_01,한여름 밤의 카라잔,마법 거울,뭐래니 하
+2965,VO_Mirror_Male_Mirror_MirrorFirstCard_01,한여름 밤의 카라잔,마법 거울,오호 덱에 그 카드를 넣은거야
+2966,VO_Mirror_Male_Mirror_MirrorMedivhSkin_01,한여름 밤의 카라잔,마법 거울,오 메디브 님 오늘도 역시 멋이 잉 잠깐 넌 메디브가 아니잖아
+2967,VO_Mirror_Male_Mirror_MirrorMirrorImage_01,한여름 밤의 카라잔,마법 거울,이봐 그건 내가 제일 좋아하는 카드라고 네건 뭔데 용암 광전사
+2968,VO_Mirror_Male_Mirror_MirrorOpen_02,한여름 밤의 카라잔,마법 거울,어이 반가워
+2969,VO_Mirror_Male_Mirror_MirrorTurn1_01,한여름 밤의 카라잔,마법 거울,우와 너 정말 못생겼다
+2970,VO_Mirror_Male_Mirror_MirrorTurn3_01,한여름 밤의 카라잔,마법 거울,거울아 거울아 이 세상에서 누가 가장 예쁘니
+2971,VO_Mirror_Male_Mirror_MirrorTurn3_03,한여름 밤의 카라잔,마법 거울,넌 아니야 이 노인네야
+2972,VO_Mirror_Male_Mirror_MirrorTurn5_02,한여름 밤의 카라잔,마법 거울,네파리우스 아 검은바위산에서 탈탈 털린 그 녀석
+2973,VO_Mirror_Male_Mirror_MirrorWellPlayedResponse_01,한여름 밤의 카라잔,마법 거울,당연한 말씀
+2974,VO_Moroes_Male_Human_AranTurn1_01,한여름 밤의 카라잔,모로스,이 분은 괴팍한 유령 아란입니다
+2975,VO_Moroes_Male_Human_AranTurn9_04,한여름 밤의 카라잔,모로스,식사를 마친 용족들이 이젠 멀록들을 잡아먹으려 하는군요 메디브 님을 어서 모셔와야 합니다
+2976,VO_Moroes_Male_Human_AranWin_01,한여름 밤의 카라잔,모로스,차원문은 다음 방에 있습니다 아직 시간이 있습니다
+2977,VO_Moroes_Male_Human_ChessBossCoin_01,한여름 밤의 카라잔,모로스,하 메디브 님께서 또 체스말을 밖에 꺼내두셨군요 이건 좀 난감하겠습니다만
+2978,VO_Moroes_Male_Human_ChessForfeit_02,한여름 밤의 카라잔,모로스,체스말이 모두 떨어졌군요 이번 판은 포기하셔야겠습니다
+2979,VO_Moroes_Male_Human_ChessTurn1_03,한여름 밤의 카라잔,모로스,체스말들은 손님의 턴이 끝날 때 자동으로 공격할겁니다
+2980,VO_Moroes_Male_Human_ChessTurn3_01,한여름 밤의 카라잔,모로스,상대방의 말 사이에 있는 체스말들은 양쪽을 모두 공격한답니다
+2981,VO_Moroes_Male_Human_ChessTurn5_01,한여름 밤의 카라잔,모로스,체스말의 위치에 신경을 쓴다면 승리할 수 있을겁니다
+2982,VO_Moroes_Male_Human_ChessTurn7_01,한여름 밤의 카라잔,모로스,다른 손님들이 바깥에서 줄을 서고 있습니다 오페라 극장에 거의 도착했지만 서둘러야겠군요
+2983,VO_Moroes_Male_Human_ChessTurn7_02,한여름 밤의 카라잔,모로스,체스말이 떨어지기 시작했군요 모든 말을 잃으면 패하게 됩니다
+2984,VO_Moroes_Male_Human_CroneTurn5_02,한여름 밤의 카라잔,모로스,청지기 이그젝큐투스 님께서 아래층에 도착하셨습니다 너무 일찍 오셨다고 말씀드릴까요
+2985,VO_Moroes_Male_Human_CroneWin_01,한여름 밤의 카라잔,모로스,마침내 주인님을 쫓을 수 있겠군요
+2986,VO_Moroes_Male_Human_CuratorBossCoin_01,한여름 밤의 카라잔,모로스,전시관리인이 박물관을 어지럽히고 있군요 어서 막아야 합니다
+2987,VO_Moroes_Male_Human_CuratorTurn3_01,한여름 밤의 카라잔,모로스,전시관리인이 혼란에 빠졌습니다 전시물을 모두 풀어주기 전에 막아야 합니다
+2988,VO_Moroes_Male_Human_CuratorWin_01,한여름 밤의 카라잔,모로스,여길 이렇게 손보면 됐습니다 새 것처럼 멀쩡하군요
+2989,VO_Moroes_Male_Human_EndWing1_01,한여름 밤의 카라잔,모로스,훌륭하군요 오페라 극장은 저 계단 위에 있습니다 반즈가 우릴 안내해 줄겁니다
+2990,VO_Moroes_Male_Human_FinalAltBossCoin_01,한여름 밤의 카라잔,모로스,해냈습니다 차원문을 열고 어서 주인님을 모셔옵시다
+2991,VO_Moroes_Male_Human_FinalAltTurn5_01,한여름 밤의 카라잔,모로스,차원문이 너무 많군요 여기 안에는 뭐가 있을까
+2992,VO_Moroes_Male_Human_FinalMaidenTurn1_01,한여름 밤의 카라잔,모로스,이거 죄송합니다 한 번만 더 시도하면 맞출 수 있을 것 같습니다
+2993,VO_Moroes_Male_Human_FinalMaidenTurn7_03,한여름 밤의 카라잔,모로스,아 이건 촉수가 가득한 세상으로 향하는 것이군요 큰일날 뻔 했습니다
+2994,VO_Moroes_Male_Human_FinalNazraTurn7_02,한여름 밤의 카라잔,모로스,제가 다른 차원문을 여는 동안 저 오크를 막아주십시오
+2995,VO_Moroes_Male_Human_FinalSecondSequence_01,한여름 밤의 카라잔,모로스,고생하셨습니다 이제 이걸 사용해보죠
+2996,VO_Moroes_Male_Human_FinalThirdSequence_01,한여름 밤의 카라잔,모로스,이 차원문이 틀림없습니다
+2997,VO_Moroes_Male_Human_FinalTurn1_02,한여름 밤의 카라잔,모로스,이런 이 차원문이 아니군요 다른 차원문을 알아볼테니 저 오크를 상대해 주시겠습니까
+2998,VO_Moroes_Male_Human_IllhoofKilrekResponse_01,한여름 밤의 카라잔,모로스,무엇을 소환하려는 걸까요
+2999,VO_Moroes_Male_Human_JulianneTurn5_01,한여름 밤의 카라잔,모로스,반즈 우릴 보내주게나 파티가 시작하기 전에 메디브 님을 구해야 한다네
+3000,VO_Moroes_Male_Human_JulianneTurn9_02,한여름 밤의 카라잔,모로스,일리단이 도착했군요 아직 우린 준비가 안됐건만
+3001,VO_Moroes_Male_Human_MedivhSkinResponse_01,한여름 밤의 카라잔,모로스,메디브 님을 따라한 변장이라 꽤 훌륭하군요
+3002,VO_Moroes_Male_Human_MirrorBossCoin_01,한여름 밤의 카라잔,모로스,메디브 님께선 마법을 부여한 이 거울에게 손님들을 칭찬하라고 말씀하셨죠 하지만 주인님이 없으니 이젠
+3003,VO_Moroes_Male_Human_MirrorTurn3_01,한여름 밤의 카라잔,모로스,흠
+3004,VO_Moroes_Male_Human_MirrorTurn5_01,한여름 밤의 카라잔,모로스,네파리우스 님께서 곧 오실텐데 어떤 반응을 보이실지 벌써부터 두렵군요
+3005,VO_Moroes_Male_Human_MirrorWin_02,한여름 밤의 카라잔,모로스,훌륭합니다 조금만 더 가면 오페라 극장에 도착할겁니다
+3006,VO_Moroes_Male_Human_NetherspiteBossCoin_01,한여름 밤의 카라잔,모로스,황천의 원령은 카라잔의 모든 차원문을 지배합니다 그의 힘을 이용해야 합니다
+3007,VO_Moroes_Male_Human_NetherspiteTurn1_01,한여름 밤의 카라잔,모로스,저 광선들이 황천의 원령에게 힘을 주고 있습니다 하수인으로 저것들을 막으십시오
+3008,VO_Moroes_Male_Human_NetherspiteTurn5_01,한여름 밤의 카라잔,모로스,그러면 어서 메디브 님께서 계신 차원문을 알려주십시오
+3009,VO_Moroes_Male_Human_NetherspiteTurn7_01,한여름 밤의 카라잔,모로스,서둘러야 합니다 손님들이 서재의 고서들을 마나샘에 던지고 있다고 합니다
+3010,VO_Moroes_Male_Human_NetherspiteWin_01,한여름 밤의 카라잔,모로스,잘 하셨습니다 이제 이걸 어떻게 조절하는지 알아내야 하는데
+3011,VO_Moroes_Male_Human_NightbaneTurn3_01,한여름 밤의 카라잔,모로스,전시관리인이여 우린 메디브 님을 구해야 하네
+3012,VO_Moroes_Male_Human_NightbaneTurn7_01,한여름 밤의 카라잔,모로스,탐험가 연맹이 도착 리노 그 식기들을 제자리에 두십시오
+3013,VO_Moroes_Male_Human_PrologueTurn11_01,한여름 밤의 카라잔,모로스,서재를 불태우지도 않았죠
+3014,VO_Moroes_Male_Human_PrologueTurn5_03,한여름 밤의 카라잔,모로스,주인님 반즈가 메디바들을 준비시키고 있습니다
+3015,VO_Moroes_Male_Human_PrologueTurn7_01,한여름 밤의 카라잔,모로스,밖을 보셨습니까 주인님 초대받고 싶어하는 공격대 우두머리들이 한가득입니다
+3016,VO_Moroes_Male_Human_PrologueTurn9_02,한여름 밤의 카라잔,모로스,주인님 멀록들은 풍선을 보면 기겁할겁니다 저번 주를 떠올려 보십시오
+3017,VO_Moroes_Male_Human_PrologueWin_02,한여름 밤의 카라잔,모로스,정말 난처한 상황이군요
+3018,VO_Moroes_Male_Human_SilverwareBossCoin_01,한여름 밤의 카라잔,모로스,메디브 님이 없으면 탑을 통제할 수 없습니다
+3019,VO_Moroes_Male_Human_SilverwareResponse_01,한여름 밤의 카라잔,모로스,저건 꽤 비싼거였는데
+3020,VO_Moroes_Male_Human_SilverwareTurn3_02,한여름 밤의 카라잔,모로스,식기들이 일사분란하게 움직이고 있습니다 이거 포위된 것 같군요
+3021,VO_Moroes_Male_Human_SilverwareWin_01,한여름 밤의 카라잔,모로스,이거 참 난장판이 되었군요
+3022,VO_Moroes_Male_Human_SilverwareWin_03,한여름 밤의 카라잔,모로스,누군가 이 난장판을 정리해야겠군요
+3023,VO_Moroes_Male_Human_Wing1Intro_02,한여름 밤의 카라잔,모로스,저는 카라잔의 집사인 모로스입니다 메디브 님께서 사라지신 지금 당신의 도움이 필요합니다 탑 꼭대기에 있는 차원문에 들어가 주인님을 구해야 합니다
+3024,VO_Moroes_Male_Human_Wing1Win_01,한여름 밤의 카라잔,모로스,대단하시군요 이 정도라면 파티가 시작하기 전에 탑의 최상층에 다다를 수 있을겁니다
+3025,VO_Moroes_Male_Human_Wing2Win_01,한여름 밤의 카라잔,모로스,가시죠 저 계단을 오르면 박물관에 도착할겁니다 전시관리인이 오작동하지 않는다면 좋겠건만
+3026,VO_Moroes_Male_Human_Wing3Open_02,한여름 밤의 카라잔,모로스,전시관리인이 아제로스의 이국적인 생물들을 전시하고 있는 박물관을 지키고 있습니다 거길 지나면 주인님의 거처에서 차원문을 사용하여 메디브 님을 구할 수 있을겁니다
+3027,VO_Moroes_Male_Human_Wing3Win_02,한여름 밤의 카라잔,모로스,최상층에 거의 도착했습니다 서둘러야겠군요 파티가 난투로 바뀔 지경입니다
+3028,VO_Moroes_Male_Human_Wing4Intro_01,한여름 밤의 카라잔,모로스,드디어 최상층에 도착했습니다 주인님께서 계신 차원문을 찾아보시죠
+3029,VO_Moroes_Male_Human_Wing4Win_01,한여름 밤의 카라잔,모로스,해내셨군요 파티가 제시간에 시작했다니 믿기지가 않습니다 혹시 다음 주에도 오시겠습니까 메디브 님의 생일파티가 있는데 저 혼자는 좀 버거울 것 같군요
+3030,VO_Moroes_Male_Human_WolfClaws_01,한여름 밤의 카라잔,모로스,그런 것 같진 않습니다만
+3031,VO_Moroes_Male_Human_WolfClaws_03,한여름 밤의 카라잔,모로스,전혀 그런 것 같진 않습니다만
 3032,VO_NAX10_01_DEATH_LINE_03,낙스라마스의 저주,,패치워크에게 무슨 일이
 3033,VO_NAX10_01_EMOTE1_04,낙스라마스의 저주,,놀 시간이야
 3034,VO_NAX10_01_EMOTE2_05,낙스라마스의 저주,,그래 놀자 놀아
@@ -3167,72 +3167,72 @@ id,filename,expansion,cardname,txt
 3166,VO_Nazra_Female_Orc_FinalNazraGrom_01,한여름 밤의 카라잔,나즈라 와일드액스,그롬마쉬 님 정말 오랜만이군요
 3167,VO_Nazra_Female_Orc_FinalNazraHeroPower_01,한여름 밤의 카라잔,나즈라 와일드액스,나즈라가 이 초라한 세계를 지배할 것이다
 3168,VO_Nazra_Female_Orc_FInalStartSequence_01,한여름 밤의 카라잔,나즈라 와일드액스,호드의 힘 앞에 몸서리쳐라
-3169,VO_NEFARIAN_ATRAMEDES_75,낙스라마스의 저주,,아트라메데스는 눈이 보이지 않지만 겁에 질린 네놈의 소리를 들을 수 있지
-3170,VO_NEFARIAN_ATRAMEDES_DEATH_76,낙스라마스의 저주,,눈 먼 용을 죽이다니 부끄러운 줄 알아라
-3171,VO_NEFARIAN_BARON_GEDDON_39,낙스라마스의 저주,,남작 게돈이 우리의 길을 막는군 처리해라 나의 종이여
-3172,VO_NEFARIAN_BARON_GEDDON_DEAD_40,낙스라마스의 저주,,그래 이제 머지 않았다
-3173,VO_NEFARIAN_CHROMAGGUS1_59,낙스라마스의 저주,,머리도 두 개나 달렸지 이 얼마나 멋진 육체인가
-3174,VO_NEFARIAN_CHROMAGGUS2_60,낙스라마스의 저주,,나는 크로마구스에게 모든 용군단의 정수를 주입했다 놈은 완벽하다
-3175,VO_NEFARIAN_CHROMAGGUS3_61,낙스라마스의 저주,,잘했다 크로마구스
-3176,VO_NEFARIAN_CHROMAGGUS4_62,낙스라마스의 저주,,카드가 좀 넘치는 것 같군
-3177,VO_NEFARIAN_CHROMAGGUS_DEAD_63,낙스라마스의 저주,,사실 크로마구스는 나의 가장 하찮은 피조물이었다 우쭐할 것 없다 모험가여
-3178,VO_NEFARIAN_CHROMAGGUS_INTRO_58,낙스라마스의 저주,,크로마구스는 나의 가장 위대한 피조물이다
-3179,VO_NEFARIAN_COREN_27,낙스라마스의 저주,,검은무쇠 드워프는 라그나로스의 노예들이지 불의 군주를 만나려면 놈들을 꺾어야 한다
-3180,VO_NEFARIAN_COREN_DEAD_28,낙스라마스의 저주,,험상궂은 주정뱅이 술집이라니 천박하군
-3181,VO_NEFARIAN_DESCENT_OPEN_67,낙스라마스의 저주,,검은바위의 화염 속에서 난 다시 태어났노라 누구도 날 막을 순 없다
-3182,VO_NEFARIAN_DRAKKISATH1_49,낙스라마스의 저주,,이봐 가서 등급전이나 하는게 어떤가 모험 모드는 이제 끝났다
-3183,VO_NEFARIAN_DRAKKISATH_47,낙스라마스의 저주,,나가는 방법을 모르느냐 화면 밑에 뒤로 라는 단추를 누르거라
-3184,VO_NEFARIAN_DRAKKISATH_DEAD_50,낙스라마스의 저주,,슬슬 짜증이 나려고 하는군
-3185,VO_NEFARIAN_DRAKKISATH_RESPOND_48,낙스라마스의 저주,,그래 그자다 모험가여 여긴 네가 올 곳이 아니라고 말하지 않았느냐
-3186,VO_NEFARIAN_GARR2_35,낙스라마스의 저주,,이젠 한낱 돌멩이로 널 막으려 하는군
-3187,VO_NEFARIAN_GARR3_36,낙스라마스의 저주,,벌써 지친건 아닐테지 정령왕 하나를 상대할 여력은 남겨놓거라
-3188,VO_NEFARIAN_GARR4_37,낙스라마스의 저주,,솔직히 말해서 네가 고생하는 것을 보는 것도 지루하진 않군
-3189,VO_NEFARIAN_GARR_DEAD1_38,낙스라마스의 저주,,가르의 잔해로 라그나로스의 용암 웅덩이에 물수제비라도 뜨는게 어떠냐 분명 그가 좋아할 것이다
-3190,VO_NEFARIAN_GARR_INTRO_34,낙스라마스의 저주,,가르는 라그나로스의 부관이지 이제 거의 다 왔구나 모험가여
-3191,VO_NEFARIAN_GRIMSTONE_29,낙스라마스의 저주,,검은무쇠 투기장이라고 네 실력을 시험할 좋은 기회로군 필멸자
-3192,VO_NEFARIAN_GRIMSTONE_DEAD1_30,낙스라마스의 저주,,이제 곧 라그나로스를 여기서 쫓아낼 수 있겠군
-3193,VO_NEFARIAN_HEROIC_BLOCK_77,낙스라마스의 저주,,영웅 난이도에서는 어림도 없다
-3194,VO_NEFARIAN_HEROIC_BLOCK_77_Laugh,낙스라마스의 저주,,웃음
-3195,VO_NEFARIAN_INTRO1_24,낙스라마스의 저주,,내 보금자리인 검은바위산에 온걸 환영한다
-3196,VO_NEFARIAN_INTRO3_25,낙스라마스의 저주,,경망스럽군 영웅이여 화산 심장부에 가보지 않겠나
-3197,VO_NEFARIAN_INTRO4_26,낙스라마스의 저주,,라그나로스에게 내 안부를 좀 전해주게
-3198,VO_NEFARIAN_MAJORDOMO_41,낙스라마스의 저주,,라그나로스가 가장 신뢰하는 종복이군 놈이 불의 군주를 소환하도록 설득하거라
-3199,VO_NEFARIAN_MAJORDOMO_DEAD_42,낙스라마스의 저주,,수고했다 필멸자여 검은바위산은 이제 내 것이다
-3200,VO_NEFARIAN_MALORIAK_70,낙스라마스의 저주,,말로리악은 내 수많은 부하들 중 하나일 뿐이지
-3201,VO_NEFARIAN_MALORIAK_DEATH_PT1_72,낙스라마스의 저주,,정말 축하한다 놀라운 업적을 달성했군
-3202,VO_NEFARIAN_MALORIAK_DEATH_PT2_73,낙스라마스의 저주,,내 너에게 멋진 칭호를 하나 내려주지
-3203,VO_NEFARIAN_MALORIAK_DEATH_PT3_74,낙스라마스의 저주,,멍청하고 무능하고 실망스러운 하수인들을 해치운 자 그래 이 정도면 되겠군
-3204,VO_NEFARIAN_MALORIAK_TURN2_71,낙스라마스의 저주,,말로리악 필멸의 존재들에게 지지 마라
-3205,VO_NEFARIAN_NEF2_65,낙스라마스의 저주,,안돼 널 부숴버리겠다
-3206,VO_NEFARIAN_NEF_INTRO1_64,낙스라마스의 저주,,지금까진 재밌었겠지 하지만 넌 그저 하찮은 존재일 뿐이다
-3207,VO_NEFARIAN_NEF_MISSION_66,낙스라마스의 저주,,그건 반칙이다 용납하지 않겠노라
-3208,VO_NEFARIAN_OMNOTRON_68,낙스라마스의 저주,,나의 내부 성소에는 철통 같은 방어시스템이 작동하고 있다
-3209,VO_NEFARIAN_OMNOTRON_DEAD_69,낙스라마스의 저주,,마침 저 놈들의 수리비가 걱정이었는데 고맙다
-3210,VO_NEFARIAN_OMOKK1_44,낙스라마스의 저주,,왜 여기 있는거냐 라그나로스가 죽었으니 네 여정은 끝난 것이다
-3211,VO_NEFARIAN_OMOKK2_45,낙스라마스의 저주,,혼란스럽군 라그나로스는 이제 여기 없다 일일 퀘스트도 없단 말이다 돌아가라
-3212,VO_NEFARIAN_OMOKK_DEAD_46,낙스라마스의 저주,,참으로 어처구니가 없군
-3213,VO_NEFARIAN_OMOKK_INTRO_43,낙스라마스의 저주,,반갑다 라그나로스를 처치한 자여 그런데 검은바위 첨탑은 무슨 일로 왔느냐
-3214,VO_NEFARIAN_RAZORGORE_54,낙스라마스의 저주,,그렇게 말렸건만 내 집에 감히 들어오겠다고 알겠다 서슬 송곳니 이 오만한 놈을 처리해라
-3215,VO_NEFARIAN_RAZORGORE_DEAD_55,낙스라마스의 저주,,내 영광스러운 실험에서 귀중한 알들을 깨버리다니
-3216,VO_NEFARIAN_REND1_52,낙스라마스의 저주,,이 오크마저도 네가 여기 있지 말아야할 것을 안다
-3217,VO_NEFARIAN_REND_DEAD_53,낙스라마스의 저주,,넌 지금 맞설 상대를 단단히 잘못 고른거다
-3218,VO_NEFARIAN_REND_INTRO_51,낙스라마스의 저주,,돌아가라 필멸자여 감히 범접치 못할 힘에 맞서려 하느냐
-3219,VO_NEFARIAN_THAURISSAN_31,낙스라마스의 저주,,제왕 타우릿산이 라그나로스를 이 세계에 불러냈다 이제 놈을 없앨 이유가 생겼겠지
-3220,VO_NEFARIAN_THAURISSAN_DEAD2_33,낙스라마스의 저주,,두 드워프를 모두 처치했다고 놀랍구나 모험가여
-3221,VO_NEFARIAN_THAURISSAN_DEAD_32,낙스라마스의 저주,,왜 다른 드워프 하나는 살려둔거지 모두 없애라고 했을텐데
-3222,VO_NEFARIAN_VAEL_56,낙스라마스의 저주,,이 거대한 붉은 용을 타락시키는 것도 내겐 쉬운 일이었지
-3223,VO_NEFARIAN_VAEL_DEAD_57,낙스라마스의 저주,,동료마저도 죽이다니 죄책감이 드느냐
-3224,VO_NEFARIAN_ZOMBIE_NEF_99,낙스라마스의 저주,,이번엔 절대로 쉽지 않을 것이다
-3225,VO_Netherspite_Male_Dragon_NetherspiteAngryChicken_01,한여름 밤의 카라잔,,또 너라니 왜 차원문에서 꼭 네가 나오는 것이냐
-3226,VO_Netherspite_Male_Dragon_NetherspiteDeath_02,한여름 밤의 카라잔,,죽음
-3227,VO_Netherspite_Male_Dragon_NetherspiteEmoteResponse_01,한여름 밤의 카라잔,,연구에 열중하고 있는 용족에게 도전하다니
-3228,VO_Netherspite_Male_Dragon_NetherspiteEmpowerment_01,한여름 밤의 카라잔,,수많은 세계와 수많은 지식
-3229,VO_Netherspite_Male_Dragon_NetherspiteOpen_01,한여름 밤의 카라잔,,누가 내 연구를 방해하느냐
-3230,VO_Netherspite_Male_Dragon_NetherspiteShadowBreath_01,한여름 밤의 카라잔,,썩 꺼져라
-3231,VO_Netherspite_Male_Dragon_NetherspiteTurn3_02,한여름 밤의 카라잔,,내 실험 이곳에서 당장 사라져라
-3232,VO_Netherspite_Male_Dragon_NetherspiteTurn5_01,한여름 밤의 카라잔,,차원문에 손대지 마라 공간의 흐름이 지금 정확하게 조율된 상태란 말이다
-3233,VO_Netherspite_Male_Dragon_NetherspiteTurn7_01,한여름 밤의 카라잔,,그 파티인지 뭔지 재밌어 보이더군 내 차원문을 내버려두고 거기에나 가란 말이다
-3234,VO_Netherspite_Male_Dragon_NetherspiteUnstablePortal_02,한여름 밤의 카라잔,,흥미롭군 부정형 속의 본질이라니
+3169,VO_NEFARIAN_ATRAMEDES_75,검은바위 산,네파리안,아트라메데스는 눈이 보이지 않지만 겁에 질린 네놈의 소리를 들을 수 있지
+3170,VO_NEFARIAN_ATRAMEDES_DEATH_76,검은바위 산,네파리안,눈 먼 용을 죽이다니 부끄러운 줄 알아라
+3171,VO_NEFARIAN_BARON_GEDDON_39,검은바위 산,네파리안,남작 게돈이 우리의 길을 막는군 처리해라 나의 종이여
+3172,VO_NEFARIAN_BARON_GEDDON_DEAD_40,검은바위 산,네파리안,그래 이제 머지 않았다
+3173,VO_NEFARIAN_CHROMAGGUS1_59,검은바위 산,네파리안,머리도 두 개나 달렸지 이 얼마나 멋진 육체인가
+3174,VO_NEFARIAN_CHROMAGGUS2_60,검은바위 산,네파리안,나는 크로마구스에게 모든 용군단의 정수를 주입했다 놈은 완벽하다
+3175,VO_NEFARIAN_CHROMAGGUS3_61,검은바위 산,네파리안,잘했다 크로마구스
+3176,VO_NEFARIAN_CHROMAGGUS4_62,검은바위 산,네파리안,카드가 좀 넘치는 것 같군
+3177,VO_NEFARIAN_CHROMAGGUS_DEAD_63,검은바위 산,네파리안,사실 크로마구스는 나의 가장 하찮은 피조물이었다 우쭐할 것 없다 모험가여
+3178,VO_NEFARIAN_CHROMAGGUS_INTRO_58,검은바위 산,네파리안,크로마구스는 나의 가장 위대한 피조물이다
+3179,VO_NEFARIAN_COREN_27,검은바위 산,네파리안,검은무쇠 드워프는 라그나로스의 노예들이지 불의 군주를 만나려면 놈들을 꺾어야 한다
+3180,VO_NEFARIAN_COREN_DEAD_28,검은바위 산,네파리안,험상궂은 주정뱅이 술집이라니 천박하군
+3181,VO_NEFARIAN_DESCENT_OPEN_67,검은바위 산,네파리안,검은바위의 화염 속에서 난 다시 태어났노라 누구도 날 막을 순 없다
+3182,VO_NEFARIAN_DRAKKISATH1_49,검은바위 산,네파리안,이봐 가서 등급전이나 하는게 어떤가 모험 모드는 이제 끝났다
+3183,VO_NEFARIAN_DRAKKISATH_47,검은바위 산,네파리안,나가는 방법을 모르느냐 화면 밑에 뒤로 라는 단추를 누르거라
+3184,VO_NEFARIAN_DRAKKISATH_DEAD_50,검은바위 산,네파리안,슬슬 짜증이 나려고 하는군
+3185,VO_NEFARIAN_DRAKKISATH_RESPOND_48,검은바위 산,네파리안,그래 그자다 모험가여 여긴 네가 올 곳이 아니라고 말하지 않았느냐
+3186,VO_NEFARIAN_GARR2_35,검은바위 산,네파리안,이젠 한낱 돌멩이로 널 막으려 하는군
+3187,VO_NEFARIAN_GARR3_36,검은바위 산,네파리안,벌써 지친건 아닐테지 정령왕 하나를 상대할 여력은 남겨놓거라
+3188,VO_NEFARIAN_GARR4_37,검은바위 산,네파리안,솔직히 말해서 네가 고생하는 것을 보는 것도 지루하진 않군
+3189,VO_NEFARIAN_GARR_DEAD1_38,검은바위 산,네파리안,가르의 잔해로 라그나로스의 용암 웅덩이에 물수제비라도 뜨는게 어떠냐 분명 그가 좋아할 것이다
+3190,VO_NEFARIAN_GARR_INTRO_34,검은바위 산,네파리안,가르는 라그나로스의 부관이지 이제 거의 다 왔구나 모험가여
+3191,VO_NEFARIAN_GRIMSTONE_29,검은바위 산,네파리안,검은무쇠 투기장이라고 네 실력을 시험할 좋은 기회로군 필멸자
+3192,VO_NEFARIAN_GRIMSTONE_DEAD1_30,검은바위 산,네파리안,이제 곧 라그나로스를 여기서 쫓아낼 수 있겠군
+3193,VO_NEFARIAN_HEROIC_BLOCK_77,검은바위 산,네파리안,영웅 난이도에서는 어림도 없다
+3194,VO_NEFARIAN_HEROIC_BLOCK_77_Laugh,검은바위 산,네파리안,웃음
+3195,VO_NEFARIAN_INTRO1_24,검은바위 산,네파리안,내 보금자리인 검은바위산에 온걸 환영한다
+3196,VO_NEFARIAN_INTRO3_25,검은바위 산,네파리안,경망스럽군 영웅이여 화산 심장부에 가보지 않겠나
+3197,VO_NEFARIAN_INTRO4_26,검은바위 산,네파리안,라그나로스에게 내 안부를 좀 전해주게
+3198,VO_NEFARIAN_MAJORDOMO_41,검은바위 산,네파리안,라그나로스가 가장 신뢰하는 종복이군 놈이 불의 군주를 소환하도록 설득하거라
+3199,VO_NEFARIAN_MAJORDOMO_DEAD_42,검은바위 산,네파리안,수고했다 필멸자여 검은바위산은 이제 내 것이다
+3200,VO_NEFARIAN_MALORIAK_70,검은바위 산,네파리안,말로리악은 내 수많은 부하들 중 하나일 뿐이지
+3201,VO_NEFARIAN_MALORIAK_DEATH_PT1_72,검은바위 산,네파리안,정말 축하한다 놀라운 업적을 달성했군
+3202,VO_NEFARIAN_MALORIAK_DEATH_PT2_73,검은바위 산,네파리안,내 너에게 멋진 칭호를 하나 내려주지
+3203,VO_NEFARIAN_MALORIAK_DEATH_PT3_74,검은바위 산,네파리안,멍청하고 무능하고 실망스러운 하수인들을 해치운 자 그래 이 정도면 되겠군
+3204,VO_NEFARIAN_MALORIAK_TURN2_71,검은바위 산,네파리안,말로리악 필멸의 존재들에게 지지 마라
+3205,VO_NEFARIAN_NEF2_65,검은바위 산,네파리안,안돼 널 부숴버리겠다
+3206,VO_NEFARIAN_NEF_INTRO1_64,검은바위 산,네파리안,지금까진 재밌었겠지 하지만 넌 그저 하찮은 존재일 뿐이다
+3207,VO_NEFARIAN_NEF_MISSION_66,검은바위 산,네파리안,그건 반칙이다 용납하지 않겠노라
+3208,VO_NEFARIAN_OMNOTRON_68,검은바위 산,네파리안,나의 내부 성소에는 철통 같은 방어시스템이 작동하고 있다
+3209,VO_NEFARIAN_OMNOTRON_DEAD_69,검은바위 산,네파리안,마침 저 놈들의 수리비가 걱정이었는데 고맙다
+3210,VO_NEFARIAN_OMOKK1_44,검은바위 산,네파리안,왜 여기 있는거냐 라그나로스가 죽었으니 네 여정은 끝난 것이다
+3211,VO_NEFARIAN_OMOKK2_45,검은바위 산,네파리안,혼란스럽군 라그나로스는 이제 여기 없다 일일 퀘스트도 없단 말이다 돌아가라
+3212,VO_NEFARIAN_OMOKK_DEAD_46,검은바위 산,네파리안,참으로 어처구니가 없군
+3213,VO_NEFARIAN_OMOKK_INTRO_43,검은바위 산,네파리안,반갑다 라그나로스를 처치한 자여 그런데 검은바위 첨탑은 무슨 일로 왔느냐
+3214,VO_NEFARIAN_RAZORGORE_54,검은바위 산,네파리안,그렇게 말렸건만 내 집에 감히 들어오겠다고 알겠다 서슬 송곳니 이 오만한 놈을 처리해라
+3215,VO_NEFARIAN_RAZORGORE_DEAD_55,검은바위 산,네파리안,내 영광스러운 실험에서 귀중한 알들을 깨버리다니
+3216,VO_NEFARIAN_REND1_52,검은바위 산,네파리안,이 오크마저도 네가 여기 있지 말아야할 것을 안다
+3217,VO_NEFARIAN_REND_DEAD_53,검은바위 산,네파리안,넌 지금 맞설 상대를 단단히 잘못 고른거다
+3218,VO_NEFARIAN_REND_INTRO_51,검은바위 산,네파리안,돌아가라 필멸자여 감히 범접치 못할 힘에 맞서려 하느냐
+3219,VO_NEFARIAN_THAURISSAN_31,검은바위 산,네파리안,제왕 타우릿산이 라그나로스를 이 세계에 불러냈다 이제 놈을 없앨 이유가 생겼겠지
+3220,VO_NEFARIAN_THAURISSAN_DEAD2_33,검은바위 산,네파리안,두 드워프를 모두 처치했다고 놀랍구나 모험가여
+3221,VO_NEFARIAN_THAURISSAN_DEAD_32,검은바위 산,네파리안,왜 다른 드워프 하나는 살려둔거지 모두 없애라고 했을텐데
+3222,VO_NEFARIAN_VAEL_56,검은바위 산,네파리안,이 거대한 붉은 용을 타락시키는 것도 내겐 쉬운 일이었지
+3223,VO_NEFARIAN_VAEL_DEAD_57,검은바위 산,네파리안,동료마저도 죽이다니 죄책감이 드느냐
+3224,VO_NEFARIAN_ZOMBIE_NEF_99,검은바위 산,네파리안,이번엔 절대로 쉽지 않을 것이다
+3225,VO_Netherspite_Male_Dragon_NetherspiteAngryChicken_01,한여름 밤의 카라잔,황천의 원령,또 너라니 왜 차원문에서 꼭 네가 나오는 것이냐
+3226,VO_Netherspite_Male_Dragon_NetherspiteDeath_02,한여름 밤의 카라잔,황천의 원령,죽음
+3227,VO_Netherspite_Male_Dragon_NetherspiteEmoteResponse_01,한여름 밤의 카라잔,황천의 원령,연구에 열중하고 있는 용족에게 도전하다니
+3228,VO_Netherspite_Male_Dragon_NetherspiteEmpowerment_01,한여름 밤의 카라잔,황천의 원령,수많은 세계와 수많은 지식
+3229,VO_Netherspite_Male_Dragon_NetherspiteOpen_01,한여름 밤의 카라잔,황천의 원령,누가 내 연구를 방해하느냐
+3230,VO_Netherspite_Male_Dragon_NetherspiteShadowBreath_01,한여름 밤의 카라잔,황천의 원령,썩 꺼져라
+3231,VO_Netherspite_Male_Dragon_NetherspiteTurn3_02,한여름 밤의 카라잔,황천의 원령,내 실험 이곳에서 당장 사라져라
+3232,VO_Netherspite_Male_Dragon_NetherspiteTurn5_01,한여름 밤의 카라잔,황천의 원령,차원문에 손대지 마라 공간의 흐름이 지금 정확하게 조율된 상태란 말이다
+3233,VO_Netherspite_Male_Dragon_NetherspiteTurn7_01,한여름 밤의 카라잔,황천의 원령,그 파티인지 뭔지 재밌어 보이더군 내 차원문을 내버려두고 거기에나 가란 말이다
+3234,VO_Netherspite_Male_Dragon_NetherspiteUnstablePortal_02,한여름 밤의 카라잔,황천의 원령,흥미롭군 부정형 속의 본질이라니
 3235,VO_NEW1_005_Attack_02,오리지널,,이리 와라
 3236,VO_NEW1_005_Death_03,오리지널,,죽음
 3237,VO_NEW1_005_Play_01,오리지널,,나는 보통 혼자 일하지
@@ -3521,25 +3521,25 @@ id,filename,expansion,cardname,txt
 3520,VO_OG_340_Male_Faceless_Attack_01,고대 신의 속삭임,,무릎을 꿇어라
 3521,VO_OG_340_Male_Faceless_Death_01,고대 신의 속삭임,,죽음
 3522,VO_OG_340_Male_Faceless_Play_01,고대 신의 속삭임,,고대신들에게 경배하라
-3523,VO_RAFAAM_GREETINGS,탐험가 연맹,,안녕하신가 탐험가여
-3524,VO_RAFAAM_LAUGH_36,탐험가 연맹,,웃음
-3525,VO_RAFAAM_OOPS,탐험가 연맹,,실패다
-3526,VO_RAFAAM_SORRY,탐험가 연맹,,불쌍하군
-3527,VO_RAFAAM_THANKS,탐험가 연맹,,고맙다
-3528,VO_RAFAAM_THREATEN,탐험가 연맹,,압도적인 힘으로
-3529,VO_RAFAAM_WELL_PLAYED,탐험가 연맹,,훌륭하다
-3530,VO_RAGNAROS_GRIMSTONE_DEAD2_66,검은바위 산,,하찮은 도마뱀 같으니 너부터 내가 정화하겠노라
-3531,VO_RAGNAROS_INTRO2_64,검은바위 산,,네 보금자리라고 널 잿더미로 만들어버리겠다 용이여
-3532,VO_RAGNAROS_INTRO5_65,검은바위 산,,얼마든지 와봐라 벌레 같은 놈
-3533,VO_RAGNAROS_MC_WELCOME_67,검은바위 산,,화산 심장부는 나의 영역이거늘 네놈을 박살내주겠다
-3534,VO_RAGNAROS_NEF1_71,검은바위 산,,모험가여 도움이 필요한 모양이군
-3535,VO_RAGNAROS_NEF3_72,검은바위 산,,복수는 나의 것이다 불의 세례를 받아라
-3536,VO_RAGNAROS_NEF4_73,검은바위 산,,기다려라 네파리안 내 하수인들이 네놈을 불태울 것이다
-3537,VO_RAGNAROS_NEF5_74,검은바위 산,,이 오만한 용을 재로 만들어버려라
-3538,VO_RAGNAROS_NEF6_75,검은바위 산,,불의 땅이 주는 선물이니라
-3539,VO_RAGNAROS_NEF7_76,검은바위 산,,불의 군주의 화염은 꺼지지 않는다
-3540,VO_RAGNAROS_NEF8_77,검은바위 산,,복수의 시간이다 용이여
-3541,VO_RAGNAROS_NEF_INTRO2_70,검은바위 산,,필멸자여 난 아직 죽지 않았다 네파리안을 물리칠 수 있게 내가 도와주겠노라
+3523,VO_RAFAAM_GREETINGS,탐험가 연맹,대도 라팜,안녕하신가 탐험가여
+3524,VO_RAFAAM_LAUGH_36,탐험가 연맹,대도 라팜,웃음
+3525,VO_RAFAAM_OOPS,탐험가 연맹,대도 라팜,실패다
+3526,VO_RAFAAM_SORRY,탐험가 연맹,대도 라팜,불쌍하군
+3527,VO_RAFAAM_THANKS,탐험가 연맹,대도 라팜,고맙다
+3528,VO_RAFAAM_THREATEN,탐험가 연맹,대도 라팜,압도적인 힘으로
+3529,VO_RAFAAM_WELL_PLAYED,탐험가 연맹,대도 라팜,훌륭하다
+3530,VO_RAGNAROS_GRIMSTONE_DEAD2_66,검은바위 산,불의 군주 라그나로스,하찮은 도마뱀 같으니 너부터 내가 정화하겠노라
+3531,VO_RAGNAROS_INTRO2_64,검은바위 산,불의 군주 라그나로스,네 보금자리라고 널 잿더미로 만들어버리겠다 용이여
+3532,VO_RAGNAROS_INTRO5_65,검은바위 산,불의 군주 라그나로스,얼마든지 와봐라 벌레 같은 놈
+3533,VO_RAGNAROS_MC_WELCOME_67,검은바위 산,불의 군주 라그나로스,화산 심장부는 나의 영역이거늘 네놈을 박살내주겠다
+3534,VO_RAGNAROS_NEF1_71,검은바위 산,불의 군주 라그나로스,모험가여 도움이 필요한 모양이군
+3535,VO_RAGNAROS_NEF3_72,검은바위 산,불의 군주 라그나로스,복수는 나의 것이다 불의 세례를 받아라
+3536,VO_RAGNAROS_NEF4_73,검은바위 산,불의 군주 라그나로스,기다려라 네파리안 내 하수인들이 네놈을 불태울 것이다
+3537,VO_RAGNAROS_NEF5_74,검은바위 산,불의 군주 라그나로스,이 오만한 용을 재로 만들어버려라
+3538,VO_RAGNAROS_NEF6_75,검은바위 산,불의 군주 라그나로스,불의 땅이 주는 선물이니라
+3539,VO_RAGNAROS_NEF7_76,검은바위 산,불의 군주 라그나로스,불의 군주의 화염은 꺼지지 않는다
+3540,VO_RAGNAROS_NEF8_77,검은바위 산,불의 군주 라그나로스,복수의 시간이다 용이여
+3541,VO_RAGNAROS_NEF_INTRO2_70,검은바위 산,불의 군주 라그나로스,필멸자여 난 아직 죽지 않았다 네파리안을 물리칠 수 있게 내가 도와주겠노라
 3542,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02,한여름 밤의 카라잔,식기 골렘,접시가 깨졌다
 3543,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_03,한여름 밤의 카라잔,식기 골렘,죽음
 3544,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01,한여름 밤의 카라잔,식기 골렘,세척할 시간이다
@@ -3548,9 +3548,9 @@ id,filename,expansion,cardname,txt
 3547,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01,한여름 밤의 카라잔,식기 골렘,우와 식칼 곡예다
 3548,VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01,한여름 밤의 카라잔,식기 골렘,춤추는거 재밌다
 3549,VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01,한여름 밤의 카라잔,식기 골렘,너도 접시 너도 접시 모두에게 접시
-3550,VO_Sylvanas_01_Play_01,오리지널,,장난칠 시간은 없다
-3551,VO_Sylvanas_02_Attack_02,오리지널,,모두 없애라
-3552,VO_Sylvanas_04_Death_04,오리지널,,죽음
+3550,VO_Sylvanas_01_Play_01,오리지널,실바나스 윈드러너,장난칠 시간은 없다
+3551,VO_Sylvanas_02_Attack_02,오리지널,실바나스 윈드러너,모두 없애라
+3552,VO_Sylvanas_04_Death_04,오리지널,실바나스 윈드러너,죽음
 3553,VO_TB_1503_FATHER_WINTER_GIFT1,선술집 난투,선물 교환,웃음
 3554,VO_TB_1503_FATHER_WINTER_GIFT2,선술집 난투,선물 교환,다들 선물 받아가려무나
 3555,VO_TB_1503_FATHER_WINTER_GIFT3,선술집 난투,선물 교환,아 이렇게 즐거울 수가
@@ -3568,163 +3568,163 @@ id,filename,expansion,cardname,txt
 3567,VO_tt_010a_Attack_02,오리지널,주문왜곡사,알겠어요
 3568,VO_tt_010a_Death_03,오리지널,주문왜곡사,죽음
 3569,VO_tt_010a_Play_01,오리지널,주문왜곡사,그렇게 하죠
-3570,VO_TU4d_002_Death_02,튜토리얼,,죽음
-3571,VO_TU4d_002_Play_01,튜토리얼,,야수 잡을 시간이다
-3572,VO_TU4f_002_Death_02,튜토리얼,,죽음
-3573,VO_TU4f_002_Play_01,튜토리얼,,예 전승지기 님
-3574,VO_TU4f_003_Death_02,튜토리얼,,죽음
-3575,VO_TU4f_003_Play_01,튜토리얼,,경의를 표합니다 장로님
-3576,VO_TUTORIAL02_MILLHOUSE_01_04,오리지널,,내가 먼저 하고 싶었는데
-3577,VO_TUTORIAL02_MILLHOUSE_02_05,오리지널,,제이나 위대한 밀하우스 마나스톰 님의 진정한 힘을 보아라
-3578,VO_TUTORIAL02_MILLHOUSE_03_06,오리지널,,무슨 하수인이 저래 멀록
-3579,VO_TUTORIAL02_MILLHOUSE_04_07,오리지널,,이건 엄청난 카드잖아
-3580,VO_TUTORIAL02_MILLHOUSE_05_08,오리지널,,내 마나가 좀 늘어날 때까지만 기다려봐
-3581,VO_TUTORIAL02_MILLHOUSE_06_09,오리지널,,널 위해 준비했어 파멸
-3582,VO_TUTORIAL02_MILLHOUSE_07_10,오리지널,,마나가 늘어났어 이제 다 됐다고
-3583,VO_TUTORIAL02_MILLHOUSE_08_11,오리지널,,지금 분위기가 어떤지 알아
-3584,VO_TUTORIAL02_MILLHOUSE_09_12,오리지널,,내가 이기고 있다고
-3585,VO_TUTORIAL02_MILLHOUSE_10_13,오리지널,,야 수염은 건들지 마
-3586,VO_TUTORIAL02_MILLHOUSE_11_14,오리지널,,이거 맘에 쏙 들걸
-3587,VO_TUTORIAL02_MILLHOUSE_13_16,오리지널,,내 마나가 10 될 때까지만 기다려봐
-3588,VO_TUTORIAL02_MILLHOUSE_15_17,오리지널,,얼른 좀 해 이 카드 빨리 내고 싶단 말이야
-3589,VO_TUTORIAL02_MILLHOUSE_16_18,오리지널,,빨리 빨리 빨리 빨리
-3590,VO_TUTORIAL02_MILLHOUSE_17_19,오리지널,,공격 하지좀 마 나 이기고 싶단 말이야
-3591,VO_TUTORIAL02_MILLHOUSE_19_21,오리지널,,신고하고 말거야
-3592,VO_TUTORIAL02_MILLHOUSE_20_22_ALT,오리지널,,죽음
-3593,VO_TUTORIAL04_HEMET_01_01,오리지널,,깜찍한 애송이시군요
-3594,VO_TUTORIAL04_HEMET_02_02,오리지널,,이 늙은 헤멧에게 그런 식으로 말하다니
-3595,VO_TUTORIAL04_HEMET_03_03,오리지널,,하 제가 먼저 하겠습니다
-3596,VO_TUTORIAL04_HEMET_04_04_ALT,오리지널,,오 좋군요 그거 필요하게 될겁니다
-3597,VO_TUTORIAL04_HEMET_06_05,오리지널,,하수인과 싸우는데 익숙하실 것 같군요
-3598,VO_TUTORIAL04_HEMET_07_06,오리지널,,헤멧 이 몸은 직접 싸우지요
-3599,VO_TUTORIAL04_HEMET_07_06_ALT,오리지널,,헤멧은 직접 싸우지요
-3600,VO_TUTORIAL04_HEMET_08_07,오리지널,,야수다 박제로 만들어야겠군요
-3601,VO_TUTORIAL04_HEMET_09_08,오리지널,,그 야수의 가죽을 벗겨 목도리로 쓰면 딱이겠군요
-3602,VO_TUTORIAL04_HEMET_10_09,오리지널,,간식도 갖다주시다니 고맙습니다
-3603,VO_TUTORIAL04_HEMET_11_10,오리지널,,즐거운 사냥
-3604,VO_TUTORIAL04_HEMET_12_11,오리지널,,그건 불공평합니다
-3605,VO_TUTORIAL04_HEMET_12_11_ALT,오리지널,,뭐에요
-3606,VO_TUTORIAL04_HEMET_13_12,오리지널,,다시 글이나 써야겠군요
-3607,VO_TUTORIAL04_HEMET_15_13,오리지널,,거대한 호랑이 뱅갈라시를 추적할 때가 생각나는군요
-3608,VO_TUTORIAL04_HEMET_16_14,오리지널,,혹시 가시덤불 골짜기의 푸른 언덕이라는 책 읽어보셨습니까
-3609,VO_TUTORIAL04_HEMET_17_15,오리지널,,가시덤불 골짜기에서는 상상할 수도 없는 일이거늘
-3610,VO_TUTORIAL04_HEMET_18_16,오리지널,,하지만 당신 그냥 애송이 아닙니까
-3611,VO_TUTORIAL04_HEMET_19_17,오리지널,,제 거대한 수렁괴물 앞에 무릎 꿇으십시오
-3612,VO_TUTORIAL04_HEMET_20_18,오리지널,,산탄총
-3613,VO_TUTORIAL04_HEMET_21_19,오리지널,,이런
-3614,VO_TUTORIAL04_HEMET_22_20,오리지널,,오
-3615,VO_TUTORIAL04_HEMET_23_21,오리지널,,죽음
-3616,VO_TUTORIAL04_HEMET_24_22,오리지널,,젠장
-3617,VO_TUTORIAL04_HEMET_24_22_ALT,오리지널,,죽음
-3618,VO_Tutorial06_CHO_02_03,오리지널,,옥룡이 자네를 인도하길
-3619,VO_Tutorial06_CHO_03_01,오리지널,,흠
-3620,VO_Tutorial06_CHO_22_03,오리지널,,죽음
-3621,VO_TUTORIAL_01_ANNOUNCER_01,오리지널,,오 새로운 도전자입니다 마법사 제이나 프라우드모어군요
-3622,VO_TUTORIAL_01_ANNOUNCER_02,오리지널,,누가 이 도전에 응하시겠습니까
-3623,VO_TUTORIAL_01_ANNOUNCER_03,오리지널,,이런 엘윈 숲의 악당 놀 들창코입니다
-3624,VO_TUTORIAL_01_ANNOUNCER_04,오리지널,,자 모이십시오 모이세요
-3625,VO_TUTORIAL_01_ANNOUNCER_05,오리지널,,승부를 시작합니다
-3626,VO_TUTORIAL_01_HOGGER_01_01,오리지널,,기합
-3627,VO_TUTORIAL_01_HOGGER_02_02,오리지널,,웃음
-3628,VO_TUTORIAL_01_HOGGER_03_03,오리지널,,웃음
-3629,VO_TUTORIAL_01_HOGGER_04_04,오리지널,,웃음
-3630,VO_TUTORIAL_01_HOGGER_06_06_ALT,오리지널,,웃음
-3631,VO_TUTORIAL_01_HOGGER_08_08_ALT,오리지널,,죽음
-3632,VO_TUTORIAL_01_HOGGER_09_09_ALT,오리지널,,죽음
-3633,VO_TUTORIAL_01_HOGGER_11_11,오리지널,,죽음
-3634,VO_TUTORIAL_01_JAINA_01_01,오리지널,,시작하죠
-3635,VO_TUTORIAL_01_JAINA_02_02,오리지널,,함께 싸울 하수인이 필요해요
-3636,VO_TUTORIAL_01_JAINA_03_03,오리지널,,놀 네 차례다
-3637,VO_TUTORIAL_01_JAINA_04_04,오리지널,,후회하게 될거야
-3638,VO_TUTORIAL_01_JAINA_05_05,오리지널,,훌륭해요
-3639,VO_TUTORIAL_01_JAINA_06_06,오리지널,,또 하수인이네요 마침 잘됐어요
-3640,VO_TUTORIAL_01_JAINA_07_07,오리지널,,공격하기 딱 좋겠어요
-3641,VO_TUTORIAL_01_JAINA_09_08,오리지널,,이제 녀석의 숨통을 노려요
-3642,VO_TUTORIAL_01_JAINA_10_09,오리지널,,공격력이 5 커다란 녀석이네요
-3643,VO_TUTORIAL_01_JAINA_13_10,오리지널,,지하감옥으로 돌아가라 들창코
-3644,VO_TUTORIAL_01_JAINA_15_11,오리지널,,내 하수인들은 그 정도론 끄떡없다
-3645,VO_TUTORIAL_01_JAINA_15_11_ALT,오리지널,,내 하수인들은 그 정도론 끄떡없어
-3646,VO_TUTORIAL_01_JAINA_16_12,오리지널,,다음은 너다 들창코
-3647,VO_TUTORIAL_01_JAINA_17_13,오리지널,,놀을 공격할까요 아님 들창코
-3648,VO_TUTORIAL_01_JAINA_18_14,오리지널,,이 거대한 놀을 처치하거나 주인을 노릴 수도 있겠죠
-3649,VO_TUTORIAL_01_JAINA_19_15,오리지널,,주문 카드네요 한 번밖에 못쓰니까 유용하게 써야겠죠
-3650,VO_TUTORIAL_01_JAINA_20_16,오리지널,,그래도 이번엔 들창코가 카드를 안냈네요
-3651,VO_TUTORIAL_01_JAINA_21_17,오리지널,,카드 두 장 하나를 남겨뒀었군요
-3652,VO_TUTORIAL_02_JAINA_03_18,오리지널,,어떤데요
-3653,VO_TUTORIAL_02_JAINA_04_19,오리지널,,한 턴을 기다려서 마나를 회복해야 해요
-3654,VO_TUTORIAL_02_JAINA_05_20,오리지널,,그 카드를 내려면 마나가 더 필요해요
-3655,VO_TUTORIAL_02_JAINA_07_21,오리지널,,추가 카드 좋아요
-3656,VO_TUTORIAL_02_JAINA_08_22,오리지널,,마나가 회복됐어요
-3657,VO_TUTORIAL_03_BRO_01_01,오리지널,,기합
-3658,VO_TUTORIAL_03_BRO_02_02,오리지널,,죽음
-3659,VO_TUTORIAL_03_JAINA_01_24,오리지널,,밀림의 왕 무클라에요 혼자 있을 때 잡아요
-3660,VO_TUTORIAL_03_JAINA_05_25,오리지널,,겨우 통 던지는거 밖에 못해 무클라
-3661,VO_TUTORIAL_03_JAINA_07_26,오리지널,,제가 무클라를 처치하게 고릴라를 없애요
-3662,VO_TUTORIAL_03_JAINA_12_28,오리지널,,무슨 소리 안들려요
-3663,VO_TUTORIAL_03_JAINA_13_29,오리지널,,뭐죠
-3664,VO_TUTORIAL_03_JAINA_14_30,오리지널,,왜 이 원숭이들이 제게 바나나를 던지는거죠
-3665,VO_TUTORIAL_03_JAINA_15_31,오리지널,,이 멍청한 원숭이들이
-3666,VO_TUTORIAL_03_JAINA_16_32,오리지널,,고릴라가 너무 강해요 대신 무클라를 없애요
-3667,VO_TUTORIAL_03_JAINA_17_33,오리지널,,저 큰 고릴라를 도발해줄 하수인이 필요해요
-3668,VO_TUTORIAL_03_JAINA_18_34,오리지널,,방어할 수가 없어요
-3669,VO_TUTORIAL_03_JAINA_19_35,오리지널,,정말 거대하네요 그래도 도발 능력은 없으니 다행이죠
-3670,VO_TUTORIAL_03_JAINA_20_36,오리지널,,무클라는 다시 만나게 될거에요
-3671,VO_TUTORIAL_03_MUKLA_01_01,오리지널,,죽음
-3672,VO_TUTORIAL_03_MUKLA_02_02,오리지널,,죽음
-3673,VO_TUTORIAL_03_MUKLA_03_03,오리지널,,웃음
-3674,VO_TUTORIAL_03_MUKLA_04_04,오리지널,,웃음
-3675,VO_TUTORIAL_03_MUKLA_05_05,오리지널,,웃음
-3676,VO_TUTORIAL_03_MUKLA_06_06,오리지널,,웃음
-3677,VO_TUTORIAL_03_MUKLA_07_07,오리지널,,죽음
-3678,VO_TUTORIAL_03_MUKLA_08_08,오리지널,,죽음
-3679,VO_TUTORIAL_04_JAINA_01_37,오리지널,,말씀 조심하세요
-3680,VO_TUTORIAL_04_JAINA_02_38,오리지널,,하지만 전 카드가 더 있죠
-3681,VO_TUTORIAL_04_JAINA_03_39,오리지널,,지금 마나 1로 낼 수 있는 카드가 없어요
-3682,VO_TUTORIAL_04_JAINA_04_40,오리지널,,드워프 님 저도 재주가 좀 있거든요
-3683,VO_TUTORIAL_04_JAINA_05_41,오리지널,,피해 1이라 하수인을 공격할까요 아니면 네싱워리를
-3684,VO_TUTORIAL_04_JAINA_08_42,오리지널,,생명력이 1 딱 좋은 목표네요
-3685,VO_TUTORIAL_04_JAINA_09_43,오리지널,,저걸 무력화시킬 방법을 찾아야 해요
-3686,VO_TUTORIAL_04_JAINA_10_44,오리지널,,사냥은 이걸로 끝이에요 네싱워리 님
-3687,VO_TUTORIAL_05_ILLIDAN_01_02,오리지널,,너흰 아직 준비가 안됐다
-3688,VO_TUTORIAL_05_ILLIDAN_02_03,오리지널,,만 년동안 응어리진 증오를 보여주마
-3689,VO_TUTORIAL_05_ILLIDAN_03_04,오리지널,,배신자의 눈을 똑바로 쳐다보아라
-3690,VO_TUTORIAL_05_ILLIDAN_04_05,오리지널,,누가 또 이 칼날 맛을 보고싶은거냐
-3691,VO_TUTORIAL_05_ILLIDAN_05_06,오리지널,,보라 아지노스의 불꽃을
-3692,VO_TUTORIAL_05_ILLIDAN_06_07,오리지널,,진정한 힘을 모르는 무지한 족속들아
-3693,VO_TUTORIAL_05_ILLIDAN_08_08,오리지널,,내 안에 깃든 악마의 힘을 보여주마
-3694,VO_TUTORIAL_05_ILLIDAN_09_09,오리지널,,어찌 감히 날 건드리려 하느냐
-3695,VO_TUTORIAL_05_ILLIDAN_10_10,오리지널,,건방진 놈
-3696,VO_TUTORIAL_05_ILLIDAN_11_11,오리지널,,이건 상대할 맛 나겠는데
-3697,VO_TUTORIAL_05_ILLIDAN_12_12,오리지널,,죽음
-3698,VO_TUTORIAL_05_ILLIDAN_13_13,오리지널,,안돼
-3699,VO_TUTORIAL_05_ILLIDAN_14_14,오리지널,,웃음
-3700,VO_TUTORIAL_05_JAINA_01_45,오리지널,,글쎄요 지금까지 다섯 번 정도만 싸워봐서
-3701,VO_TUTORIAL_05_JAINA_02_46,오리지널,,상대의 고유 능력이 너무 강력해요
-3702,VO_TUTORIAL_05_JAINA_05_47,오리지널,,일리단 처치에 집중하세요
-3703,VO_TUTORIAL_05_JAINA_06_48,오리지널,,머뭇거리지 말아요 끝내버려요
-3704,VO_TUTORIAL_06_CHO_01_05,오리지널,,오 제이나 만나서 반갑군
-3705,VO_TUTORIAL_06_CHO_02_06,오리지널,,뭘 배웠는지 보여주게
-3706,VO_TUTORIAL_06_CHO_02_06_ALT,오리지널,,뭘 배웠는지 보여주게
-3707,VO_TUTORIAL_06_CHO_03_07,오리지널,,좋아 좋아
-3708,VO_TUTORIAL_06_CHO_04_08,오리지널,,오 영리한 수였네
-3709,VO_TUTORIAL_06_CHO_05_09,오리지널,,전쟁은 마지막 수단일세
-3710,VO_TUTORIAL_06_CHO_06_10,오리지널,,암
-3711,VO_TUTORIAL_06_CHO_07_11,오리지널,,나한테 닿지 않을걸세
-3712,VO_TUTORIAL_06_CHO_08_12,오리지널,,이 위에서 보면 모두들 아주 조그맣다네
-3713,VO_TUTORIAL_06_CHO_08_12_ALT,오리지널,,이 위에서 보면 모두들 아주 조그맣다네
-3714,VO_TUTORIAL_06_CHO_09_13,오리지널,,아주 작은 차이로 인해서도 승리와 패배가 바뀔 수 있다네
-3715,VO_TUTORIAL_06_CHO_12_14,오리지널,,오 자네는 무척 강하군
-3716,VO_TUTORIAL_06_CHO_15_15,오리지널,,나는 칼이나 활은 잘 다루지 못하지만 친구가 아주 많다네
-3717,VO_TUTORIAL_06_CHO_17_16,오리지널,,싸움뿐 아니라 치유도 할 줄 아는 새 친구를 사귀었다네
-3718,VO_TUTORIAL_06_CHO_20_17,오리지널,,자네는 정말 강하군 제이나
-3719,VO_TUTORIAL_06_CHO_21_18,오리지널,,공포는 분노가 되고 분노는 증오가 되고 증오는 배탈이 된다네
-3720,VO_TUTORIAL_06_CHO_22_19,오리지널,,자네는 진정한 달인이네
-3721,VO_TUTORIAL_06_JAINA_01_49,오리지널,,전승지기 님
-3722,VO_TUTORIAL_06_JAINA_02_50,오리지널,,봐드리지 않겠어요
-3723,VO_TUTORIAL_06_JAINA_03_51,오리지널,,순진하시네요 전승지기 님
-3724,VO_TUTORIAL_06_JAINA_04_52,오리지널,,지금은 그렇죠 우선은 병사들을 다 없애고 상대해 드릴게요
-3725,VO_TUTORIAL_06_JAINA_05_53,오리지널,,영광이었어요 전승지기 님
-3726,VO_TUTORIAL_JAINA_02_55_ALT2,오리지널,,죽음
+3570,VO_TU4d_002_Death_02,튜토리얼,광기의 사냥꾼,죽음
+3571,VO_TU4d_002_Play_01,튜토리얼,광기의 사냥꾼,야수 잡을 시간이다
+3572,VO_TU4f_002_Death_02,튜토리얼,판다렌 정찰병,죽음
+3573,VO_TU4f_002_Play_01,튜토리얼,판다렌 정찰병,예 전승지기 님
+3574,VO_TU4f_003_Death_02,튜토리얼,음영파 수도사,죽음
+3575,VO_TU4f_003_Play_01,튜토리얼,음영파 수도사,경의를 표합니다 장로님
+3576,VO_TUTORIAL02_MILLHOUSE_01_04,튜토리얼,밀하우스 마나스톰,내가 먼저 하고 싶었는데
+3577,VO_TUTORIAL02_MILLHOUSE_02_05,튜토리얼,밀하우스 마나스톰,제이나 위대한 밀하우스 마나스톰 님의 진정한 힘을 보아라
+3578,VO_TUTORIAL02_MILLHOUSE_03_06,튜토리얼,밀하우스 마나스톰,무슨 하수인이 저래 멀록
+3579,VO_TUTORIAL02_MILLHOUSE_04_07,튜토리얼,밀하우스 마나스톰,이건 엄청난 카드잖아
+3580,VO_TUTORIAL02_MILLHOUSE_05_08,튜토리얼,밀하우스 마나스톰,내 마나가 좀 늘어날 때까지만 기다려봐
+3581,VO_TUTORIAL02_MILLHOUSE_06_09,튜토리얼,밀하우스 마나스톰,널 위해 준비했어 파멸
+3582,VO_TUTORIAL02_MILLHOUSE_07_10,튜토리얼,밀하우스 마나스톰,마나가 늘어났어 이제 다 됐다고
+3583,VO_TUTORIAL02_MILLHOUSE_08_11,튜토리얼,밀하우스 마나스톰,지금 분위기가 어떤지 알아
+3584,VO_TUTORIAL02_MILLHOUSE_09_12,튜토리얼,밀하우스 마나스톰,내가 이기고 있다고
+3585,VO_TUTORIAL02_MILLHOUSE_10_13,튜토리얼,밀하우스 마나스톰,야 수염은 건들지 마
+3586,VO_TUTORIAL02_MILLHOUSE_11_14,튜토리얼,밀하우스 마나스톰,이거 맘에 쏙 들걸
+3587,VO_TUTORIAL02_MILLHOUSE_13_16,튜토리얼,밀하우스 마나스톰,내 마나가 10 될 때까지만 기다려봐
+3588,VO_TUTORIAL02_MILLHOUSE_15_17,튜토리얼,밀하우스 마나스톰,얼른 좀 해 이 카드 빨리 내고 싶단 말이야
+3589,VO_TUTORIAL02_MILLHOUSE_16_18,튜토리얼,밀하우스 마나스톰,빨리 빨리 빨리 빨리
+3590,VO_TUTORIAL02_MILLHOUSE_17_19,튜토리얼,밀하우스 마나스톰,공격 하지좀 마 나 이기고 싶단 말이야
+3591,VO_TUTORIAL02_MILLHOUSE_19_21,튜토리얼,밀하우스 마나스톰,신고하고 말거야
+3592,VO_TUTORIAL02_MILLHOUSE_20_22_ALT,튜토리얼,밀하우스 마나스톰,죽음
+3593,VO_TUTORIAL04_HEMET_01_01,튜토리얼,헤멧 네싱워리,깜찍한 애송이시군요
+3594,VO_TUTORIAL04_HEMET_02_02,튜토리얼,헤멧 네싱워리,이 늙은 헤멧에게 그런 식으로 말하다니
+3595,VO_TUTORIAL04_HEMET_03_03,튜토리얼,헤멧 네싱워리,하 제가 먼저 하겠습니다
+3596,VO_TUTORIAL04_HEMET_04_04_ALT,튜토리얼,헤멧 네싱워리,오 좋군요 그거 필요하게 될겁니다
+3597,VO_TUTORIAL04_HEMET_06_05,튜토리얼,헤멧 네싱워리,하수인과 싸우는데 익숙하실 것 같군요
+3598,VO_TUTORIAL04_HEMET_07_06,튜토리얼,헤멧 네싱워리,헤멧 이 몸은 직접 싸우지요
+3599,VO_TUTORIAL04_HEMET_07_06_ALT,튜토리얼,헤멧 네싱워리,헤멧은 직접 싸우지요
+3600,VO_TUTORIAL04_HEMET_08_07,튜토리얼,헤멧 네싱워리,야수다 박제로 만들어야겠군요
+3601,VO_TUTORIAL04_HEMET_09_08,튜토리얼,헤멧 네싱워리,그 야수의 가죽을 벗겨 목도리로 쓰면 딱이겠군요
+3602,VO_TUTORIAL04_HEMET_10_09,튜토리얼,헤멧 네싱워리,간식도 갖다주시다니 고맙습니다
+3603,VO_TUTORIAL04_HEMET_11_10,튜토리얼,헤멧 네싱워리,즐거운 사냥
+3604,VO_TUTORIAL04_HEMET_12_11,튜토리얼,헤멧 네싱워리,그건 불공평합니다
+3605,VO_TUTORIAL04_HEMET_12_11_ALT,튜토리얼,헤멧 네싱워리,뭐에요
+3606,VO_TUTORIAL04_HEMET_13_12,튜토리얼,헤멧 네싱워리,다시 글이나 써야겠군요
+3607,VO_TUTORIAL04_HEMET_15_13,튜토리얼,헤멧 네싱워리,거대한 호랑이 뱅갈라시를 추적할 때가 생각나는군요
+3608,VO_TUTORIAL04_HEMET_16_14,튜토리얼,헤멧 네싱워리,혹시 가시덤불 골짜기의 푸른 언덕이라는 책 읽어보셨습니까
+3609,VO_TUTORIAL04_HEMET_17_15,튜토리얼,헤멧 네싱워리,가시덤불 골짜기에서는 상상할 수도 없는 일이거늘
+3610,VO_TUTORIAL04_HEMET_18_16,튜토리얼,헤멧 네싱워리,하지만 당신 그냥 애송이 아닙니까
+3611,VO_TUTORIAL04_HEMET_19_17,튜토리얼,헤멧 네싱워리,제 거대한 수렁괴물 앞에 무릎 꿇으십시오
+3612,VO_TUTORIAL04_HEMET_20_18,튜토리얼,헤멧 네싱워리,산탄총
+3613,VO_TUTORIAL04_HEMET_21_19,튜토리얼,헤멧 네싱워리,이런
+3614,VO_TUTORIAL04_HEMET_22_20,튜토리얼,헤멧 네싱워리,오
+3615,VO_TUTORIAL04_HEMET_23_21,튜토리얼,헤멧 네싱워리,죽음
+3616,VO_TUTORIAL04_HEMET_24_22,튜토리얼,헤멧 네싱워리,젠장
+3617,VO_TUTORIAL04_HEMET_24_22_ALT,튜토리얼,헤멧 네싱워리,죽음
+3618,VO_Tutorial06_CHO_02_03,튜토리얼,전승지기 초,옥룡이 자네를 인도하길
+3619,VO_Tutorial06_CHO_03_01,튜토리얼,전승지기 초,흠
+3620,VO_Tutorial06_CHO_22_03,튜토리얼,전승지기 초,죽음
+3621,VO_TUTORIAL_01_ANNOUNCER_01,튜토리얼,여관주인,오 새로운 도전자입니다 마법사 제이나 프라우드모어군요
+3622,VO_TUTORIAL_01_ANNOUNCER_02,튜토리얼,여관주인,누가 이 도전에 응하시겠습니까
+3623,VO_TUTORIAL_01_ANNOUNCER_03,튜토리얼,여관주인,이런 엘윈 숲의 악당 놀 들창코입니다
+3624,VO_TUTORIAL_01_ANNOUNCER_04,튜토리얼,여관주인,자 모이십시오 모이세요
+3625,VO_TUTORIAL_01_ANNOUNCER_05,튜토리얼,여관주인,승부를 시작합니다
+3626,VO_TUTORIAL_01_HOGGER_01_01,튜토리얼,들창코,기합
+3627,VO_TUTORIAL_01_HOGGER_02_02,튜토리얼,들창코,웃음
+3628,VO_TUTORIAL_01_HOGGER_03_03,튜토리얼,들창코,웃음
+3629,VO_TUTORIAL_01_HOGGER_04_04,튜토리얼,들창코,웃음
+3630,VO_TUTORIAL_01_HOGGER_06_06_ALT,튜토리얼,들창코,웃음
+3631,VO_TUTORIAL_01_HOGGER_08_08_ALT,튜토리얼,들창코,죽음
+3632,VO_TUTORIAL_01_HOGGER_09_09_ALT,튜토리얼,들창코,죽음
+3633,VO_TUTORIAL_01_HOGGER_11_11,튜토리얼,들창코,죽음
+3634,VO_TUTORIAL_01_JAINA_01_01,튜토리얼,제이나,시작하죠
+3635,VO_TUTORIAL_01_JAINA_02_02,튜토리얼,제이나,함께 싸울 하수인이 필요해요
+3636,VO_TUTORIAL_01_JAINA_03_03,튜토리얼,제이나,놀 네 차례다
+3637,VO_TUTORIAL_01_JAINA_04_04,튜토리얼,제이나,후회하게 될거야
+3638,VO_TUTORIAL_01_JAINA_05_05,튜토리얼,제이나,훌륭해요
+3639,VO_TUTORIAL_01_JAINA_06_06,튜토리얼,제이나,또 하수인이네요 마침 잘됐어요
+3640,VO_TUTORIAL_01_JAINA_07_07,튜토리얼,제이나,공격하기 딱 좋겠어요
+3641,VO_TUTORIAL_01_JAINA_09_08,튜토리얼,제이나,이제 녀석의 숨통을 노려요
+3642,VO_TUTORIAL_01_JAINA_10_09,튜토리얼,제이나,공격력이 5 커다란 녀석이네요
+3643,VO_TUTORIAL_01_JAINA_13_10,튜토리얼,제이나,지하감옥으로 돌아가라 들창코
+3644,VO_TUTORIAL_01_JAINA_15_11,튜토리얼,제이나,내 하수인들은 그 정도론 끄떡없다
+3645,VO_TUTORIAL_01_JAINA_15_11_ALT,튜토리얼,제이나,내 하수인들은 그 정도론 끄떡없어
+3646,VO_TUTORIAL_01_JAINA_16_12,튜토리얼,제이나,다음은 너다 들창코
+3647,VO_TUTORIAL_01_JAINA_17_13,튜토리얼,제이나,놀을 공격할까요 아님 들창코
+3648,VO_TUTORIAL_01_JAINA_18_14,튜토리얼,제이나,이 거대한 놀을 처치하거나 주인을 노릴 수도 있겠죠
+3649,VO_TUTORIAL_01_JAINA_19_15,튜토리얼,제이나,주문 카드네요 한 번밖에 못쓰니까 유용하게 써야겠죠
+3650,VO_TUTORIAL_01_JAINA_20_16,튜토리얼,제이나,그래도 이번엔 들창코가 카드를 안냈네요
+3651,VO_TUTORIAL_01_JAINA_21_17,튜토리얼,제이나,카드 두 장 하나를 남겨뒀었군요
+3652,VO_TUTORIAL_02_JAINA_03_18,튜토리얼,제이나,어떤데요
+3653,VO_TUTORIAL_02_JAINA_04_19,튜토리얼,제이나,한 턴을 기다려서 마나를 회복해야 해요
+3654,VO_TUTORIAL_02_JAINA_05_20,튜토리얼,제이나,그 카드를 내려면 마나가 더 필요해요
+3655,VO_TUTORIAL_02_JAINA_07_21,튜토리얼,제이나,추가 카드 좋아요
+3656,VO_TUTORIAL_02_JAINA_08_22,튜토리얼,제이나,마나가 회복됐어요
+3657,VO_TUTORIAL_03_BRO_01_01,튜토리얼,무클라의 큰형,기합
+3658,VO_TUTORIAL_03_BRO_02_02,튜토리얼,무클라의 큰형,죽음
+3659,VO_TUTORIAL_03_JAINA_01_24,튜토리얼,제이나,밀림의 왕 무클라에요 혼자 있을 때 잡아요
+3660,VO_TUTORIAL_03_JAINA_05_25,튜토리얼,제이나,겨우 통 던지는거 밖에 못해 무클라
+3661,VO_TUTORIAL_03_JAINA_07_26,튜토리얼,제이나,제가 무클라를 처치하게 고릴라를 없애요
+3662,VO_TUTORIAL_03_JAINA_12_28,튜토리얼,제이나,무슨 소리 안들려요
+3663,VO_TUTORIAL_03_JAINA_13_29,튜토리얼,제이나,뭐죠
+3664,VO_TUTORIAL_03_JAINA_14_30,튜토리얼,제이나,왜 이 원숭이들이 제게 바나나를 던지는거죠
+3665,VO_TUTORIAL_03_JAINA_15_31,튜토리얼,제이나,이 멍청한 원숭이들이
+3666,VO_TUTORIAL_03_JAINA_16_32,튜토리얼,제이나,고릴라가 너무 강해요 대신 무클라를 없애요
+3667,VO_TUTORIAL_03_JAINA_17_33,튜토리얼,제이나,저 큰 고릴라를 도발해줄 하수인이 필요해요
+3668,VO_TUTORIAL_03_JAINA_18_34,튜토리얼,제이나,방어할 수가 없어요
+3669,VO_TUTORIAL_03_JAINA_19_35,튜토리얼,제이나,정말 거대하네요 그래도 도발 능력은 없으니 다행이죠
+3670,VO_TUTORIAL_03_JAINA_20_36,튜토리얼,제이나,무클라는 다시 만나게 될거에요
+3671,VO_TUTORIAL_03_MUKLA_01_01,튜토리얼,밀림의 왕 무클라,죽음
+3672,VO_TUTORIAL_03_MUKLA_02_02,튜토리얼,밀림의 왕 무클라,죽음
+3673,VO_TUTORIAL_03_MUKLA_03_03,튜토리얼,밀림의 왕 무클라,웃음
+3674,VO_TUTORIAL_03_MUKLA_04_04,튜토리얼,밀림의 왕 무클라,웃음
+3675,VO_TUTORIAL_03_MUKLA_05_05,튜토리얼,밀림의 왕 무클라,웃음
+3676,VO_TUTORIAL_03_MUKLA_06_06,튜토리얼,밀림의 왕 무클라,웃음
+3677,VO_TUTORIAL_03_MUKLA_07_07,튜토리얼,밀림의 왕 무클라,죽음
+3678,VO_TUTORIAL_03_MUKLA_08_08,튜토리얼,밀림의 왕 무클라,죽음
+3679,VO_TUTORIAL_04_JAINA_01_37,튜토리얼,제이나,말씀 조심하세요
+3680,VO_TUTORIAL_04_JAINA_02_38,튜토리얼,제이나,하지만 전 카드가 더 있죠
+3681,VO_TUTORIAL_04_JAINA_03_39,튜토리얼,제이나,지금 마나 1로 낼 수 있는 카드가 없어요
+3682,VO_TUTORIAL_04_JAINA_04_40,튜토리얼,제이나,드워프 님 저도 재주가 좀 있거든요
+3683,VO_TUTORIAL_04_JAINA_05_41,튜토리얼,제이나,피해 1이라 하수인을 공격할까요 아니면 네싱워리를
+3684,VO_TUTORIAL_04_JAINA_08_42,튜토리얼,제이나,생명력이 1 딱 좋은 목표네요
+3685,VO_TUTORIAL_04_JAINA_09_43,튜토리얼,제이나,저걸 무력화시킬 방법을 찾아야 해요
+3686,VO_TUTORIAL_04_JAINA_10_44,튜토리얼,제이나,사냥은 이걸로 끝이에요 네싱워리 님
+3687,VO_TUTORIAL_05_ILLIDAN_01_02,튜토리얼,일리단 스톰레이지,너흰 아직 준비가 안됐다
+3688,VO_TUTORIAL_05_ILLIDAN_02_03,튜토리얼,일리단 스톰레이지,만 년동안 응어리진 증오를 보여주마
+3689,VO_TUTORIAL_05_ILLIDAN_03_04,튜토리얼,일리단 스톰레이지,배신자의 눈을 똑바로 쳐다보아라
+3690,VO_TUTORIAL_05_ILLIDAN_04_05,튜토리얼,일리단 스톰레이지,누가 또 이 칼날 맛을 보고싶은거냐
+3691,VO_TUTORIAL_05_ILLIDAN_05_06,튜토리얼,일리단 스톰레이지,보라 아지노스의 불꽃을
+3692,VO_TUTORIAL_05_ILLIDAN_06_07,튜토리얼,일리단 스톰레이지,진정한 힘을 모르는 무지한 족속들아
+3693,VO_TUTORIAL_05_ILLIDAN_08_08,튜토리얼,일리단 스톰레이지,내 안에 깃든 악마의 힘을 보여주마
+3694,VO_TUTORIAL_05_ILLIDAN_09_09,튜토리얼,일리단 스톰레이지,어찌 감히 날 건드리려 하느냐
+3695,VO_TUTORIAL_05_ILLIDAN_10_10,튜토리얼,일리단 스톰레이지,건방진 놈
+3696,VO_TUTORIAL_05_ILLIDAN_11_11,튜토리얼,일리단 스톰레이지,이건 상대할 맛 나겠는데
+3697,VO_TUTORIAL_05_ILLIDAN_12_12,튜토리얼,일리단 스톰레이지,죽음
+3698,VO_TUTORIAL_05_ILLIDAN_13_13,튜토리얼,일리단 스톰레이지,안돼
+3699,VO_TUTORIAL_05_ILLIDAN_14_14,튜토리얼,일리단 스톰레이지,웃음
+3700,VO_TUTORIAL_05_JAINA_01_45,튜토리얼,제이나,글쎄요 지금까지 다섯 번 정도만 싸워봐서
+3701,VO_TUTORIAL_05_JAINA_02_46,튜토리얼,제이나,상대의 고유 능력이 너무 강력해요
+3702,VO_TUTORIAL_05_JAINA_05_47,튜토리얼,제이나,일리단 처치에 집중하세요
+3703,VO_TUTORIAL_05_JAINA_06_48,튜토리얼,제이나,머뭇거리지 말아요 끝내버려요
+3704,VO_TUTORIAL_06_CHO_01_05,튜토리얼,전승지기 초,오 제이나 만나서 반갑군
+3705,VO_TUTORIAL_06_CHO_02_06,튜토리얼,전승지기 초,뭘 배웠는지 보여주게
+3706,VO_TUTORIAL_06_CHO_02_06_ALT,튜토리얼,전승지기 초,뭘 배웠는지 보여주게
+3707,VO_TUTORIAL_06_CHO_03_07,튜토리얼,전승지기 초,좋아 좋아
+3708,VO_TUTORIAL_06_CHO_04_08,튜토리얼,전승지기 초,오 영리한 수였네
+3709,VO_TUTORIAL_06_CHO_05_09,튜토리얼,전승지기 초,전쟁은 마지막 수단일세
+3710,VO_TUTORIAL_06_CHO_06_10,튜토리얼,전승지기 초,암
+3711,VO_TUTORIAL_06_CHO_07_11,튜토리얼,전승지기 초,나한테 닿지 않을걸세
+3712,VO_TUTORIAL_06_CHO_08_12,튜토리얼,전승지기 초,이 위에서 보면 모두들 아주 조그맣다네
+3713,VO_TUTORIAL_06_CHO_08_12_ALT,튜토리얼,전승지기 초,이 위에서 보면 모두들 아주 조그맣다네
+3714,VO_TUTORIAL_06_CHO_09_13,튜토리얼,전승지기 초,아주 작은 차이로 인해서도 승리와 패배가 바뀔 수 있다네
+3715,VO_TUTORIAL_06_CHO_12_14,튜토리얼,전승지기 초,오 자네는 무척 강하군
+3716,VO_TUTORIAL_06_CHO_15_15,튜토리얼,전승지기 초,나는 칼이나 활은 잘 다루지 못하지만 친구가 아주 많다네
+3717,VO_TUTORIAL_06_CHO_17_16,튜토리얼,전승지기 초,싸움뿐 아니라 치유도 할 줄 아는 새 친구를 사귀었다네
+3718,VO_TUTORIAL_06_CHO_20_17,튜토리얼,전승지기 초,자네는 정말 강하군 제이나
+3719,VO_TUTORIAL_06_CHO_21_18,튜토리얼,전승지기 초,공포는 분노가 되고 분노는 증오가 되고 증오는 배탈이 된다네
+3720,VO_TUTORIAL_06_CHO_22_19,튜토리얼,전승지기 초,자네는 진정한 달인이네
+3721,VO_TUTORIAL_06_JAINA_01_49,튜토리얼,제이나,전승지기 님
+3722,VO_TUTORIAL_06_JAINA_02_50,튜토리얼,제이나,봐드리지 않겠어요
+3723,VO_TUTORIAL_06_JAINA_03_51,튜토리얼,제이나,순진하시네요 전승지기 님
+3724,VO_TUTORIAL_06_JAINA_04_52,튜토리얼,제이나,지금은 그렇죠 우선은 병사들을 다 없애고 상대해 드릴게요
+3725,VO_TUTORIAL_06_JAINA_05_53,튜토리얼,제이나,영광이었어요 전승지기 님
+3726,VO_TUTORIAL_JAINA_02_55_ALT2,튜토리얼,제이나,죽음
 3727,VO_W2_462_AnimalSummon_18,오리지널,야생의 벗,이리 와라
 3728,VO_WhiteKing_Male_ChessPiece_ChessDeath_01,선술집 난투,체스 경기,체크메이트
 3729,VO_WhiteKing_Male_ChessPiece_ChessDeath_02,선술집 난투,체스 경기,죽음
