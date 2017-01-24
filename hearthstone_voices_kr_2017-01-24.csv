@@ -523,8 +523,8 @@ id,filename,expansion,cardname,txt
 522,VO_BRM_027h_Time_48,선술집 난투,불의 군주 라그나로스,심지가 불타고 있다
 523,VO_BRM_027h_Well_Played_06,선술집 난투,불의 군주 라그나로스,훌륭하군
 524,VO_BRM_027h_WOW_20,선술집 난투,불의 군주 라그나로스,강렬하군
-525,VO_BRM_028_Death_08,검은바위 산,,죽음
-526,VO_BRM_029_Death_10,검은바위 산,,죽음
+525,VO_BRM_028_Death_08,검은바위 산,불명,죽음
+526,VO_BRM_029_Death_10,검은바위 산,불명,죽음
 527,VO_BRM_030_Attack_20,검은바위 산,네파리안,게임을 시작하자
 528,VO_BRM_030_Death_21,검은바위 산,네파리안,죽음
 529,VO_BRM_033_Attack_03,검은바위 산,검은날개 기술병,성가시게 굴지마
@@ -842,178 +842,178 @@ id,filename,expansion,cardname,txt
 841,VO_CFM_637_Male_Beholder_Attack_02,비열한 거리의 가젯잔,해적 패치스,아이 아이
 842,VO_CFM_637_Male_Beholder_Death_01,비열한 거리의 가젯잔,해적 패치스,죽음
 843,VO_CFM_637_Male_Beholder_Play_01,비열한 거리의 가젯잔,해적 패치스,이제 내가 두목이다
-844,VO_CFM_639_Male_Dwarf_Attack_01,비열한 거리의 가젯잔,,당장
-845,VO_CFM_639_Male_Dwarf_Death_01,비열한 거리의 가젯잔,,죽음
-846,VO_CFM_639_Male_Dwarf_Play_01,비열한 거리의 가젯잔,,자릿세는 내셔야지
-847,VO_CFM_643_Male_Goblin_Attack_01,비열한 거리의 가젯잔,,새로운 실험체군
-848,VO_CFM_643_Male_Goblin_Death_01,비열한 거리의 가젯잔,,죽음
-849,VO_CFM_643_Male_Goblin_Play_01,비열한 거리의 가젯잔,,로봇 닭을 준비하라구
-850,VO_CFM_646_Male_Gnome_Attack_02,비열한 거리의 가젯잔,,좋아
-851,VO_CFM_646_Male_Gnome_Death_01,비열한 거리의 가젯잔,,메스꺼워
-852,VO_CFM_646_Male_Gnome_Play_01,비열한 거리의 가젯잔,,속이 메스꺼울거야
-853,VO_CFM_648_Male_Goblin_Attack_01,비열한 거리의 가젯잔,,기합
-854,VO_CFM_648_Male_Goblin_Death_01,비열한 거리의 가젯잔,,죽음
-855,VO_CFM_648_Male_Goblin_Play_02,비열한 거리의 가젯잔,,내 작은 친구를 소개하지
-856,VO_CFM_648t_Male_Ogre_Attack_01,비열한 거리의 가젯잔,,뭉갠다
-857,VO_CFM_648t_Male_Ogre_Death_01,비열한 거리의 가젯잔,,죽음
-858,VO_CFM_648t_Male_Ogre_Play_02,비열한 거리의 가젯잔,,안녕
-859,VO_CFM_649_Female_Harpy_Attack_01,비열한 거리의 가젯잔,,기합
-860,VO_CFM_649_Female_Harpy_Death_01,비열한 거리의 가젯잔,,죽음
-861,VO_CFM_649_Female_Harpy_Play_01,비열한 거리의 가젯잔,,수정 카자쿠스의 수정이라니
-862,VO_CFM_650_Male_Murloc_Attack_01,비열한 거리의 가젯잔,,기합
-863,VO_CFM_650_Male_Murloc_Death_01,비열한 거리의 가젯잔,,죽음
-864,VO_CFM_650_Male_Murloc_Play_04,비열한 거리의 가젯잔,,멀록
-865,VO_CFM_651_Female_Naga_Attack_01,비열한 거리의 가젯잔,,내 검을 받아라
-866,VO_CFM_651_Female_Naga_Death_01,비열한 거리의 가젯잔,,죽음
-867,VO_CFM_651_Female_Naga_Play_01,비열한 거리의 가젯잔,,놈들을 침몰시켜라
-868,VO_CFM_652_Male_Ogre_Attack_01,비열한 거리의 가젯잔,,하품
-869,VO_CFM_652_Male_Ogre_Death_01,비열한 거리의 가젯잔,,죽음
-870,VO_CFM_652_Male_Ogre_Play_02,비열한 거리의 가젯잔,,난 아직인데
-871,VO_CFM_653_Male_Orc_Attack_01,비열한 거리의 가젯잔,,갈겨버려
-872,VO_CFM_653_Male_Orc_Death_01,비열한 거리의 가젯잔,,죽음
-873,VO_CFM_653_Male_Orc_Play_01,비열한 거리의 가젯잔,,이거 죽이는데
-874,VO_CFM_654_Male_Tauren_Attack_01,비열한 거리의 가젯잔,,한 잔 하시죠
-875,VO_CFM_654_Male_Tauren_Death_01,비열한 거리의 가젯잔,,죽음
-876,VO_CFM_654_Male_Tauren_Play_01,비열한 거리의 가젯잔,,팁을 남기는걸 잊지 마십시오
-877,VO_CFM_656_Male_NightElf_Attack_01,비열한 거리의 가젯잔,,거기 너
-878,VO_CFM_656_Male_NightElf_Death_01,비열한 거리의 가젯잔,,이런
-879,VO_CFM_656_Male_NightElf_Play_01,비열한 거리의 가젯잔,,내 눈을 피할 순 없지
-880,VO_CFM_657_Male_Arakkoa_Attack_01,비열한 거리의 가젯잔,,기합
-881,VO_CFM_657_Male_Arakkoa_Death_01,비열한 거리의 가젯잔,,죽음
-882,VO_CFM_657_Male_Arakkoa_Play_01,비열한 거리의 가젯잔,,네 미래에 재물이 보인다
-883,VO_CFM_658_Male_Tauren_Attack_02,비열한 거리의 가젯잔,,맨 뒤로 가
-884,VO_CFM_658_Male_Tauren_Death_06,비열한 거리의 가젯잔,,죽음
-885,VO_CFM_658_Male_Tauren_Play_03,비열한 거리의 가젯잔,,초대는 받았나
-886,VO_CFM_659_Female_Gnome_Attack_01,비열한 거리의 가젯잔,,천박해
-887,VO_CFM_659_Female_Gnome_Death_01,비열한 거리의 가젯잔,,죽음
-888,VO_CFM_659_Female_Gnome_Play_01,비열한 거리의 가젯잔,,나와 춤 춰요
-889,VO_CFM_660_Female_BloodElf_Attack_01,비열한 거리의 가젯잔,,칼이라니
-890,VO_CFM_660_Female_BloodElf_Death_01,비열한 거리의 가젯잔,,죽음
-891,VO_CFM_660_Female_BloodElf_Play_01,비열한 거리의 가젯잔,,네 영혼도 거둬주마
-892,VO_CFM_663_Female_Undead_Attack_01,비열한 거리의 가젯잔,,내가 경고 했잖아
-893,VO_CFM_663_Female_Undead_Death_01,비열한 거리의 가젯잔,,죽음
-894,VO_CFM_663_Female_Undead_Play_01,비열한 거리의 가젯잔,,조심해 좀 사나운 애들이거든
-895,VO_CFM_665_Male_Worgen_Attack_01,비열한 거리의 가젯잔,,머리에서 손 떼
-896,VO_CFM_665_Male_Worgen_Death_01,비열한 거리의 가젯잔,,죽음
-897,VO_CFM_665_Male_Worgen_Play_01,비열한 거리의 가젯잔,,나는 차가운 도시의 늑대
-898,VO_CFM_666_Male_Hozen_Attack_02,비열한 거리의 가젯잔,,응가해버린다
-899,VO_CFM_666_Male_Hozen_Death_01,비열한 거리의 가젯잔,,죽음
-900,VO_CFM_666_Male_Hozen_Play_01,비열한 거리의 가젯잔,,약한 미끈 고기들은 응가하기 좋다
-901,VO_CFM_667_Female_Goblin_Attack_01,비열한 거리의 가젯잔,,꽝
-902,VO_CFM_667_Female_Goblin_Death_01,비열한 거리의 가젯잔,,폭탄 받아라
-903,VO_CFM_667_Female_Goblin_Play_01,비열한 거리의 가젯잔,,터뜨려 볼까
-904,VO_CFM_668_Male_Dwarf_Attack_02,비열한 거리의 가젯잔,,하나처럼
-905,VO_CFM_668_Male_Dwarf_Death_01,비열한 거리의 가젯잔,,죽음
-906,VO_CFM_668_Male_Dwarf_Play_02,비열한 거리의 가젯잔,,얘들아 달려들어
-907,VO_CFM_668t2_Male_Faceless_Attack_02,비열한 거리의 가젯잔,,애석하군
-908,VO_CFM_668t2_Male_Faceless_Death_01,비열한 거리의 가젯잔,,죽음
-909,VO_CFM_668t2_Male_Faceless_Play_05,비열한 거리의 가젯잔,,헛것이 보이나
-910,VO_CFM_668t_Male_Faceless_Attack_01,비열한 거리의 가젯잔,,애석하군
-911,VO_CFM_668t_Male_Faceless_Death_01,비열한 거리의 가젯잔,,죽음
-912,VO_CFM_668t_Male_Faceless_Play_05,비열한 거리의 가젯잔,,헛것이 보이나
-913,VO_CFM_669_Male_Trogg_Attack_01,비열한 거리의 가젯잔,,반짝이
-914,VO_CFM_669_Male_Trogg_Attack_02,비열한 거리의 가젯잔,,번쩍번쩍
-915,VO_CFM_669_Male_Trogg_Death_01,비열한 거리의 가젯잔,,죽음
-916,VO_CFM_670_Male_Goblin_Attack_01,비열한 거리의 가젯잔,,어이 저리 꺼져
-917,VO_CFM_670_Male_Goblin_Death_01,비열한 거리의 가젯잔,,죽음
-918,VO_CFM_670_Male_Goblin_Play_01,비열한 거리의 가젯잔,,가젯잔에 온걸 환영해
-919,VO_CFM_671_Female_Wretched_Attack_01,비열한 거리의 가젯잔,,얼어라
-920,VO_CFM_671_Female_Wretched_Death_01,비열한 거리의 가젯잔,,죽음
-921,VO_CFM_671_Female_Wretched_Play_03,비열한 거리의 가젯잔,,아주 어여쁘게 얼어붙었구나
-922,VO_CFM_672_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,,대가를 치뤄라
-923,VO_CFM_672_Female_Pandaren_Death_01,비열한 거리의 가젯잔,,죽음
-924,VO_CFM_672_Female_Pandaren_Play_01,비열한 거리의 가젯잔,,누구나 원하는게 있기 마련이지
-925,VO_CFM_685_Male_Ogre_Attack_01_Hon,비열한 거리의 가젯잔,,이놈은 우리가 맡지 박살낸다
-926,VO_CFM_685_Male_Ogre_Death_01_Hon,비열한 거리의 가젯잔,,죽음
-927,VO_CFM_685_Male_Ogre_Play_01_Hon,비열한 거리의 가젯잔,,떡대들에 합류해라 아니면 박살나던가
-928,VO_CFM_687_Female_BloodElf_Attack_01,비열한 거리의 가젯잔,,힘이 넘쳐나
-929,VO_CFM_687_Female_BloodElf_Death_01,비열한 거리의 가젯잔,,죽음
-930,VO_CFM_687_Female_BloodElf_Play_02,비열한 거리의 가젯잔,,비밀 결사의 힘을 받아들여라
-931,VO_CFM_688_Male_Quilboar_Attack_01,비열한 거리의 가젯잔,,한바탕 설쳐볼까
-932,VO_CFM_688_Male_Quilboar_Attack_02,비열한 거리의 가젯잔,,모조리 다져버리겠어
-933,VO_CFM_688_Male_Quilboar_Attack_03,비열한 거리의 가젯잔,,고기다
-934,VO_CFM_688_Male_Quilboar_Death_01,비열한 거리의 가젯잔,,구워졌다
-935,VO_CFM_688_Male_Quilboar_Play_01,비열한 거리의 가젯잔,,도로의 무법자가 나가신다
-936,VO_CFM_691_Male_Mantid_Attack_01,비열한 거리의 가젯잔,,무리여
-937,VO_CFM_691_Male_Mantid_Death_01,비열한 거리의 가젯잔,,죽음
-938,VO_CFM_691_Male_Mantid_Play_01,비열한 거리의 가젯잔,,숨겨진 군대가 드러나노니
-939,VO_CFM_693_Female_Jinyu_Attack_01,비열한 거리의 가젯잔,,출항
-940,VO_CFM_693_Female_Jinyu_Death_01,비열한 거리의 가젯잔,,죽음
-941,VO_CFM_693_Female_Jinyu_Play_01,비열한 거리의 가젯잔,,어디로 데려다줄까
-942,VO_CFM_694_Male_Mantid_Attack_01,비열한 거리의 가젯잔,,어둠속에 비수로
-943,VO_CFM_694_Male_Mantid_Death_01,비열한 거리의 가젯잔,,죽음
-944,VO_CFM_694_Male_Mantid_Play_01,비열한 거리의 가젯잔,,그림자의 가르침이니라
-945,VO_CFM_697_Female_NightElf_Attack_01,비열한 거리의 가젯잔,,피어나라
-946,VO_CFM_697_Female_NightElf_Death_01,비열한 거리의 가젯잔,,죽음
-947,VO_CFM_697_Female_NightElf_Play_01,비열한 거리의 가젯잔,,연꽃이 만개한다
-948,VO_CFM_750_Male_VoidWalker_Attack_01,비열한 거리의 가젯잔,,내 명령을 따라라
-949,VO_CFM_750_Male_VoidWalker_Death_01,비열한 거리의 가젯잔,,죽음
-950,VO_CFM_750_Male_VoidWalker_Play_01,비열한 거리의 가젯잔,,내가 곧 공허이니 나는 너의 주인이니라
-951,VO_CFM_753_Male_Goblin_Attack_01,비열한 거리의 가젯잔,,미안하게 됐네
-952,VO_CFM_753_Male_Goblin_Death_01,비열한 거리의 가젯잔,,이런 개떡 같은
-953,VO_CFM_753_Male_Goblin_Play_01,비열한 거리의 가젯잔,,그건 사고였다고
-954,VO_CFM_754_Male_Goblin_Attack_03,비열한 거리의 가젯잔,,악감정은 당연히 있지
-955,VO_CFM_754_Male_Goblin_Death_02,비열한 거리의 가젯잔,,빗맞았네
-956,VO_CFM_754_Male_Goblin_Play_01,비열한 거리의 가젯잔,,이게 바로 자동섬멸포 마크7이야
-957,VO_CFM_755_Female_Goblin_Attack_01,비열한 거리의 가젯잔,,로켓 발사
-958,VO_CFM_755_Female_Goblin_Death_01,비열한 거리의 가젯잔,,죽음
-959,VO_CFM_755_Female_Goblin_Play_01,비열한 거리의 가젯잔,,뭐든 일단 터뜨리고 봐
-960,VO_CFM_756_Female_Orc_Attack_01,비열한 거리의 가젯잔,,이거나 받아라
-961,VO_CFM_756_Female_Orc_Death_01,비열한 거리의 가젯잔,,죽음
-962,VO_CFM_756_Female_Orc_Play_01,비열한 거리의 가젯잔,,날카로운 가젯잔 강철
-963,VO_CFM_759_Male_Tuskarr_Attack_01,비열한 거리의 가젯잔,,봤지
-964,VO_CFM_759_Male_Tuskarr_Death_01,비열한 거리의 가젯잔,,죽음
-965,VO_CFM_759_Male_Tuskarr_Play_01,비열한 거리의 가젯잔,,바다 깊숙한 곳에 쳐넣어야겠군
-966,VO_CFM_760_Female_Dranei_Attack_01,비열한 거리의 가젯잔,,빨리
-967,VO_CFM_760_Female_Dranei_Death_01,비열한 거리의 가젯잔,,죽음
-968,VO_CFM_760_Female_Dranei_Play_01,비열한 거리의 가젯잔,,이런 늦어버렸어
-969,VO_CFM_781_Male_Sha_Attack_01,비열한 거리의 가젯잔,,굴복해라
-970,VO_CFM_781_Male_Sha_Death_01,비열한 거리의 가젯잔,,죽음
-971,VO_CFM_781_Male_Sha_Play_01,비열한 거리의 가젯잔,,어둠을 받아들여라
-972,VO_CFM_790_Male_Kobold_Attack_01,비열한 거리의 가젯잔,,말할께 말하면 되잖아
-973,VO_CFM_790_Male_Kobold_Death_01,비열한 거리의 가젯잔,,죽음
-974,VO_CFM_790_Male_Kobold_Play_03,비열한 거리의 가젯잔,,난 아무 것도 말 안해
-975,VO_CFM_806_Male_Human_Attack_01,비열한 거리의 가젯잔,,내가 풀려났다
-976,VO_CFM_806_Male_Human_Death_01,비열한 거리의 가젯잔,,죽음
-977,VO_CFM_806_Male_Human_Play_02,비열한 거리의 가젯잔,,난 자유를 누리기 위해 숨어있어야 한다
-978,VO_CFM_807_Male_Goblin_Attack_01,비열한 거리의 가젯잔,,난 바쁜 사람이야
-979,VO_CFM_807_Male_Goblin_Death_01,비열한 거리의 가젯잔,,죽음
-980,VO_CFM_807_Male_Goblin_Play_01,비열한 거리의 가젯잔,,시간은 금이라고 친구
-981,VO_CFM_808_Male_Undead_Attack_01,비열한 거리의 가젯잔,,손은 눈보다 빠르지
-982,VO_CFM_808_Male_Undead_Death_01,비열한 거리의 가젯잔,,죽음
-983,VO_CFM_808_Male_Undead_Play_01,비열한 거리의 가젯잔,,카드 한 장 골라봐
-984,VO_CFM_809_Male_Quilboar_Attack_01,비열한 거리의 가젯잔,,오빠 달린다
-985,VO_CFM_809_Male_Quilboar_Death_01,비열한 거리의 가젯잔,,죽음
-986,VO_CFM_809_Male_Quilboar_Play_01,비열한 거리의 가젯잔,,사나운 짐승처럼
-987,VO_CFM_810_Female_Quilboar_Attack_01,비열한 거리의 가젯잔,,좋았어
-988,VO_CFM_810_Female_Quilboar_Play_01,비열한 거리의 가젯잔,,멧돼지단 이동
-989,VO_CFM_815_Male_Dwarf_Attack_01,비열한 거리의 가젯잔,,모조리 태워버려
-990,VO_CFM_815_Male_Dwarf_Death_01,비열한 거리의 가젯잔,,죽음
-991,VO_CFM_815_Male_Dwarf_Play_02,비열한 거리의 가젯잔,,불이야
-992,VO_CFM_816_Male_Vermin_Attack_01,비열한 거리의 가젯잔,,당근 당근 내려치기
-993,VO_CFM_816_Male_Vermin_Death_01,비열한 거리의 가젯잔,,죽음
-994,VO_CFM_816_Male_Vermin_Play_01,비열한 거리의 가젯잔,,당근이 널 인도하길
-995,VO_CFM_851_Female_NightElf_Attack_01,비열한 거리의 가젯잔,,진실을 말하세요
-996,VO_CFM_851_Female_NightElf_Death_01,비열한 거리의 가젯잔,,죽음
-997,VO_CFM_851_Female_NightElf_Play_01,비열한 거리의 가젯잔,,가젯잔 일보는 특종을 놓치지 않죠
-998,VO_CFM_852_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,,신속하게 날렵하게
-999,VO_CFM_852_Female_Pandaren_Death_01,비열한 거리의 가젯잔,,죽음
-1000,VO_CFM_852_Female_Pandaren_Play_01,비열한 거리의 가젯잔,,만물의 균형을
-1001,VO_CFM_853_Female_Tauren_Attack_01,비열한 거리의 가젯잔,,시연을 해줄까
-1002,VO_CFM_853_Female_Tauren_Death_02,비열한 거리의 가젯잔,,총알이 모자라
-1003,VO_CFM_853_Female_Tauren_Play_01,비열한 거리의 가젯잔,,어디서 구했는지는 묻지마
-1004,VO_CFM_855_Male_Human_Attack_01,비열한 거리의 가젯잔,,진정해
-1005,VO_CFM_855_Male_Human_Death_01,비열한 거리의 가젯잔,,죽음
-1006,VO_CFM_855_Male_Human_Play_01,비열한 거리의 가젯잔,,허튼 짓은 하지 마
-1007,VO_CFM_900_Male_Imp_Attack_01,비열한 거리의 가젯잔,,한모금 마실래
-1008,VO_CFM_900_Male_Imp_Death_01,비열한 거리의 가젯잔,,죽음
-1009,VO_CFM_900_Male_Imp_Play_01,비열한 거리의 가젯잔,,비밀 결사에 들라구
-1010,VO_CFM_902_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,,너 이제 죽어
-1011,VO_CFM_902_Female_Pandaren_Death_01,비열한 거리의 가젯잔,,너 재미 없어
-1012,VO_CFM_902_Female_Pandaren_Play_02,비열한 거리의 가젯잔,,골렘은 여자의 영원한 친구라고
-1013,VO_CFM_BKP2_Male_Grummle_Attack_01,비열한 거리의 가젯잔,,이건 내 복덩이
-1014,VO_CFM_BKP2_Male_Grummle_Death_01,비열한 거리의 가젯잔,,죽음
-1015,VO_CFM_BKP2_Male_Grummle_Play_01,비열한 거리의 가젯잔,,보물을 찾고 있나요
+844,VO_CFM_639_Male_Dwarf_Attack_01,비열한 거리의 가젯잔,험악한 거리 집행자,당장
+845,VO_CFM_639_Male_Dwarf_Death_01,비열한 거리의 가젯잔,험악한 거리 집행자,죽음
+846,VO_CFM_639_Male_Dwarf_Play_01,비열한 거리의 가젯잔,험악한 거리 집행자,자릿세는 내셔야지
+847,VO_CFM_643_Male_Goblin_Attack_01,비열한 거리의 가젯잔,호바트 그래플해머,새로운 실험체군
+848,VO_CFM_643_Male_Goblin_Death_01,비열한 거리의 가젯잔,호바트 그래플해머,죽음
+849,VO_CFM_643_Male_Goblin_Play_01,비열한 거리의 가젯잔,호바트 그래플해머,로봇 닭을 준비하라구
+850,VO_CFM_646_Male_Gnome_Attack_02,비열한 거리의 가젯잔,뒷골목 오염된 노움,좋아
+851,VO_CFM_646_Male_Gnome_Death_01,비열한 거리의 가젯잔,뒷골목 오염된 노움,메스꺼워
+852,VO_CFM_646_Male_Gnome_Play_01,비열한 거리의 가젯잔,뒷골목 오염된 노움,속이 메스꺼울거야
+853,VO_CFM_648_Male_Goblin_Attack_01,비열한 거리의 가젯잔,범죄계 거물,기합
+854,VO_CFM_648_Male_Goblin_Death_01,비열한 거리의 가젯잔,범죄계 거물,죽음
+855,VO_CFM_648_Male_Goblin_Play_02,비열한 거리의 가젯잔,범죄계 거물,내 작은 친구를 소개하지
+856,VO_CFM_648t_Male_Ogre_Attack_01,비열한 거리의 가젯잔,작은 친구,뭉갠다
+857,VO_CFM_648t_Male_Ogre_Death_01,비열한 거리의 가젯잔,작은 친구,죽음
+858,VO_CFM_648t_Male_Ogre_Play_02,비열한 거리의 가젯잔,작은 친구,안녕
+859,VO_CFM_649_Female_Harpy_Attack_01,비열한 거리의 가젯잔,비밀결사 급사,기합
+860,VO_CFM_649_Female_Harpy_Death_01,비열한 거리의 가젯잔,비밀결사 급사,죽음
+861,VO_CFM_649_Female_Harpy_Play_01,비열한 거리의 가젯잔,비밀결사 급사,수정 카자쿠스의 수정이라니
+862,VO_CFM_650_Male_Murloc_Attack_01,비열한 거리의 가젯잔,독침아가미 저격수,기합
+863,VO_CFM_650_Male_Murloc_Death_01,비열한 거리의 가젯잔,독침아가미 저격수,죽음
+864,VO_CFM_650_Male_Murloc_Play_04,비열한 거리의 가젯잔,독침아가미 저격수,멀록
+865,VO_CFM_651_Female_Naga_Attack_01,비열한 거리의 가젯잔,나가 바다약탈자,내 검을 받아라
+866,VO_CFM_651_Female_Naga_Death_01,비열한 거리의 가젯잔,나가 바다약탈자,죽음
+867,VO_CFM_651_Female_Naga_Play_01,비열한 거리의 가젯잔,나가 바다약탈자,놈들을 침몰시켜라
+868,VO_CFM_652_Male_Ogre_Attack_01,비열한 거리의 가젯잔,덜떨어진 투사,하품
+869,VO_CFM_652_Male_Ogre_Death_01,비열한 거리의 가젯잔,덜떨어진 투사,죽음
+870,VO_CFM_652_Male_Ogre_Play_02,비열한 거리의 가젯잔,덜떨어진 투사,난 아직인데
+871,VO_CFM_653_Male_Orc_Attack_01,비열한 거리의 가젯잔,고용된 싸움꾼,갈겨버려
+872,VO_CFM_653_Male_Orc_Death_01,비열한 거리의 가젯잔,고용된 싸움꾼,죽음
+873,VO_CFM_653_Male_Orc_Play_01,비열한 거리의 가젯잔,고용된 싸움꾼,이거 죽이는데
+874,VO_CFM_654_Male_Tauren_Attack_01,비열한 거리의 가젯잔,친근한 바텐더,한 잔 하시죠
+875,VO_CFM_654_Male_Tauren_Death_01,비열한 거리의 가젯잔,친근한 바텐더,죽음
+876,VO_CFM_654_Male_Tauren_Play_01,비열한 거리의 가젯잔,친근한 바텐더,팁을 남기는걸 잊지 마십시오
+877,VO_CFM_656_Male_NightElf_Attack_01,비열한 거리의 가젯잔,뛰어난 수사관,거기 너
+878,VO_CFM_656_Male_NightElf_Death_01,비열한 거리의 가젯잔,뛰어난 수사관,이런
+879,VO_CFM_656_Male_NightElf_Play_01,비열한 거리의 가젯잔,뛰어난 수사관,내 눈을 피할 순 없지
+880,VO_CFM_657_Male_Arakkoa_Attack_01,비열한 거리의 가젯잔,비밀결사 노래도둑,기합
+881,VO_CFM_657_Male_Arakkoa_Death_01,비열한 거리의 가젯잔,비밀결사 노래도둑,죽음
+882,VO_CFM_657_Male_Arakkoa_Play_01,비열한 거리의 가젯잔,비밀결사 노래도둑,네 미래에 재물이 보인다
+883,VO_CFM_658_Male_Tauren_Attack_02,비열한 거리의 가젯잔,험상궂은 문지기,맨 뒤로 가
+884,VO_CFM_658_Male_Tauren_Death_06,비열한 거리의 가젯잔,험상궂은 문지기,죽음
+885,VO_CFM_658_Male_Tauren_Play_03,비열한 거리의 가젯잔,험상궂은 문지기,초대는 받았나
+886,VO_CFM_659_Female_Gnome_Attack_01,비열한 거리의 가젯잔,가젯잔 귀부인,천박해
+887,VO_CFM_659_Female_Gnome_Death_01,비열한 거리의 가젯잔,가젯잔 귀부인,죽음
+888,VO_CFM_659_Female_Gnome_Play_01,비열한 거리의 가젯잔,가젯잔 귀부인,나와 춤 춰요
+889,VO_CFM_660_Female_BloodElf_Attack_01,비열한 거리의 가젯잔,이성을 잃은 영혼술사,칼이라니
+890,VO_CFM_660_Female_BloodElf_Death_01,비열한 거리의 가젯잔,이성을 잃은 영혼술사,죽음
+891,VO_CFM_660_Female_BloodElf_Play_01,비열한 거리의 가젯잔,이성을 잃은 영혼술사,네 영혼도 거둬주마
+892,VO_CFM_663_Female_Undead_Attack_01,비열한 거리의 가젯잔,비밀결사 밀매자,내가 경고 했잖아
+893,VO_CFM_663_Female_Undead_Death_01,비열한 거리의 가젯잔,비밀결사 밀매자,죽음
+894,VO_CFM_663_Female_Undead_Play_01,비열한 거리의 가젯잔,비밀결사 밀매자,조심해 좀 사나운 애들이거든
+895,VO_CFM_665_Male_Worgen_Attack_01,비열한 거리의 가젯잔,늑대인간 폭주족,머리에서 손 떼
+896,VO_CFM_665_Male_Worgen_Death_01,비열한 거리의 가젯잔,늑대인간 폭주족,죽음
+897,VO_CFM_665_Male_Worgen_Play_01,비열한 거리의 가젯잔,늑대인간 폭주족,나는 차가운 도시의 늑대
+898,VO_CFM_666_Male_Hozen_Attack_02,비열한 거리의 가젯잔,우끼권의 대가,응가해버린다
+899,VO_CFM_666_Male_Hozen_Death_01,비열한 거리의 가젯잔,우끼권의 대가,죽음
+900,VO_CFM_666_Male_Hozen_Play_01,비열한 거리의 가젯잔,우끼권의 대가,약한 미끈 고기들은 응가하기 좋다
+901,VO_CFM_667_Female_Goblin_Attack_01,비열한 거리의 가젯잔,폭탄 분대,꽝
+902,VO_CFM_667_Female_Goblin_Death_01,비열한 거리의 가젯잔,폭탄 분대,폭탄 받아라
+903,VO_CFM_667_Female_Goblin_Play_01,비열한 거리의 가젯잔,폭탄 분대,터뜨려 볼까
+904,VO_CFM_668_Male_Dwarf_Attack_02,비열한 거리의 가젯잔,분신수,하나처럼
+905,VO_CFM_668_Male_Dwarf_Death_01,비열한 거리의 가젯잔,분신수,죽음
+906,VO_CFM_668_Male_Dwarf_Play_02,비열한 거리의 가젯잔,분신수,얘들아 달려들어
+907,VO_CFM_668t2_Male_Faceless_Attack_02,비열한 거리의 가젯잔,분신수,애석하군
+908,VO_CFM_668t2_Male_Faceless_Death_01,비열한 거리의 가젯잔,분신수,죽음
+909,VO_CFM_668t2_Male_Faceless_Play_05,비열한 거리의 가젯잔,분신수,헛것이 보이나
+910,VO_CFM_668t_Male_Faceless_Attack_01,비열한 거리의 가젯잔,분신수,애석하군
+911,VO_CFM_668t_Male_Faceless_Death_01,비열한 거리의 가젯잔,분신수,죽음
+912,VO_CFM_668t_Male_Faceless_Play_05,비열한 거리의 가젯잔,분신수,헛것이 보이나
+913,VO_CFM_669_Male_Trogg_Attack_01,비열한 거리의 가젯잔,트로그 절도범,반짝이
+914,VO_CFM_669_Male_Trogg_Attack_02,비열한 거리의 가젯잔,트로그 절도범,번쩍번쩍
+915,VO_CFM_669_Male_Trogg_Death_01,비열한 거리의 가젯잔,트로그 절도범,죽음
+916,VO_CFM_670_Male_Goblin_Attack_01,비열한 거리의 가젯잔,시장 노겐포저,어이 저리 꺼져
+917,VO_CFM_670_Male_Goblin_Death_01,비열한 거리의 가젯잔,시장 노겐포저,죽음
+918,VO_CFM_670_Male_Goblin_Play_01,비열한 거리의 가젯잔,시장 노겐포저,가젯잔에 온걸 환영해
+919,VO_CFM_671_Female_Wretched_Attack_01,비열한 거리의 가젯잔,냉기술사,얼어라
+920,VO_CFM_671_Female_Wretched_Death_01,비열한 거리의 가젯잔,냉기술사,죽음
+921,VO_CFM_671_Female_Wretched_Play_03,비열한 거리의 가젯잔,냉기술사,아주 어여쁘게 얼어붙었구나
+922,VO_CFM_672_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,마님 고야,대가를 치뤄라
+923,VO_CFM_672_Female_Pandaren_Death_01,비열한 거리의 가젯잔,마님 고야,죽음
+924,VO_CFM_672_Female_Pandaren_Play_01,비열한 거리의 가젯잔,마님 고야,누구나 원하는게 있기 마련이지
+925,VO_CFM_685_Male_Ogre_Attack_01_Hon,비열한 거리의 가젯잔,두목 한초,이놈은 우리가 맡지 박살낸다
+926,VO_CFM_685_Male_Ogre_Death_01_Hon,비열한 거리의 가젯잔,두목 한초,죽음
+927,VO_CFM_685_Male_Ogre_Play_01_Hon,비열한 거리의 가젯잔,두목 한초,떡대들에 합류해라 아니면 박살나던가
+928,VO_CFM_687_Female_BloodElf_Attack_01,비열한 거리의 가젯잔,문신사 솔리아,힘이 넘쳐나
+929,VO_CFM_687_Female_BloodElf_Death_01,비열한 거리의 가젯잔,문신사 솔리아,죽음
+930,VO_CFM_687_Female_BloodElf_Play_02,비열한 거리의 가젯잔,문신사 솔리아,비밀 결사의 힘을 받아들여라
+931,VO_CFM_688_Male_Quilboar_Attack_01,비열한 거리의 가젯잔,멧돼지단 돌격수,한바탕 설쳐볼까
+932,VO_CFM_688_Male_Quilboar_Attack_02,비열한 거리의 가젯잔,멧돼지단 돌격수,모조리 다져버리겠어
+933,VO_CFM_688_Male_Quilboar_Attack_03,비열한 거리의 가젯잔,멧돼지단 돌격수,고기다
+934,VO_CFM_688_Male_Quilboar_Death_01,비열한 거리의 가젯잔,멧돼지단 돌격수,구워졌다
+935,VO_CFM_688_Male_Quilboar_Play_01,비열한 거리의 가젯잔,멧돼지단 돌격수,도로의 무법자가 나가신다
+936,VO_CFM_691_Male_Mantid_Attack_01,비열한 거리의 가젯잔,비취 무리전사,무리여
+937,VO_CFM_691_Male_Mantid_Death_01,비열한 거리의 가젯잔,비취 무리전사,죽음
+938,VO_CFM_691_Male_Mantid_Play_01,비열한 거리의 가젯잔,비취 무리전사,숨겨진 군대가 드러나노니
+939,VO_CFM_693_Female_Jinyu_Attack_01,비열한 거리의 가젯잔,가젯잔 뱃사공,출항
+940,VO_CFM_693_Female_Jinyu_Death_01,비열한 거리의 가젯잔,가젯잔 뱃사공,죽음
+941,VO_CFM_693_Female_Jinyu_Play_01,비열한 거리의 가젯잔,가젯잔 뱃사공,어디로 데려다줄까
+942,VO_CFM_694_Male_Mantid_Attack_01,비열한 거리의 가젯잔,그림자 사부,어둠속에 비수로
+943,VO_CFM_694_Male_Mantid_Death_01,비열한 거리의 가젯잔,그림자 사부,죽음
+944,VO_CFM_694_Male_Mantid_Play_01,비열한 거리의 가젯잔,그림자 사부,그림자의 가르침이니라
+945,VO_CFM_697_Female_NightElf_Attack_01,비열한 거리의 가젯잔,연꽃 환영술사,피어나라
+946,VO_CFM_697_Female_NightElf_Death_01,비열한 거리의 가젯잔,연꽃 환영술사,죽음
+947,VO_CFM_697_Female_NightElf_Play_01,비열한 거리의 가젯잔,연꽃 환영술사,연꽃이 만개한다
+948,VO_CFM_750_Male_VoidWalker_Attack_01,비열한 거리의 가젯잔,속박 풀린 크룰,내 명령을 따라라
+949,VO_CFM_750_Male_VoidWalker_Death_01,비열한 거리의 가젯잔,속박 풀린 크룰,죽음
+950,VO_CFM_750_Male_VoidWalker_Play_01,비열한 거리의 가젯잔,속박 풀린 크룰,내가 곧 공허이니 나는 너의 주인이니라
+951,VO_CFM_753_Male_Goblin_Attack_01,비열한 거리의 가젯잔,험악한 거리 만물상,미안하게 됐네
+952,VO_CFM_753_Male_Goblin_Death_01,비열한 거리의 가젯잔,험악한 거리 만물상,이런 개떡 같은
+953,VO_CFM_753_Male_Goblin_Play_01,비열한 거리의 가젯잔,험악한 거리 만물상,그건 사고였다고
+954,VO_CFM_754_Male_Goblin_Attack_03,비열한 거리의 가젯잔,험악한 기계공,악감정은 당연히 있지
+955,VO_CFM_754_Male_Goblin_Death_02,비열한 거리의 가젯잔,험악한 기계공,빗맞았네
+956,VO_CFM_754_Male_Goblin_Play_01,비열한 거리의 가젯잔,험악한 기계공,이게 바로 자동섬멸포 마크7이야
+957,VO_CFM_755_Female_Goblin_Attack_01,비열한 거리의 가젯잔,험악한 거리 전당포 주인,로켓 발사
+958,VO_CFM_755_Female_Goblin_Death_01,비열한 거리의 가젯잔,험악한 거리 전당포 주인,죽음
+959,VO_CFM_755_Female_Goblin_Play_01,비열한 거리의 가젯잔,험악한 거리 전당포 주인,뭐든 일단 터뜨리고 봐
+960,VO_CFM_756_Female_Orc_Attack_01,비열한 거리의 가젯잔,뒷골목 방어구 제작자,이거나 받아라
+961,VO_CFM_756_Female_Orc_Death_01,비열한 거리의 가젯잔,뒷골목 방어구 제작자,죽음
+962,VO_CFM_756_Female_Orc_Play_01,비열한 거리의 가젯잔,뒷골목 방어구 제작자,날카로운 가젯잔 강철
+963,VO_CFM_759_Male_Tuskarr_Attack_01,비열한 거리의 가젯잔,비열한 거리 치안대장,봤지
+964,VO_CFM_759_Male_Tuskarr_Death_01,비열한 거리의 가젯잔,비열한 거리 치안대장,죽음
+965,VO_CFM_759_Male_Tuskarr_Play_01,비열한 거리의 가젯잔,비열한 거리 치안대장,바다 깊숙한 곳에 쳐넣어야겠군
+966,VO_CFM_760_Female_Dranei_Attack_01,비열한 거리의 가젯잔,비밀결사 수정배달부,빨리
+967,VO_CFM_760_Female_Dranei_Death_01,비열한 거리의 가젯잔,비밀결사 수정배달부,죽음
+968,VO_CFM_760_Female_Dranei_Play_01,비열한 거리의 가젯잔,비밀결사 수정배달부,이런 늦어버렸어
+969,VO_CFM_781_Male_Sha_Attack_01,비열한 거리의 가젯잔,수집가 샤쿠,굴복해라
+970,VO_CFM_781_Male_Sha_Death_01,비열한 거리의 가젯잔,수집가 샤쿠,죽음
+971,VO_CFM_781_Male_Sha_Play_01,비열한 거리의 가젯잔,수집가 샤쿠,어둠을 받아들여라
+972,VO_CFM_790_Male_Kobold_Attack_01,비열한 거리의 가젯잔,비겁한 밀고자,말할께 말하면 되잖아
+973,VO_CFM_790_Male_Kobold_Death_01,비열한 거리의 가젯잔,비겁한 밀고자,죽음
+974,VO_CFM_790_Male_Kobold_Play_03,비열한 거리의 가젯잔,비겁한 밀고자,난 아무 것도 말 안해
+975,VO_CFM_806_Male_Human_Attack_01,비열한 거리의 가젯잔,래시온,내가 풀려났다
+976,VO_CFM_806_Male_Human_Death_01,비열한 거리의 가젯잔,래시온,죽음
+977,VO_CFM_806_Male_Human_Play_02,비열한 거리의 가젯잔,래시온,난 자유를 누리기 위해 숨어있어야 한다
+978,VO_CFM_807_Male_Goblin_Attack_01,비열한 거리의 가젯잔,경매장 지배인 비어도,난 바쁜 사람이야
+979,VO_CFM_807_Male_Goblin_Death_01,비열한 거리의 가젯잔,경매장 지배인 비어도,죽음
+980,VO_CFM_807_Male_Goblin_Play_01,비열한 거리의 가젯잔,경매장 지배인 비어도,시간은 금이라고 친구
+981,VO_CFM_808_Male_Undead_Attack_01,비열한 거리의 가젯잔,상어 겐조,손은 눈보다 빠르지
+982,VO_CFM_808_Male_Undead_Death_01,비열한 거리의 가젯잔,상어 겐조,죽음
+983,VO_CFM_808_Male_Undead_Play_01,비열한 거리의 가젯잔,상어 겐조,카드 한 장 골라봐
+984,VO_CFM_809_Male_Quilboar_Attack_01,비열한 거리의 가젯잔,타나리스 멧돼지단원,오빠 달린다
+985,VO_CFM_809_Male_Quilboar_Death_01,비열한 거리의 가젯잔,타나리스 멧돼지단원,죽음
+986,VO_CFM_809_Male_Quilboar_Play_01,비열한 거리의 가젯잔,타나리스 멧돼지단원,사나운 짐승처럼
+987,VO_CFM_810_Female_Quilboar_Attack_01,비열한 거리의 가젯잔,가죽옷의 멧돼지단 두목,좋았어
+988,VO_CFM_810_Female_Quilboar_Play_01,비열한 거리의 가젯잔,가죽옷의 멧돼지단 두목,멧돼지단 이동
+989,VO_CFM_815_Male_Dwarf_Attack_01,비열한 거리의 가젯잔,방화광 번브리슬,모조리 태워버려
+990,VO_CFM_815_Male_Dwarf_Death_01,비열한 거리의 가젯잔,방화광 번브리슬,죽음
+991,VO_CFM_815_Male_Dwarf_Play_02,비열한 거리의 가젯잔,방화광 번브리슬,불이야
+992,VO_CFM_816_Male_Vermin_Attack_01,비열한 거리의 가젯잔,토깽 사부,당근 당근 내려치기
+993,VO_CFM_816_Male_Vermin_Death_01,비열한 거리의 가젯잔,토깽 사부,죽음
+994,VO_CFM_816_Male_Vermin_Play_01,비열한 거리의 가젯잔,토깽 사부,당근이 널 인도하길
+995,VO_CFM_851_Female_NightElf_Attack_01,비열한 거리의 가젯잔,대담한 기자,진실을 말하세요
+996,VO_CFM_851_Female_NightElf_Death_01,비열한 거리의 가젯잔,대담한 기자,죽음
+997,VO_CFM_851_Female_NightElf_Play_01,비열한 거리의 가젯잔,대담한 기자,가젯잔 일보는 특종을 놓치지 않죠
+998,VO_CFM_852_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,비취 연꽃 요원,신속하게 날렵하게
+999,VO_CFM_852_Female_Pandaren_Death_01,비열한 거리의 가젯잔,비취 연꽃 요원,죽음
+1000,VO_CFM_852_Female_Pandaren_Play_01,비열한 거리의 가젯잔,비취 연꽃 요원,만물의 균형을
+1001,VO_CFM_853_Female_Tauren_Attack_01,비열한 거리의 가젯잔,험악한 거리 밀수업자,시연을 해줄까
+1002,VO_CFM_853_Female_Tauren_Death_02,비열한 거리의 가젯잔,험악한 거리 밀수업자,총알이 모자라
+1003,VO_CFM_853_Female_Tauren_Play_01,비열한 거리의 가젯잔,험악한 거리 밀수업자,어디서 구했는지는 묻지마
+1004,VO_CFM_855_Male_Human_Attack_01,비열한 거리의 가젯잔,데피아즈단 청부업자,진정해
+1005,VO_CFM_855_Male_Human_Death_01,비열한 거리의 가젯잔,데피아즈단 청부업자,죽음
+1006,VO_CFM_855_Male_Human_Play_01,비열한 거리의 가젯잔,데피아즈단 청부업자,허튼 짓은 하지 마
+1007,VO_CFM_900_Male_Imp_Attack_01,비열한 거리의 가젯잔,돌팔이 연금술사,한모금 마실래
+1008,VO_CFM_900_Male_Imp_Death_01,비열한 거리의 가젯잔,돌팔이 연금술사,죽음
+1009,VO_CFM_900_Male_Imp_Play_01,비열한 거리의 가젯잔,돌팔이 연금술사,비밀 결사에 들라구
+1010,VO_CFM_902_Female_Pandaren_Attack_01,비열한 거리의 가젯잔,아이야 블랙포우,너 이제 죽어
+1011,VO_CFM_902_Female_Pandaren_Death_01,비열한 거리의 가젯잔,아이야 블랙포우,너 재미 없어
+1012,VO_CFM_902_Female_Pandaren_Play_02,비열한 거리의 가젯잔,아이야 블랙포우,골렘은 여자의 영원한 친구라고
+1013,VO_CFM_BKP2_Male_Grummle_Attack_01,비열한 거리의 가젯잔,복덩이 찾는 해적단원,이건 내 복덩이
+1014,VO_CFM_BKP2_Male_Grummle_Death_01,비열한 거리의 가젯잔,복덩이 찾는 해적단원,죽음
+1015,VO_CFM_BKP2_Male_Grummle_Play_01,비열한 거리의 가젯잔,복덩이 찾는 해적단원,보물을 찾고 있나요
 1016,VO_Crone_Female_Troll_CroneDeath_02,한여름 밤의 카라잔,마녀,안돼 거기서 내가 널
 1017,VO_Crone_Female_Troll_CroneEmoteResponse_02,한여름 밤의 카라잔,마녀,웃음
 1018,VO_Crone_Female_Troll_CroneFlyingMonkeys_01,한여름 밤의 카라잔,마녀,저 여자애를 데려와
@@ -1121,35 +1121,35 @@ id,filename,expansion,cardname,txt
 1120,VO_CS2_235_Attack_02,오리지널,,그러죠
 1121,VO_CS2_235_Death_03,오리지널,,죽음
 1122,VO_CS2_235_Play_01,오리지널,,다친 사람 있나요
-1123,VO_Curator_Male_ArcaneGolem_CuratorArcaneGolem_01,한여름 밤의 카라잔,,본 관리인과 상당부분 닮은 개체입니다
-1124,VO_Curator_Male_ArcaneGolem_CuratorBeasts_01,한여름 밤의 카라잔,,본 관리인은 야수에 알레르기가 있습니다
-1125,VO_Curator_Male_ArcaneGolem_CuratorDeath_04,한여름 밤의 카라잔,,관리인 작동을 중단합니다
-1126,VO_Curator_Male_ArcaneGolem_CuratorDemons_01,한여름 밤의 카라잔,,악마들은 박물관에  전시될 수 없습니다
-1127,VO_Curator_Male_ArcaneGolem_CuratorDragons_01,한여름 밤의 카라잔,,용족들은 배설물을 주의해 주십시오
-1128,VO_Curator_Male_ArcaneGolem_CuratorEmoteResponse_01,한여름 밤의 카라잔,,해당 요청을 수행할 수 없습니다
-1129,VO_Curator_Male_ArcaneGolem_CuratorHarrison_02,한여름 밤의 카라잔,,위험인물 감지 해리슨 존스 님은 출입할 수 없습니다
-1130,VO_Curator_Male_ArcaneGolem_CuratorHarrison_03,한여름 밤의 카라잔,,위험인물 감지 해리슨 존스 님은 입장할 수 없습니다
-1131,VO_Curator_Male_ArcaneGolem_CuratorMechs_01,한여름 밤의 카라잔,,보조 관리인을 재설정합니다
-1132,VO_Curator_Male_ArcaneGolem_CuratorMedivhSkin_01,한여름 밤의 카라잔,,경고 가짜 메디브를 발견했습니다
-1133,VO_Curator_Male_ArcaneGolem_CuratorMurlocs_01,한여름 밤의 카라잔,,양서류와 유사한 생명체들을 풀어주었습니다
-1134,VO_Curator_Male_ArcaneGolem_CuratorOpen_01,한여름 밤의 카라잔,,전시물에는 손대지 마십시오
-1135,VO_Curator_Male_ArcaneGolem_CuratorPirates_01,한여름 밤의 카라잔,,해적들도 파티에 초대되어야 합니다
-1136,VO_Curator_Male_ArcaneGolem_CuratorReno_02,한여름 밤의 카라잔,,위험 인물 감지 리노 잭슨 님은 출입하실 수 없습니다
-1137,VO_Curator_Male_ArcaneGolem_CuratorTurn1_01,한여름 밤의 카라잔,,저는 이곳의 안전을 책임지고 있습니다
-1138,VO_Curator_Male_ArcaneGolem_CuratorTurn5_01,한여름 밤의 카라잔,,관람 규칙을 엄격히 준수해 주십시오
-1139,VO_Curator_Male_ArcaneGolem_CuratorTurn9_01,한여름 밤의 카라잔,,손님은 박물관 밖으로 나갈 수 없습니다
-1140,VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02,한여름 밤의 카라잔,,악마 일후프 가장 위험한 전시물입니다 접근 시 주의를 요합니다
-1141,VO_Curator_Male_ArcaneGolem_IllhoofKilrekResponse_01,한여름 밤의 카라잔,,이유를 불문하고 소환 의식은 금지되었습니다
-1142,VO_Curator_Male_ArcaneGolem_IllhoofSenseDemons_01,한여름 밤의 카라잔,,다수의 악마가 감지됩니다
-1143,VO_Curator_Male_ArcaneGolem_IllhoofTurn1_01,한여름 밤의 카라잔,,허가되지 않은 소환의식이 감지되었습니다
-1144,VO_Curator_Male_ArcaneGolem_IllhoofTurn5_01,한여름 밤의 카라잔,,소환 의식은 전시물들에게 부정적인 영향을 끼칩니다 악마를 막아야 합니다
-1145,VO_Curator_Male_ArcaneGolem_IllhoofWin_01,한여름 밤의 카라잔,,감사합니다 손님 박물관이 다시 안정되었습니다
-1146,VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02,한여름 밤의 카라잔,,관리인이 여러분께 사죄의 말씀을 드립니다 생물체들을 포획하는데 도움을 요청합니다
-1147,VO_Curator_Male_ArcaneGolem_NightbaneCorruption_01,한여름 밤의 카라잔,,박물관에 타락이 뿌리내려서는 안됩니다
-1148,VO_Curator_Male_ArcaneGolem_NightbaneTurn1_01,한여름 밤의 카라잔,,훈련한 전시물들은 위험할 수도 있습니다 필히 박물관으로 돌려보내야 합니다
-1149,VO_Curator_Male_ArcaneGolem_NightbaneTurn3_01,한여름 밤의 카라잔,,생물체들을 확보해야 구역 내의 이동을 허가할 수 있습니다
-1150,VO_Curator_Male_ArcaneGolem_NightbaneUnstablePortal_01,한여름 밤의 카라잔,,전시물들을 부드럽게 다뤄주십시오 이 용족은 불안정한 마법을 두려워합니다
-1151,VO_Curator_Male_ArcaneGolem_NightbaneWin_01,한여름 밤의 카라잔,,추가 지원이 필요합니다
+1123,VO_Curator_Male_ArcaneGolem_CuratorArcaneGolem_01,한여름 밤의 카라잔,전시 관리인,본 관리인과 상당부분 닮은 개체입니다
+1124,VO_Curator_Male_ArcaneGolem_CuratorBeasts_01,한여름 밤의 카라잔,전시 관리인,본 관리인은 야수에 알레르기가 있습니다
+1125,VO_Curator_Male_ArcaneGolem_CuratorDeath_04,한여름 밤의 카라잔,전시 관리인,관리인 작동을 중단합니다
+1126,VO_Curator_Male_ArcaneGolem_CuratorDemons_01,한여름 밤의 카라잔,전시 관리인,악마들은 박물관에  전시될 수 없습니다
+1127,VO_Curator_Male_ArcaneGolem_CuratorDragons_01,한여름 밤의 카라잔,전시 관리인,용족들은 배설물을 주의해 주십시오
+1128,VO_Curator_Male_ArcaneGolem_CuratorEmoteResponse_01,한여름 밤의 카라잔,전시 관리인,해당 요청을 수행할 수 없습니다
+1129,VO_Curator_Male_ArcaneGolem_CuratorHarrison_02,한여름 밤의 카라잔,전시 관리인,위험인물 감지 해리슨 존스 님은 출입할 수 없습니다
+1130,VO_Curator_Male_ArcaneGolem_CuratorHarrison_03,한여름 밤의 카라잔,전시 관리인,위험인물 감지 해리슨 존스 님은 입장할 수 없습니다
+1131,VO_Curator_Male_ArcaneGolem_CuratorMechs_01,한여름 밤의 카라잔,전시 관리인,보조 관리인을 재설정합니다
+1132,VO_Curator_Male_ArcaneGolem_CuratorMedivhSkin_01,한여름 밤의 카라잔,전시 관리인,경고 가짜 메디브를 발견했습니다
+1133,VO_Curator_Male_ArcaneGolem_CuratorMurlocs_01,한여름 밤의 카라잔,전시 관리인,양서류와 유사한 생명체들을 풀어주었습니다
+1134,VO_Curator_Male_ArcaneGolem_CuratorOpen_01,한여름 밤의 카라잔,전시 관리인,전시물에는 손대지 마십시오
+1135,VO_Curator_Male_ArcaneGolem_CuratorPirates_01,한여름 밤의 카라잔,전시 관리인,해적들도 파티에 초대되어야 합니다
+1136,VO_Curator_Male_ArcaneGolem_CuratorReno_02,한여름 밤의 카라잔,전시 관리인,위험 인물 감지 리노 잭슨 님은 출입하실 수 없습니다
+1137,VO_Curator_Male_ArcaneGolem_CuratorTurn1_01,한여름 밤의 카라잔,전시 관리인,저는 이곳의 안전을 책임지고 있습니다
+1138,VO_Curator_Male_ArcaneGolem_CuratorTurn5_01,한여름 밤의 카라잔,전시 관리인,관람 규칙을 엄격히 준수해 주십시오
+1139,VO_Curator_Male_ArcaneGolem_CuratorTurn9_01,한여름 밤의 카라잔,전시 관리인,손님은 박물관 밖으로 나갈 수 없습니다
+1140,VO_Curator_Male_ArcaneGolem_IllhoofBossCoin_02,한여름 밤의 카라잔,전시 관리인,악마 일후프 가장 위험한 전시물입니다 접근 시 주의를 요합니다
+1141,VO_Curator_Male_ArcaneGolem_IllhoofKilrekResponse_01,한여름 밤의 카라잔,전시 관리인,이유를 불문하고 소환 의식은 금지되었습니다
+1142,VO_Curator_Male_ArcaneGolem_IllhoofSenseDemons_01,한여름 밤의 카라잔,전시 관리인,다수의 악마가 감지됩니다
+1143,VO_Curator_Male_ArcaneGolem_IllhoofTurn1_01,한여름 밤의 카라잔,전시 관리인,허가되지 않은 소환의식이 감지되었습니다
+1144,VO_Curator_Male_ArcaneGolem_IllhoofTurn5_01,한여름 밤의 카라잔,전시 관리인,소환 의식은 전시물들에게 부정적인 영향을 끼칩니다 악마를 막아야 합니다
+1145,VO_Curator_Male_ArcaneGolem_IllhoofWin_01,한여름 밤의 카라잔,전시 관리인,감사합니다 손님 박물관이 다시 안정되었습니다
+1146,VO_Curator_Male_ArcaneGolem_NightbaneBossCoin_02,한여름 밤의 카라잔,전시 관리인,관리인이 여러분께 사죄의 말씀을 드립니다 생물체들을 포획하는데 도움을 요청합니다
+1147,VO_Curator_Male_ArcaneGolem_NightbaneCorruption_01,한여름 밤의 카라잔,전시 관리인,박물관에 타락이 뿌리내려서는 안됩니다
+1148,VO_Curator_Male_ArcaneGolem_NightbaneTurn1_01,한여름 밤의 카라잔,전시 관리인,훈련한 전시물들은 위험할 수도 있습니다 필히 박물관으로 돌려보내야 합니다
+1149,VO_Curator_Male_ArcaneGolem_NightbaneTurn3_01,한여름 밤의 카라잔,전시 관리인,생물체들을 확보해야 구역 내의 이동을 허가할 수 있습니다
+1150,VO_Curator_Male_ArcaneGolem_NightbaneUnstablePortal_01,한여름 밤의 카라잔,전시 관리인,전시물들을 부드럽게 다뤄주십시오 이 용족은 불안정한 마법을 두려워합니다
+1151,VO_Curator_Male_ArcaneGolem_NightbaneWin_01,한여름 밤의 카라잔,전시 관리인,추가 지원이 필요합니다
 1152,VO_DREAM_01_Attack_02,오리지널,미소 띤 자매,해보죠
 1153,VO_DREAM_01_Death_03,오리지널,미소 띤 자매,죽음
 1154,VO_DREAM_01_Play_01,오리지널,미소 띤 자매,무슨 문제 있나요
@@ -2876,7 +2876,7 @@ id,filename,expansion,cardname,txt
 2875,VO_LOEA16_1_START_01,탐험가 연맹,,이게 시초의 지팡이의 진정한 힘이다
 2876,VO_LOEA16_1_TURN1_02,탐험가 연맹,,나는 무적이다 티탄의 힘이 내 손안에 있다
 2877,VO_LOEA16_RAFAAM2_PREGAME,탐험가 연맹,,그만 너따위는 시초의 지팡이의 힘을 당해낼 수 없다
-2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,"",,너의 행동은 그냥 넘길 수가 없다
+2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,불명,불명,너의 행동은 그냥 넘길 수가 없다
 2879,VO_Malchezaar_Male_Demon_Brawl_06,한여름 밤의 카라잔,,물론 이길거라는 생각은 하지 않았겠지
 2880,VO_Malchezaar_Male_Demon_EmoteParty_01,한여름 밤의 카라잔,,말체자르도 파티를 좋아한다
 2881,VO_Malchezaar_Male_Demon_FinalAltOpening_01,한여름 밤의 카라잔,,바보 같으니
