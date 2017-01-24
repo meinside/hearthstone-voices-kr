@@ -12,9 +12,11 @@
 
 재생 - 듣기 - 받아적기하여 .sqlite 파일에 저장함.
 
-이후 .sqlite 파일을 직접 수정한 뒤 `1_sqlite_to_csv.rb` 파일로 .csv 파일을 생성하거나,
+혹 알아듣기 힘들거나 할 경우 나무위키에서 검색해보기 위해 `0_search_for_cardnames.rb` 스크립트로 검색 쿼리를 생성, 검색해본다.
 
-.csv 파일을 직접 수정한 뒤 `1_csv_to_sqlite.rb` 파일로 .sqlite 파일을 생성함.
+이후 .sqlite 파일을 직접 수정하거나 한 뒤 `1_sqlite_to_csv.rb` 파일로 .csv 파일을 생성하거나,
+
+.csv 파일을 직접 수정한 뒤 `1_csv_to_sqlite.rb` 파일로 .sqlite 파일을 거꾸로 생성함.
 
 ## 음성 추출 방법
 
