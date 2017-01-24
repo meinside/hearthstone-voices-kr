@@ -2423,159 +2423,159 @@ id,filename,expansion,cardname,txt
 2422,VO_Jaraxxus_Male_Demon_FinalMalchezaarJaraxxus_02,한여름 밤의 카라잔,군주 자락서스,우린 탐험가 연맹이다 함께 할 자 어서 오라
 2423,VO_Jaxus_Summon,오리지널,군주 자락서스,지옥불을 받아라
 2424,VO_JobsDone,공통,턴 종료,Job's done
-2425,VO_Julianne_Female_Human_JulianneDeath_01,한여름 밤의 카라잔,,로밀로 당신께 축배를
-2426,VO_Julianne_Female_Human_JulianneEmoteResponse_01,한여름 밤의 카라잔,,우릴 왜 이리 경멸하시나요
-2427,VO_Julianne_Female_Human_JulianneFeignDeath_03,한여름 밤의 카라잔,,행복한 잠에서 깨어난 것처럼 일어날지니
-2428,VO_Julianne_Female_Human_JulianneHeroPower_01,한여름 밤의 카라잔,,정다운 밤이시여 어서와서 나의 로밀로를 돌려주소서
-2429,VO_Julianne_Female_Human_JulianneOpen_01,한여름 밤의 카라잔,,당신은 대체 누구시기에 절 이리도 괴롭히나요
-2430,VO_KAR_005_Female_BigBadWolf_Attack_01,한여름 밤의 카라잔,,오호호 이런
-2431,VO_KAR_005_Female_BigBadWolf_Death_03,한여름 밤의 카라잔,,죽음
-2432,VO_KAR_005_Female_BigBadWolf_Death_04,한여름 밤의 카라잔,,죽음
-2433,VO_KAR_005_Female_BigBadWolf_Play_01,한여름 밤의 카라잔,,난 이빨이 아주 커다랗지
-2434,VO_KAR_005a_Male_Worgen_Attack_03,한여름 밤의 카라잔,,도망쳐라
-2435,VO_KAR_005a_Male_Worgen_Play_01,한여름 밤의 카라잔,,잡아먹기 좋으라고 그런거지
-2436,VO_KAR_006_Female_Human_Attack_01,한여름 밤의 카라잔,,너무 쉬운 사냥감이군
-2437,VO_KAR_006_Female_Human_Death_02,한여름 밤의 카라잔,,죽음
-2438,VO_KAR_006_Female_Human_Play_01,한여름 밤의 카라잔,,천둥아 이리온
-2439,VO_KAR_009_Male_Book_Attack_01,한여름 밤의 카라잔,,역시 주문은 재밌어
-2440,VO_KAR_009_Male_Book_Death_01,한여름 밤의 카라잔,,죽음
-2441,VO_KAR_009_Male_Book_Play_01,한여름 밤의 카라잔,,주문이 필요해 나도 필요해
-2442,VO_KAR_010_Female_BloodElf_Attack_01,한여름 밤의 카라잔,,용군단을 위해
-2443,VO_KAR_010_Female_BloodElf_Death_01,한여름 밤의 카라잔,,죽음
-2444,VO_KAR_010_Female_BloodElf_Play_02,한여름 밤의 카라잔,,마법의 후예들을 상대해라
-2445,VO_KAR_011_Male_NightElf_Attack_01,한여름 밤의 카라잔,,비평가라고
-2446,VO_KAR_011_Male_NightElf_Death_01,한여름 밤의 카라잔,,너마저
-2447,VO_KAR_011_Male_NightElf_Play_01,한여름 밤의 카라잔,,사인을 해달라고 그러지
-2448,VO_KAR_021_Female_Troll_Attack_01,한여름 밤의 카라잔,,웃음
-2449,VO_KAR_021_Female_Troll_Death_02,한여름 밤의 카라잔,,죽음
-2450,VO_KAR_021_Female_Troll_Play_02,한여름 밤의 카라잔,,토템 내 이쁜 토템
-2451,VO_KAR_021_Female_Troll_Trigger_01,한여름 밤의 카라잔,,요런 앙큼한 것
-2452,VO_KAR_033_Male_Dragon_Attack_01,한여름 밤의 카라잔,,정말 야만적이군
-2453,VO_KAR_033_Male_Dragon_Death_01,한여름 밤의 카라잔,,죽음
-2454,VO_KAR_033_Male_Dragon_Play_01,한여름 밤의 카라잔,,용족들은 교양이 없단 말이야
-2455,VO_KAR_035_Male_Dwarf_Attack_01,한여름 밤의 카라잔,,어이 그건 내 케익이라고
-2456,VO_KAR_035_Male_Dwarf_Death_01,한여름 밤의 카라잔,,한입만 더
-2457,VO_KAR_035_Male_Dwarf_Play_01,한여름 밤의 카라잔,,이 먹거리에 축복이 있길
-2458,VO_KAR_044_Male_Human_Attack_01,한여름 밤의 카라잔,,절 부르셨습니까
-2459,VO_KAR_044_Male_Human_Death_01,한여름 밤의 카라잔,,죽음
-2460,VO_KAR_044_Male_Human_Play_01,한여름 밤의 카라잔,,여러분께 특별한 시간을 선사해드리죠
-2461,VO_KAR_061_Male_ArcaneGolem_Attack_01,한여름 밤의 카라잔,,전시물에는 손대지 마십시오
-2462,VO_KAR_061_Male_ArcaneGolem_Death_02,한여름 밤의 카라잔,,관리인 작동을 중단합니다
-2463,VO_KAR_061_Male_ArcaneGolem_Play_01,한여름 밤의 카라잔,,박물관에는 초대받은 손님만 입장하실 수 있습니다
-2464,VO_KAR_062_Female_Gnome_Attack_01,한여름 밤의 카라잔,,그러던 어느날
-2465,VO_KAR_062_Female_Gnome_Death_01,한여름 밤의 카라잔,,죽음
-2466,VO_KAR_062_Female_Gnome_Play_01,한여름 밤의 카라잔,,옛날 옛적에
-2467,VO_KAR_065_Female_NightElf_Attack_01,한여름 밤의 카라잔,,물어라
-2468,VO_KAR_065_Female_NightElf_Death_01,한여름 밤의 카라잔,,죽음
-2469,VO_KAR_065_Female_NightElf_Play_01,한여름 밤의 카라잔,,무리에 합류해라
-2470,VO_KAR_070_a_Male_Human_Attack_01,한여름 밤의 카라잔,,한 곡 추겠어
-2471,VO_KAR_070_a_Male_Human_Death_01,한여름 밤의 카라잔,,죽음
-2472,VO_KAR_070_a_Male_Human_Play_01,한여름 밤의 카라잔,,칼춤을 시작하자
-2473,VO_KAR_070_Female_Ethereal_Attack_01,한여름 밤의 카라잔,,그거 내가 가져야겠어
-2474,VO_KAR_070_Female_Ethereal_Death_01,한여름 밤의 카라잔,,죽음
-2475,VO_KAR_070_Female_Ethereal_Play_01,한여름 밤의 카라잔,,뭔가 흥미로운게 필요해
-2476,VO_KAR_089_Male_Imp_Attack_02,한여름 밤의 카라잔,,싫어 싫단 말이야
-2477,VO_KAR_089_Male_Imp_Death_01,한여름 밤의 카라잔,,죽음
-2478,VO_KAR_089_Male_Imp_Play_04,한여름 밤의 카라잔,,넌 주인님이 아니야
-2479,VO_KAR_092_Male_Human_Attack_01,한여름 밤의 카라잔,,즉시 가겠습니다
-2480,VO_KAR_092_Male_Human_Death_01,한여름 밤의 카라잔,,죽음
-2481,VO_KAR_092_Male_Human_Play_07,한여름 밤의 카라잔,,실례합니다만 지금 불타고 계십니다
-2482,VO_KAR_094_Male_Fork_Attack_02,한여름 밤의 카라잔,,이거나 먹어라
-2483,VO_KAR_094_Male_Fork_Death_01,한여름 밤의 카라잔,,죽음
-2484,VO_KAR_094_Male_Fork_Play_02,한여름 밤의 카라잔,,넌 찍혔어
-2485,VO_KAR_096_Male_Demon_Attack_02,한여름 밤의 카라잔,,바보 같으니
-2486,VO_KAR_096_Male_Demon_Death_02,한여름 밤의 카라잔,,죽음
-2487,VO_KAR_096_Male_Demon_Play_01,한여름 밤의 카라잔,,모든 차원과 실체가 나를 향해 열려있노라
-2488,VO_KAR_096_Male_Demon_Trigger_01,한여름 밤의 카라잔,,내 군대와 맞서보아라
-2489,VO_KAR_096_Male_Demon_Trigger_02,한여름 밤의 카라잔,,내 군대와 맞서보아라
-2490,VO_KAR_097_Male_Human_Attack_01,한여름 밤의 카라잔,,승부는 이미 정해졌다네
-2491,VO_KAR_097_Male_Human_Death_01,한여름 밤의 카라잔,,죽음
-2492,VO_KAR_097_Male_Human_Play_01,한여름 밤의 카라잔,,마법 또한 하나의 게임이라네
-2493,VO_KAR_114_Male_Human_Attack_01,한여름 밤의 카라잔,,이제 연극을 시작하겠습니다
-2494,VO_KAR_114_Male_Human_Death_02,한여름 밤의 카라잔,,잘있거라 세상이여
-2495,VO_KAR_114_Male_Human_Play_02,한여름 밤의 카라잔,,오늘 밤 진정한 공포에 대한 얘기를 들어보시겠습니다
-2496,VO_KAR_114_Male_Human_Play_03,한여름 밤의 카라잔,,오늘 밤 놀라움과 마법이 가득한 얘기를 들어보시겠습니다
-2497,VO_KAR_114_Male_Human_Play_04,한여름 밤의 카라잔,,오늘 밤 오랫동안 잊힌 세계에 대한 얘기를 들어보시겠습니다
-2498,VO_KAR_114_Male_Human_Play_05,한여름 밤의 카라잔,,오늘 밤 참으로 비극적인 얘기를 들어보시겠습니다
-2499,VO_KAR_114_Male_Human_Play_06,한여름 밤의 카라잔,,오늘 밤 참으로 비극적인 얘기를 들어보시겠습니다
-2500,VO_KAR_114_Male_Human_Play_07,한여름 밤의 카라잔,,오늘 밤 영광스런 구원의 얘기를 들어보시겠습니다
-2501,VO_KAR_204_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,,체크메이트
-2502,VO_KAR_204_Male_ChessPiece_Death_02,한여름 밤의 카라잔,,죽음
-2503,VO_KAR_204_Male_ChessPiece_Play_01,한여름 밤의 카라잔,,게임 시작
-2504,VO_KAR_205_Male_SilverwareGolem_Attack_01,한여름 밤의 카라잔,,기합
-2505,VO_KAR_205_Male_SilverwareGolem_Play_01,한여름 밤의 카라잔,,식사를 준비하자
-2506,VO_KAR_702_Male_Goblin_Attack_01,한여름 밤의 카라잔,,없어져라
-2507,VO_KAR_702_Male_Goblin_Death_01,한여름 밤의 카라잔,,죽음
-2508,VO_KAR_702_Male_Goblin_Play_01,한여름 밤의 카라잔,,자 다음 마술은
-2509,VO_KAR_710_Male_Gnome_Attack_01,한여름 밤의 카라잔,,정말 완벽하게 멋져
-2510,VO_KAR_710_Male_Gnome_Death_01,한여름 밤의 카라잔,,죽음
-2511,VO_KAR_710_Male_Gnome_Play_01,한여름 밤의 카라잔,,내 영광스런 발명품을 봐라
-2512,VO_KAR_710m_Male_Shield_Attack_01,한여름 밤의 카라잔,,방패 밀쳐내기
-2513,VO_KAR_710m_Male_Shield_Death_01,한여름 밤의 카라잔,,죽음
-2514,VO_KAR_710m_Male_Shield_Play_01,한여름 밤의 카라잔,,영광스럽도다
-2515,VO_KAR_712_Female_Human_Attack_01,한여름 밤의 카라잔,,뒤를 조심해
-2516,VO_KAR_712_Female_Human_Death_01,한여름 밤의 카라잔,,죽음
-2517,VO_KAR_712_Female_Human_Play_01,한여름 밤의 카라잔,,아둔한 자들 같으니
-2518,VO_KAR_A02_01_Female_Plate_Attack_01,한여름 밤의 카라잔,,얌냠냠냠냠
-2519,VO_KAR_A02_01_Female_Plate_Death_01,한여름 밤의 카라잔,,죽음
-2520,VO_KAR_A02_01_Female_Plate_Play_01,한여름 밤의 카라잔,,어서 먹어라
-2521,VO_KAR_A02_03_Male_Fork_Attack_01,한여름 밤의 카라잔,,안녕 케익 난 포크라고 해
-2522,VO_KAR_A02_03_Male_Fork_Death_02,한여름 밤의 카라잔,,죽음
-2523,VO_KAR_A02_03_Male_Fork_Play_01,한여름 밤의 카라잔,,앞으로
-2524,VO_KAR_A02_04_Male_Knife_Attack_01,한여름 밤의 카라잔,,단칼에 없애주지
-2525,VO_KAR_A02_04_Male_Knife_Death_02,한여름 밤의 카라잔,,죽음
-2526,VO_KAR_A02_04_Male_Knife_Play_01,한여름 밤의 카라잔,,만나서 반가워
-2527,VO_KAR_A02_05_Female_Cup_Attack_01,한여름 밤의 카라잔,,찬장은 이제 지긋지긋해
-2528,VO_KAR_A02_05_Female_Cup_Death_01,한여름 밤의 카라잔,,쏟아버렸어
-2529,VO_KAR_A02_05_Female_Cup_Play_01,한여름 밤의 카라잔,,차 한 잔 하겠어
-2530,VO_KAR_A02_06_Female_Pitcher_Attack_01,한여름 밤의 카라잔,,노래하고 싶어
-2531,VO_KAR_A02_06_Female_Pitcher_Death_01,한여름 밤의 카라잔,,죽음
-2532,VO_KAR_A02_06_Female_Pitcher_Play_01,한여름 밤의 카라잔,,분위기 좋은데
-2533,VO_KAR_A10_01_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,,기합
-2534,VO_KAR_A10_01_Male_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2535,VO_KAR_A10_01_Male_ChessPiece_Play_02,한여름 밤의 카라잔,,앙파상
-2536,VO_KAR_A10_02_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,,기합
-2537,VO_KAR_A10_02_Male_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2538,VO_KAR_A10_02_Male_ChessPiece_Play_02,한여름 밤의 카라잔,,앙파상
-2539,VO_KAR_A10_05_Male_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2540,VO_KAR_A10_05_Male_ChessPiece_Play_01,한여름 밤의 카라잔,,훌륭하군
-2541,VO_KAR_A10_06_Male_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2542,VO_KAR_A10_06_Male_ChessPiece_Play_01,한여름 밤의 카라잔,,훌륭하군
-2543,VO_KAR_A10_09_Female_ChessPiece_Attack_01,한여름 밤의 카라잔,,기합
-2544,VO_KAR_A10_09_Female_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2545,VO_KAR_A10_09_Female_ChessPiece_Play_01,한여름 밤의 카라잔,,체크메이트
-2546,VO_KAR_A10_10_Female_ChessPiece_Attack_02,한여름 밤의 카라잔,,기합
-2547,VO_KAR_A10_10_Female_ChessPiece_Death_01,한여름 밤의 카라잔,,죽음
-2548,VO_KAR_A10_10_Female_ChessPiece_Play_01,한여름 밤의 카라잔,,체크메이트
-2549,VO_KARA_00_08_Male_Human_Attack_02,한여름 밤의 카라잔,,이것도 시험입니까
-2550,VO_KARA_00_08_Male_Human_Death_01,한여름 밤의 카라잔,,죽음
-2551,VO_KARA_00_08_Male_Human_Play_01,한여름 밤의 카라잔,,언젠가 저는 메디브 님처럼 될겁니다
-2552,VO_KARA_04_01_Female_Human_Attack_01,한여름 밤의 카라잔,,세상에
-2553,VO_KARA_04_01_Female_Human_CroneHuffer_01,한여름 밤의 카라잔,,킁킁아 여긴 서부 몰락지대가 아닌가봐
-2554,VO_KARA_04_01_Female_Human_CroneLionTigerBear_02,한여름 밤의 카라잔,,사자에 용에 곰까지 어우 세상에
-2555,VO_KARA_04_01_Female_Human_CroneTurn1_01,한여름 밤의 카라잔,,무서워 날 지켜줘
-2556,VO_KARA_04_01_Female_Human_CroneTurn3_01,한여름 밤의 카라잔,,서로 손을 잡으면 괜찮아질거야
-2557,VO_KARA_04_01_Female_Human_Death_01,한여름 밤의 카라잔,,죽음
-2558,VO_KARA_04_01_Female_Human_Play_01,한여름 밤의 카라잔,,여긴 어디지 너무  낯선 곳이야
-2559,VO_KARA_06_01_Male_Human_Attack_01,한여름 밤의 카라잔,,이야말로 나의 커다란 즐거움이지
-2560,VO_KARA_06_01_Male_Human_Attack_02,한여름 밤의 카라잔,,사실 난 피터팬을 연기하고 싶었거늘
-2561,VO_KARA_06_01_Male_Human_Death_01,한여름 밤의 카라잔,,달콤한 슬픔이여
-2562,VO_KARA_06_01_Male_Human_JulianneDeadlyPoison_02,한여름 밤의 카라잔,,한 방울의 독이여
-2563,VO_KARA_06_01_Male_Human_JulianneTurn1_01,한여름 밤의 카라잔,,기어코 나를 화나게 하는구나 그렇다면 받아라 애송이
-2564,VO_KARA_06_01_Male_Human_Play_01,한여름 밤의 카라잔,,내 사랑을 위하여
-2565,VO_KARA_09_03a_Male_Imp_Attack_01,한여름 밤의 카라잔,,기습이다 기습이다
-2566,VO_KARA_09_03a_Male_Imp_Death_02,한여름 밤의 카라잔,,죽음
-2567,VO_KARA_09_03a_Male_Imp_Death_03,한여름 밤의 카라잔,,죽음
-2568,VO_KARA_09_03a_Male_Imp_Death_12,한여름 밤의 카라잔,,죽음
-2569,VO_KARA_09_03a_Male_Imp_Death_13,한여름 밤의 카라잔,,죽음
-2570,VO_KARA_09_03a_Male_Imp_Death_15,한여름 밤의 카라잔,,죽음
-2571,VO_KARA_09_03a_Male_Imp_Play_01,한여름 밤의 카라잔,,이히 이히
-2572,VO_KARA_09_08_Male_Imp_Attack_01,한여름 밤의 카라잔,,배신이다
-2573,VO_KARA_09_08_Male_Imp_Death_01,한여름 밤의 카라잔,,죽음
-2574,VO_KARA_09_08_Male_Imp_Play_01,한여름 밤의 카라잔,,왜 깨운거야
-2575,VO_KARA_13_03_Female_Orc_Attack_01,한여름 밤의 카라잔,,그나저나 여긴 어디지
-2576,VO_KARA_13_03_Female_Orc_Death_01,한여름 밤의 카라잔,,죽음
-2577,VO_KARA_13_03_Female_Orc_Play_01,한여름 밤의 카라잔,,블랙핸드 님을 위해
+2425,VO_Julianne_Female_Human_JulianneDeath_01,한여름 밤의 카라잔,줄리엔,로밀로 당신께 축배를
+2426,VO_Julianne_Female_Human_JulianneEmoteResponse_01,한여름 밤의 카라잔,줄리엔,우릴 왜 이리 경멸하시나요
+2427,VO_Julianne_Female_Human_JulianneFeignDeath_03,한여름 밤의 카라잔,줄리엔,행복한 잠에서 깨어난 것처럼 일어날지니
+2428,VO_Julianne_Female_Human_JulianneHeroPower_01,한여름 밤의 카라잔,줄리엔,정다운 밤이시여 어서와서 나의 로밀로를 돌려주소서
+2429,VO_Julianne_Female_Human_JulianneOpen_01,한여름 밤의 카라잔,줄리엔,당신은 대체 누구시기에 절 이리도 괴롭히나요
+2430,VO_KAR_005_Female_BigBadWolf_Attack_01,한여름 밤의 카라잔,인자한 할머니,오호호 이런
+2431,VO_KAR_005_Female_BigBadWolf_Death_03,한여름 밤의 카라잔,인자한 할머니,죽음
+2432,VO_KAR_005_Female_BigBadWolf_Death_04,한여름 밤의 카라잔,인자한 할머니,죽음
+2433,VO_KAR_005_Female_BigBadWolf_Play_01,한여름 밤의 카라잔,인자한 할머니,난 이빨이 아주 커다랗지
+2434,VO_KAR_005a_Male_Worgen_Attack_03,한여름 밤의 카라잔,커다란 나쁜 늑대,도망쳐라
+2435,VO_KAR_005a_Male_Worgen_Play_01,한여름 밤의 카라잔,커다란 나쁜 늑대,잡아먹기 좋으라고 그런거지
+2436,VO_KAR_006_Female_Human_Attack_01,한여름 밤의 카라잔,망토 두른 여사냥꾼,너무 쉬운 사냥감이군
+2437,VO_KAR_006_Female_Human_Death_02,한여름 밤의 카라잔,망토 두른 여사냥꾼,죽음
+2438,VO_KAR_006_Female_Human_Play_01,한여름 밤의 카라잔,망토 두른 여사냥꾼,천둥아 이리온
+2439,VO_KAR_009_Male_Book_Attack_01,한여름 밤의 카라잔,나불대는 책,역시 주문은 재밌어
+2440,VO_KAR_009_Male_Book_Death_01,한여름 밤의 카라잔,나불대는 책,죽음
+2441,VO_KAR_009_Male_Book_Play_01,한여름 밤의 카라잔,나불대는 책,주문이 필요해 나도 필요해
+2442,VO_KAR_010_Female_BloodElf_Attack_01,한여름 밤의 카라잔,파멸의 어둠 기사단원,용군단을 위해
+2443,VO_KAR_010_Female_BloodElf_Death_01,한여름 밤의 카라잔,파멸의 어둠 기사단원,죽음
+2444,VO_KAR_010_Female_BloodElf_Play_02,한여름 밤의 카라잔,파멸의 어둠 기사단원,마법의 후예들을 상대해라
+2445,VO_KAR_011_Male_NightElf_Attack_01,한여름 밤의 카라잔,거만한 연기자,비평가라고
+2446,VO_KAR_011_Male_NightElf_Death_01,한여름 밤의 카라잔,거만한 연기자,너마저
+2447,VO_KAR_011_Male_NightElf_Play_01,한여름 밤의 카라잔,거만한 연기자,사인을 해달라고 그러지
+2448,VO_KAR_021_Female_Troll_Attack_01,한여름 밤의 카라잔,사악한 마녀,웃음
+2449,VO_KAR_021_Female_Troll_Death_02,한여름 밤의 카라잔,사악한 마녀,죽음
+2450,VO_KAR_021_Female_Troll_Play_02,한여름 밤의 카라잔,사악한 마녀,토템 내 이쁜 토템
+2451,VO_KAR_021_Female_Troll_Trigger_01,한여름 밤의 카라잔,사악한 마녀,요런 앙큼한 것
+2452,VO_KAR_033_Male_Dragon_Attack_01,한여름 밤의 카라잔,고룡 독서가,정말 야만적이군
+2453,VO_KAR_033_Male_Dragon_Death_01,한여름 밤의 카라잔,고룡 독서가,죽음
+2454,VO_KAR_033_Male_Dragon_Play_01,한여름 밤의 카라잔,고룡 독서가,용족들은 교양이 없단 말이야
+2455,VO_KAR_035_Male_Dwarf_Attack_01,한여름 밤의 카라잔,만찬의 사제,어이 그건 내 케익이라고
+2456,VO_KAR_035_Male_Dwarf_Death_01,한여름 밤의 카라잔,만찬의 사제,한입만 더
+2457,VO_KAR_035_Male_Dwarf_Play_01,한여름 밤의 카라잔,만찬의 사제,이 먹거리에 축복이 있길
+2458,VO_KAR_044_Male_Human_Attack_01,한여름 밤의 카라잔,모로스,절 부르셨습니까
+2459,VO_KAR_044_Male_Human_Death_01,한여름 밤의 카라잔,모로스,죽음
+2460,VO_KAR_044_Male_Human_Play_01,한여름 밤의 카라잔,모로스,여러분께 특별한 시간을 선사해드리죠
+2461,VO_KAR_061_Male_ArcaneGolem_Attack_01,한여름 밤의 카라잔,전시 관리인,전시물에는 손대지 마십시오
+2462,VO_KAR_061_Male_ArcaneGolem_Death_02,한여름 밤의 카라잔,전시 관리인,관리인 작동을 중단합니다
+2463,VO_KAR_061_Male_ArcaneGolem_Play_01,한여름 밤의 카라잔,전시 관리인,박물관에는 초대받은 손님만 입장하실 수 있습니다
+2464,VO_KAR_062_Female_Gnome_Attack_01,한여름 밤의 카라잔,황천의 원령 역사가,그러던 어느날
+2465,VO_KAR_062_Female_Gnome_Death_01,한여름 밤의 카라잔,황천의 원령 역사가,죽음
+2466,VO_KAR_062_Female_Gnome_Play_01,한여름 밤의 카라잔,황천의 원령 역사가,옛날 옛적에
+2467,VO_KAR_065_Female_NightElf_Attack_01,한여름 밤의 카라잔,박물관 감시자,물어라
+2468,VO_KAR_065_Female_NightElf_Death_01,한여름 밤의 카라잔,박물관 감시자,죽음
+2469,VO_KAR_065_Female_NightElf_Play_01,한여름 밤의 카라잔,박물관 감시자,무리에 합류해라
+2470,VO_KAR_070_a_Male_Human_Attack_01,한여름 밤의 카라잔,칼잡이 강도,한 곡 추겠어
+2471,VO_KAR_070_a_Male_Human_Death_01,한여름 밤의 카라잔,칼잡이 강도,죽음
+2472,VO_KAR_070_a_Male_Human_Play_01,한여름 밤의 카라잔,칼잡이 강도,칼춤을 시작하자
+2473,VO_KAR_070_Female_Ethereal_Attack_01,한여름 밤의 카라잔,에테리얼 행상인,그거 내가 가져야겠어
+2474,VO_KAR_070_Female_Ethereal_Death_01,한여름 밤의 카라잔,에테리얼 행상인,죽음
+2475,VO_KAR_070_Female_Ethereal_Play_01,한여름 밤의 카라잔,에테리얼 행상인,뭔가 흥미로운게 필요해
+2476,VO_KAR_089_Male_Imp_Attack_02,한여름 밤의 카라잔,말체자르의 임프,싫어 싫단 말이야
+2477,VO_KAR_089_Male_Imp_Death_01,한여름 밤의 카라잔,말체자르의 임프,죽음
+2478,VO_KAR_089_Male_Imp_Play_04,한여름 밤의 카라잔,말체자르의 임프,넌 주인님이 아니야
+2479,VO_KAR_092_Male_Human_Attack_01,한여름 밤의 카라잔,메디브의 하인,즉시 가겠습니다
+2480,VO_KAR_092_Male_Human_Death_01,한여름 밤의 카라잔,메디브의 하인,죽음
+2481,VO_KAR_092_Male_Human_Play_07,한여름 밤의 카라잔,메디브의 하인,실례합니다만 지금 불타고 계십니다
+2482,VO_KAR_094_Male_Fork_Attack_02,한여름 밤의 카라잔,치명적인 포크,이거나 먹어라
+2483,VO_KAR_094_Male_Fork_Death_01,한여름 밤의 카라잔,치명적인 포크,죽음
+2484,VO_KAR_094_Male_Fork_Play_02,한여름 밤의 카라잔,치명적인 포크,넌 찍혔어
+2485,VO_KAR_096_Male_Demon_Attack_02,한여름 밤의 카라잔,공작 말체자르,바보 같으니
+2486,VO_KAR_096_Male_Demon_Death_02,한여름 밤의 카라잔,공작 말체자르,죽음
+2487,VO_KAR_096_Male_Demon_Play_01,한여름 밤의 카라잔,공작 말체자르,모든 차원과 실체가 나를 향해 열려있노라
+2488,VO_KAR_096_Male_Demon_Trigger_01,한여름 밤의 카라잔,공작 말체자르,내 군대와 맞서보아라
+2489,VO_KAR_096_Male_Demon_Trigger_02,한여름 밤의 카라잔,공작 말체자르,내 군대와 맞서보아라
+2490,VO_KAR_097_Male_Human_Attack_01,한여름 밤의 카라잔,수호자 메디브,승부는 이미 정해졌다네
+2491,VO_KAR_097_Male_Human_Death_01,한여름 밤의 카라잔,수호자 메디브,죽음
+2492,VO_KAR_097_Male_Human_Play_01,한여름 밤의 카라잔,수호자 메디브,마법 또한 하나의 게임이라네
+2493,VO_KAR_114_Male_Human_Attack_01,한여름 밤의 카라잔,반즈,이제 연극을 시작하겠습니다
+2494,VO_KAR_114_Male_Human_Death_02,한여름 밤의 카라잔,반즈,잘있거라 세상이여
+2495,VO_KAR_114_Male_Human_Play_02,한여름 밤의 카라잔,반즈,오늘 밤 진정한 공포에 대한 얘기를 들어보시겠습니다
+2496,VO_KAR_114_Male_Human_Play_03,한여름 밤의 카라잔,반즈,오늘 밤 놀라움과 마법이 가득한 얘기를 들어보시겠습니다
+2497,VO_KAR_114_Male_Human_Play_04,한여름 밤의 카라잔,반즈,오늘 밤 오랫동안 잊힌 세계에 대한 얘기를 들어보시겠습니다
+2498,VO_KAR_114_Male_Human_Play_05,한여름 밤의 카라잔,반즈,오늘 밤 참으로 비극적인 얘기를 들어보시겠습니다
+2499,VO_KAR_114_Male_Human_Play_06,한여름 밤의 카라잔,반즈,오늘 밤 참으로 비극적인 얘기를 들어보시겠습니다
+2500,VO_KAR_114_Male_Human_Play_07,한여름 밤의 카라잔,반즈,오늘 밤 영광스런 구원의 얘기를 들어보시겠습니다
+2501,VO_KAR_204_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,검은색 킹,체크메이트
+2502,VO_KAR_204_Male_ChessPiece_Death_02,한여름 밤의 카라잔,검은색 킹,죽음
+2503,VO_KAR_204_Male_ChessPiece_Play_01,한여름 밤의 카라잔,검은색 킹,게임 시작
+2504,VO_KAR_205_Male_SilverwareGolem_Attack_01,한여름 밤의 카라잔,식기 골렘,기합
+2505,VO_KAR_205_Male_SilverwareGolem_Play_01,한여름 밤의 카라잔,식기 골렘,식사를 준비하자
+2506,VO_KAR_702_Male_Goblin_Attack_01,한여름 밤의 카라잔,박물관 마술사,없어져라
+2507,VO_KAR_702_Male_Goblin_Death_01,한여름 밤의 카라잔,박물관 마술사,죽음
+2508,VO_KAR_702_Male_Goblin_Play_01,한여름 밤의 카라잔,박물관 마술사,자 다음 마술은
+2509,VO_KAR_710_Male_Gnome_Attack_01,한여름 밤의 카라잔,비전장인,정말 완벽하게 멋져
+2510,VO_KAR_710_Male_Gnome_Death_01,한여름 밤의 카라잔,비전장인,죽음
+2511,VO_KAR_710_Male_Gnome_Play_01,한여름 밤의 카라잔,비전장인,내 영광스런 발명품을 봐라
+2512,VO_KAR_710m_Male_Shield_Attack_01,한여름 밤의 카라잔,살아 움직이는 방패,방패 밀쳐내기
+2513,VO_KAR_710m_Male_Shield_Death_01,한여름 밤의 카라잔,살아 움직이는 방패,죽음
+2514,VO_KAR_710m_Male_Shield_Play_01,한여름 밤의 카라잔,살아 움직이는 방패,영광스럽도다
+2515,VO_KAR_712_Female_Human_Attack_01,한여름 밤의 카라잔,보랏빛 환영술사,뒤를 조심해
+2516,VO_KAR_712_Female_Human_Death_01,한여름 밤의 카라잔,보랏빛 환영술사,죽음
+2517,VO_KAR_712_Female_Human_Play_01,한여름 밤의 카라잔,보랏빛 환영술사,아둔한 자들 같으니
+2518,VO_KAR_A02_01_Female_Plate_Attack_01,한여름 밤의 카라잔,접시,얌냠냠냠냠
+2519,VO_KAR_A02_01_Female_Plate_Death_01,한여름 밤의 카라잔,접시,죽음
+2520,VO_KAR_A02_01_Female_Plate_Play_01,한여름 밤의 카라잔,접시,어서 먹어라
+2521,VO_KAR_A02_03_Male_Fork_Attack_01,한여름 밤의 카라잔,포크,안녕 케익 난 포크라고 해
+2522,VO_KAR_A02_03_Male_Fork_Death_02,한여름 밤의 카라잔,포크,죽음
+2523,VO_KAR_A02_03_Male_Fork_Play_01,한여름 밤의 카라잔,포크,앞으로
+2524,VO_KAR_A02_04_Male_Knife_Attack_01,한여름 밤의 카라잔,나이프,단칼에 없애주지
+2525,VO_KAR_A02_04_Male_Knife_Death_02,한여름 밤의 카라잔,나이프,죽음
+2526,VO_KAR_A02_04_Male_Knife_Play_01,한여름 밤의 카라잔,나이프,만나서 반가워
+2527,VO_KAR_A02_05_Female_Cup_Attack_01,한여름 밤의 카라잔,컵,찬장은 이제 지긋지긋해
+2528,VO_KAR_A02_05_Female_Cup_Death_01,한여름 밤의 카라잔,컵,쏟아버렸어
+2529,VO_KAR_A02_05_Female_Cup_Play_01,한여름 밤의 카라잔,컵,차 한 잔 하겠어
+2530,VO_KAR_A02_06_Female_Pitcher_Attack_01,한여름 밤의 카라잔,주전자,노래하고 싶어
+2531,VO_KAR_A02_06_Female_Pitcher_Death_01,한여름 밤의 카라잔,주전자,죽음
+2532,VO_KAR_A02_06_Female_Pitcher_Play_01,한여름 밤의 카라잔,주전자,분위기 좋은데
+2533,VO_KAR_A10_01_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,흰색 폰,기합
+2534,VO_KAR_A10_01_Male_ChessPiece_Death_01,한여름 밤의 카라잔,흰색 폰,죽음
+2535,VO_KAR_A10_01_Male_ChessPiece_Play_02,한여름 밤의 카라잔,흰색 폰,앙파상
+2536,VO_KAR_A10_02_Male_ChessPiece_Attack_01,한여름 밤의 카라잔,검은색 폰,기합
+2537,VO_KAR_A10_02_Male_ChessPiece_Death_01,한여름 밤의 카라잔,검은색 폰,죽음
+2538,VO_KAR_A10_02_Male_ChessPiece_Play_02,한여름 밤의 카라잔,검은색 폰,앙파상
+2539,VO_KAR_A10_05_Male_ChessPiece_Death_01,한여름 밤의 카라잔,흰색 비숍,죽음
+2540,VO_KAR_A10_05_Male_ChessPiece_Play_01,한여름 밤의 카라잔,흰색 비숍,훌륭하군
+2541,VO_KAR_A10_06_Male_ChessPiece_Death_01,한여름 밤의 카라잔,검은색 비숍,죽음
+2542,VO_KAR_A10_06_Male_ChessPiece_Play_01,한여름 밤의 카라잔,검은색 비숍,훌륭하군
+2543,VO_KAR_A10_09_Female_ChessPiece_Attack_01,한여름 밤의 카라잔,흰색 퀸,기합
+2544,VO_KAR_A10_09_Female_ChessPiece_Death_01,한여름 밤의 카라잔,흰색 퀸,죽음
+2545,VO_KAR_A10_09_Female_ChessPiece_Play_01,한여름 밤의 카라잔,흰색 퀸,체크메이트
+2546,VO_KAR_A10_10_Female_ChessPiece_Attack_02,한여름 밤의 카라잔,검은색 퀸,기합
+2547,VO_KAR_A10_10_Female_ChessPiece_Death_01,한여름 밤의 카라잔,검은색 퀸,죽음
+2548,VO_KAR_A10_10_Female_ChessPiece_Play_01,한여름 밤의 카라잔,검은색 퀸,체크메이트
+2549,VO_KARA_00_08_Male_Human_Attack_02,한여름 밤의 카라잔,대마법사의 수습생,이것도 시험입니까
+2550,VO_KARA_00_08_Male_Human_Death_01,한여름 밤의 카라잔,대마법사의 수습생,죽음
+2551,VO_KARA_00_08_Male_Human_Play_01,한여름 밤의 카라잔,대마법사의 수습생,언젠가 저는 메디브 님처럼 될겁니다
+2552,VO_KARA_04_01_Female_Human_Attack_01,한여름 밤의 카라잔,도로시,세상에
+2553,VO_KARA_04_01_Female_Human_CroneHuffer_01,한여름 밤의 카라잔,도로시,킁킁아 여긴 서부 몰락지대가 아닌가봐
+2554,VO_KARA_04_01_Female_Human_CroneLionTigerBear_02,한여름 밤의 카라잔,도로시,사자에 용에 곰까지 어우 세상에
+2555,VO_KARA_04_01_Female_Human_CroneTurn1_01,한여름 밤의 카라잔,도로시,무서워 날 지켜줘
+2556,VO_KARA_04_01_Female_Human_CroneTurn3_01,한여름 밤의 카라잔,도로시,서로 손을 잡으면 괜찮아질거야
+2557,VO_KARA_04_01_Female_Human_Death_01,한여름 밤의 카라잔,도로시,죽음
+2558,VO_KARA_04_01_Female_Human_Play_01,한여름 밤의 카라잔,도로시,여긴 어디지 너무  낯선 곳이야
+2559,VO_KARA_06_01_Male_Human_Attack_01,한여름 밤의 카라잔,로밀로,이야말로 나의 커다란 즐거움이지
+2560,VO_KARA_06_01_Male_Human_Attack_02,한여름 밤의 카라잔,로밀로,사실 난 피터팬을 연기하고 싶었거늘
+2561,VO_KARA_06_01_Male_Human_Death_01,한여름 밤의 카라잔,로밀로,달콤한 슬픔이여
+2562,VO_KARA_06_01_Male_Human_JulianneDeadlyPoison_02,한여름 밤의 카라잔,로밀로,한 방울의 독이여
+2563,VO_KARA_06_01_Male_Human_JulianneTurn1_01,한여름 밤의 카라잔,로밀로,기어코 나를 화나게 하는구나 그렇다면 받아라 애송이
+2564,VO_KARA_06_01_Male_Human_Play_01,한여름 밤의 카라잔,로밀로,내 사랑을 위하여
+2565,VO_KARA_09_03a_Male_Imp_Attack_01,한여름 밤의 카라잔,성가신 임프,기습이다 기습이다
+2566,VO_KARA_09_03a_Male_Imp_Death_02,한여름 밤의 카라잔,성가신 임프,죽음
+2567,VO_KARA_09_03a_Male_Imp_Death_03,한여름 밤의 카라잔,성가신 임프,죽음
+2568,VO_KARA_09_03a_Male_Imp_Death_12,한여름 밤의 카라잔,성가신 임프,죽음
+2569,VO_KARA_09_03a_Male_Imp_Death_13,한여름 밤의 카라잔,성가신 임프,죽음
+2570,VO_KARA_09_03a_Male_Imp_Death_15,한여름 밤의 카라잔,성가신 임프,죽음
+2571,VO_KARA_09_03a_Male_Imp_Play_01,한여름 밤의 카라잔,성가신 임프,이히 이히
+2572,VO_KARA_09_08_Male_Imp_Attack_01,한여름 밤의 카라잔,킬렉,배신이다
+2573,VO_KARA_09_08_Male_Imp_Death_01,한여름 밤의 카라잔,킬렉,죽음
+2574,VO_KARA_09_08_Male_Imp_Play_01,한여름 밤의 카라잔,킬렉,왜 깨운거야
+2575,VO_KARA_13_03_Female_Orc_Attack_01,한여름 밤의 카라잔,오크 전사,그나저나 여긴 어디지
+2576,VO_KARA_13_03_Female_Orc_Death_01,한여름 밤의 카라잔,오크 전사,죽음
+2577,VO_KARA_13_03_Female_Orc_Play_01,한여름 밤의 카라잔,오크 전사,블랙핸드 님을 위해
 2578,VO_KT_ANTI_CHEESE1_65,낙스라마스의 저주,,이곳은 영웅난이도다 뻔한 수작은 여기서 안통해
 2579,VO_KT_ANTI_CHEESE2_66,낙스라마스의 저주,,파멸의 예언자 머리좀 굴리셨군
 2580,VO_KT_ANTI_CHEESE3_67,낙스라마스의 저주,,평등 그게 여기서 통할 것 같나
@@ -2623,259 +2623,259 @@ id,filename,expansion,cardname,txt
 2622,VO_KT_THADDIUS1_80,낙스라마스의 저주,,타디우스가 살아났다 이제 넌 끝이다
 2623,VO_KT_THADDIUS2_81,낙스라마스의 저주,,침입자 녀석 이젠 못참아
 2624,VO_KT_WINGOPENS_82,낙스라마스의 저주,,어서 내게 맞서라 침입자여
-2625,VO_KTRAF_RAFAAM_SELF_INTRO,탐험가 연맹,,위대한 고고학자 라팜
-2626,VO_LOE10_NYAH_FINLEY,탐험가 연맹,,이거야 원 어린아이 같이 굴지 마십시오
-2627,VO_LOE_003_Attack_02,탐험가 연맹,,내 차지야
-2628,VO_LOE_003_Death_03,탐험가 연맹,,죽음
-2629,VO_LOE_003_Play_01,탐험가 연맹,,없는 것 빼고 다 있다고
-2630,VO_LOE_006_Attack_02,탐험가 연맹,,그그그거 만지시면 안됩니다
-2631,VO_LOE_006_Death_03,탐험가 연맹,,죽음
-2632,VO_LOE_006_Play3_05,탐험가 연맹,,박물관에 오신걸 환영합니다
-2633,VO_LOE_011_Attack_10,탐험가 연맹,,얼마까지 알아보고 왔나
-2634,VO_LOE_011_Death_11,탐험가 연맹,,안돼
-2635,VO_LOE_011_Play_12,탐험가 연맹,,우린 부자가 될거야
-2636,VO_LOE_012_Attack_02,탐험가 연맹,,조심
-2637,VO_LOE_012_Death_03,탐험가 연맹,,죽음
-2638,VO_LOE_012_Play_01,탐험가 연맹,,고맙다
-2639,VO_LOE_017_Attack_02,탐험가 연맹,,어림도 없다
-2640,VO_LOE_017_Death_03,탐험가 연맹,,창조주여
-2641,VO_LOE_017_Play_01,탐험가 연맹,,우리의 비밀을 파헤치려 하다니
-2642,VO_LOE_018_Attack_02,탐험가 연맹,,주목
-2643,VO_LOE_018_Death_03,탐험가 연맹,,죽음
-2644,VO_LOE_018_Play_01,탐험가 연맹,,트로그가 최고다
-2645,VO_LOE_01_DEATH_2,탐험가 연맹,,오르시스여 내 복수를 해다오
-2646,VO_LOE_01_RESPONSE,탐험가 연맹,,진노하는 태양을 두려워하라
-2647,VO_LOE_01_STAFF,탐험가 연맹,,내꺼다
-2648,VO_LOE_01_STAFF_2,탐험가 연맹,,네놈을 불살라 버리겠다
-2649,VO_LOE_01_STAFF_2_RENO,탐험가 연맹,,그 유물 잘 간수하고 있어 비싼거라구
-2650,VO_LOE_01_START,탐험가 연맹,,나는 불사의 몸이다
-2651,VO_LOE_01_WIN,탐험가 연맹,,홀을 찾았다 내 모습을 해리슨이 봐야하는데
-2652,VO_LOE_01_WIN_2,탐험가 연맹,,지팡이를 잡아
-2653,VO_LOE_01_WIN_2_ALT_2,탐험가 연맹,,땅이 왜 이렇게 흔들리는거지
-2654,VO_LOE_01_WOUNDED,탐험가 연맹,,좋아 놈을 거의 잡았어 어서 끝장내버려
-2655,VO_LOE_023_Attack_02,탐험가 연맹,,거래 완료
-2656,VO_LOE_023_Death_03,탐험가 연맹,,죽음
-2657,VO_LOE_023_Play_01,탐험가 연맹,,원하는게 뭔가
-2658,VO_LOE_02_DEATH,탐험가 연맹,,안돼 다시 갇힐 순 없어
-2659,VO_LOE_02_INTRO,탐험가 연맹,,태양의 홀은 내것이다
-2660,VO_LOE_02_MORE_WISHES,탐험가 연맹,,저런 소원도 들어준단 말이야
-2661,VO_LOE_02_PHAERIX_STAFF_RECOVER,탐험가 연맹,,이 홀에는 너희들이 상상도 못할 힘이 담겨있다
-2662,VO_LOE_02_RESPONSE,탐험가 연맹,,우주에 깃든 힘을 보여주마
-2663,VO_LOE_02_START,탐험가 연맹,,마침내 풀려났다 그 보석으로 눈깜짝할 새에 죽여주마
-2664,VO_LOE_02_START2,탐험가 연맹,,어이 자네 나는 리노 잭슨이야 세계적으로 유명한 고고학자이자 탐험가 그리고 보물 사냥꾼이지
-2665,VO_LOE_02_START3,탐험가 연맹,,자제력이라곤 눈씻고 찾아볼 수 없는걸로도 유명하죠
-2666,VO_LOE_02_TURN_10,탐험가 연맹,,상상해봐 태양의 홀이라니 떼돈을 벌 수 있을거야
-2667,VO_LOE_02_TURN_6,탐험가 연맹,,혹시 저번에 내가 변장을 한채로 오우거가 드글대는 혈투의 전장에 잠입했던 얘기를 했던가
-2668,VO_LOE_02_TURN_6_2,탐험가 연맹,,아니면 저번에 내가 검은바위 훈련 강당에 몰래 숨어서
-2669,VO_LOE_02_WIN,탐험가 연맹,,어서 가지 홀은 저 전당 안에 있을거야
-2670,VO_LOE_02_WISH,탐험가 연맹,,우릴 죽이려 하면서도 소원을 이뤄주다니 참 특이한 친구로군
-2671,VO_LOE_038_Attack_02,탐험가 연맹,,여제 님을 위해
-2672,VO_LOE_038_Death_03,탐험가 연맹,,죽음
-2673,VO_LOE_038_Play_01,탐험가 연맹,,날 거슬리게 하지 마라
-2674,VO_LOE_03_RESPONSE,탐험가 연맹,,서둘러
-2675,VO_LOE_03_TURN_1,탐험가 연맹,,천장이 무너지고 괴물들이 몰려들고 있어 서둘러
-2676,VO_LOE_03_TURN_10,탐험가 연맹,,거의 다 왔어 태양이 보여
-2677,VO_LOE_03_TURN_2,탐험가 연맹,,오호 빛나는 샘이라 한 번 확인해볼까
-2678,VO_LOE_03_TURN_2_2,탐험가 연맹,,지금 그럴 시간이 어딨어요
-2679,VO_LOE_03_TURN_3_BOULDER,탐험가 연맹,,엄청나게 큰 바위야 어서 피해
-2680,VO_LOE_03_TURN_3_WARNING,탐험가 연맹,,흔들림이 점점 더 심해지고 있어 다음 턴에 천장이 완전히 무너질거야
-2681,VO_LOE_03_TURN_4,탐험가 연맹,,조심해 다시 함정이야
-2682,VO_LOE_03_TURN_4_BAD,탐험가 연맹,,방금 그건 좀 아팠겠어
-2683,VO_LOE_03_TURN_4_GOOD,탐험가 연맹,,이야하 멋진데 실력이 나랑 버금갈 정도야
-2684,VO_LOE_03_TURN_4_NEITHER,탐험가 연맹,,그래 그것도 한 방법이지 좀 빨리 올 수 없겠어
-2685,VO_LOE_03_TURN_5,탐험가 연맹,,저 조각상 멋진데 눈이 루비로 되어있잖아
-2686,VO_LOE_03_TURN_5_4,탐험가 연맹,,저 녀석 기분이 안좋아 보이네 보석을 돌려받고 싶은가봐
-2687,VO_LOE_03_TURN_6,탐험가 연맹,,조심해 천장이 무너지고 있어
-2688,VO_LOE_03_TURN_6_2,탐험가 연맹,,방금 좀 위험했는데 내가 순발력이 좋았으니 망정이지 아 그런거 아니야 고마워 하기는
-2689,VO_LOE_03_TURN_7,탐험가 연맹,,이 쪽은 좀 어둡기는 한데 지름길 같아보여 여기로 가자구
-2690,VO_LOE_03_TURN_7_2,탐험가 연맹,,제 지도에는 절대 가지말 것이라고 되어있는데요
-2691,VO_LOE_03_TURN_8,탐험가 연맹,,점점 후끈거리잖아 서둘러야겠어
-2692,VO_LOE_03_TURN_9,탐험가 연맹,,벌레라니 왜 하필 벌레인거야
-2693,VO_LOE_03_WIN,탐험가 연맹,,해냈어 이 사막을 보는게 반가울 줄이야 물이라도 좀 마셔야겠어
-2694,VO_LOE_04_DEATH,탐험가 연맹,,죽음
-2695,VO_LOE_04_RESPONSE,탐험가 연맹,,트로그 바보 부순다
-2696,VO_LOE_04_SCARVASH_TURN_2,탐험가 연맹,,트로그 바보 아니야 트로그 너 바보로 만든다
-2697,VO_LOE_04_START,탐험가 연맹,,울다만은 트로그 꺼다
-2698,VO_LOE_04_WIN,탐험가 연맹,,놈들이 멈추질 않는군요 이쪽입니다 광산 수레에 올라타세요
-2699,VO_LOE_053_Attack_02,탐험가 연맹,,이곳에서 떠나라
-2700,VO_LOE_053_Death_03,탐험가 연맹,,죽음
-2701,VO_LOE_053_Play_01,탐험가 연맹,,여긴 필멸자가 올 곳이 아니다
-2702,VO_LOE_076_Attack_13,탐험가 연맹,,물론이죠
-2703,VO_LOE_076_Death_alt_15,탐험가 연맹,,이런
-2704,VO_LOE_076_Play_alt4_20,탐험가 연맹,,함께 모험을 떠나보시죠
-2705,VO_LOE_077_Attack_12,탐험가 연맹,,역사 속으로 사라지시죠
-2706,VO_LOE_077_Death_13,탐험가 연맹,,죽음
-2707,VO_LOE_077_MAGNI_14,탐험가 연맹,,오 형님 최근에 무라딘 소식은 들으셨습니까
-2708,VO_LOE_077_Play_16,탐험가 연맹,,탐구 정신이 불끈 솟는군요
-2709,VO_LOE_079_Attack_13,탐험가 연맹,,물러나세요
-2710,VO_LOE_079_Death_14,탐험가 연맹,,죽음
-2711,VO_LOE_079_Play_15,탐험가 연맹,,유물을 가져오셨나요
-2712,VO_LOE_07_RESPONSE,탐험가 연맹,,정말 그럴 시간이 있으십니까
-2713,VO_LOE_07_START,탐험가 연맹,,조심하세요 놈들이 쫓아오고 있어요
-2714,VO_LOE_07_WIN,탐험가 연맹,,달리는 수레를 타며 폭탄을 마음껏 던지다니 색다른 경험이군요
-2715,VO_LOE_089_2_Attack_02,탐험가 연맹,,공격
-2716,VO_LOE_089_2_Death_04,탐험가 연맹,,죽음
-2717,VO_LOE_089_2_Play_01,탐험가 연맹,,이봐 너
-2718,VO_LOE_089_3_Attack_02,탐험가 연맹,,안녕
-2719,VO_LOE_089_3_Death2_05,탐험가 연맹,,내 얼굴
-2720,VO_LOE_089_3_Play_01,탐험가 연맹,,죽어라
-2721,VO_LOE_089_Attack2_03,탐험가 연맹,,잡아
-2722,VO_LOE_089_Attack_Trio,탐험가 연맹,,공격 잡아 안녕
-2723,VO_LOE_089_Death2_05_ALT1,탐험가 연맹,,죽음
-2724,VO_LOE_089_Death_Trio,탐험가 연맹,,죽음
-2725,VO_LOE_089_Play2_06,탐험가 연맹,,기합
-2726,VO_LOE_089_Play_Trio,탐험가 연맹,,기합
-2727,VO_LOE_08_ANIMATE_STONE,탐험가 연맹,,대지와 바위여 일어나라
-2728,VO_LOE_08_DEATH,탐험가 연맹,,죽음
-2729,VO_LOE_08_LANDSLIDE,탐험가 연맹,,널 묻어버리겠다
-2730,VO_LOE_08_RESPONSE,탐험가 연맹,,먼지같은 존재여
-2731,VO_LOE_08_START,탐험가 연맹,,누가 창조자의 진노를 사려 하는가
-2732,VO_LOE_08_WIN,탐험가 연맹,,지팡이의 윗부분을 손에 넣었습니다 이제 하나만 더 찾으면 된다구요
-2733,VO_LOE_08_WIN_2,탐험가 연맹,,두번째 조각을 모았군 이제 곧 내 계획이 완성된다
-2734,VO_LOE_092_Attack_02,탐험가 연맹,,보아라
-2735,VO_LOE_092_Death_03,탐험가 연맹,,죽음
-2736,VO_LOE_092_Play_04,탐험가 연맹,,나는 위대한 고고학자 라팜이다
-2737,VO_LOE_10_START_2,탐험가 연맹,,진심이십니까 말이 너무 심하시군요
-2738,VO_LOE_10_WIN,탐험가 연맹,,안타깝군요 조금만 더 교양이 있었다면 괜찮은 벗이 될 수 있었을텐데
-2739,VO_LOE_110_Attack_02,탐험가 연맹,,풀려났다
-2740,VO_LOE_110_Death_03,탐험가 연맹,,죽음
-2741,VO_LOE_110_Play_01,탐험가 연맹,,고대 저주가
-2742,VO_LOE_116_Attack_02,탐험가 연맹,,머지 않았다
-2743,VO_LOE_116_Death_03,탐험가 연맹,,죽음
-2744,VO_LOE_116_Play4_06,탐험가 연맹,,계획대로야
-2745,VO_LOE_12_DEATH,탐험가 연맹,,죽음
-2746,VO_LOE_12_NAZJAR_PEARL,탐험가 연맹,,놀랍군요 이 진주는 끝없는 힘을 간직하고 있습니다
-2747,VO_LOE_12_NAZJAR_TURN_1,탐험가 연맹,,나는 아즈샤라의 칼날이다 누가 내게 감히 도전하느냐
-2748,VO_LOE_12_NAZJAR_TURN_1_FINLEY,탐험가 연맹,,반갑습니다 부인 저는 핀리 므르글턴 경입니다
-2749,VO_LOE_12_NAZJAR_TURN_3_FINLEY,탐험가 연맹,,엘리스 님 다른 이들은 어떻습니까
-2750,VO_LOE_12_NAZJAR_TURN_5,탐험가 연맹,,나락의 군대여 일어나라 죽음의 물결이여 적을 모조리 쓸어버려라
-2751,VO_LOE_12_NAZJAR_TURN_5_FINLEY,탐험가 연맹,,말씀이 좀 과격하신 것 같습니다만
-2752,VO_LOE_12_RESPONSE,탐험가 연맹,,나는 진주의 힘을 다룬다
-2753,VO_LOE_12_START,탐험가 연맹,,해일의 힘이 널 집어삼키리라
-2754,VO_LOE_12_WIN,탐험가 연맹,,브라보 진주를 확보했습니다 탐험가의 전당으로 함께 가시지요 유물을 결합시켜야 합니다
-2755,VO_LOE_12_WIN_2,탐험가 연맹,,모든 조각이 한데 모였다
-2756,VO_LOE_13_TURN_1,탐험가 연맹,,지팡이에 저주가 걸려있었어요 에테리얼들이 전당 안으로 침입하여 닥치는대로 훔치고 있다구요
-2757,VO_LOE_13_TURN_1_2,탐험가 연맹,,닥치는대로는 아니야 흥미로운 것들만 관심 있거든
-2758,VO_LOE_13_TURN_5,탐험가 연맹,,오 이건 아서스의 인장 반지로군 상태도 아주 좋아
-2759,VO_LOE_13_TURN_5_2,탐험가 연맹,,리노 브란 유물들을 숨기세요
-2760,VO_LOE_13_TURN_9,탐험가 연맹,,놈이 병사들을 소환하고 있습니다 엘리스 저자를 막으세요
-2761,VO_LOE_13_TURN_9_2,탐험가 연맹,,텔작서스 날로레 지팡이가 너무 강력해요 하지만 시간을 벌 수는 있을 것 같아요
-2762,VO_LOE_13_WIN,탐험가 연맹,,우리가 이들을 막겠습니다 탐험가 님 라팜에게 가세요
-2763,VO_LOE_14_START,탐험가 연맹,,저건 로서의 갑옷이잖아 저걸 발굴하려고 검은바위 산에서 몇 달을 고생했는데
-2764,VO_LOE_14_TURN_13,탐험가 연맹,,브란 라팜이 도서관의 책들을 부리고 있어요 저는 로데론 전시실의 날아다니는 망치들을 상대하고 있을게요
-2765,VO_LOE_14_TURN_5,탐험가 연맹,,전당의 동쪽에 있는 움직이는 칼들은 모두 처리했습니다 엘리스 님 전 누굴 도우면 되겠습니까
-2766,VO_LOE_14_TURN_5_2,탐험가 연맹,,주 보존실에 있는 리노에게 가세요 폭탄로봇에 둘러쌓여 있을거에요
-2767,VO_LOE_14_TURN_9,탐험가 연맹,,다들 바빠보이는군 이 브로치도 맘에 드는데
-2768,VO_LOE_14_WIN,탐험가 연맹,,박물관은 이제 안정된거 같아요 탐험가 님 라팜을 상대하세요
-2769,VO_LOE_15_DEATH,탐험가 연맹,,죽음
-2770,VO_LOE_15_RESPONSE,탐험가 연맹,,멋진 카드가 이렇게나 많다니
-2771,VO_LOE_15_SPARE,탐험가 연맹,,탐험가 님 여기 남는 덱이 있어요 이걸 쓰세요
-2772,VO_LOE_16_BOOM_BOT,탐험가 연맹,,이런 거야 얼마든지 있지 끝장내버려
-2773,VO_LOE_16_CROWN,탐험가 연맹,,이성을 잃은 불운한 마법사의 유산입니다
-2774,VO_LOE_16_EYE,탐험가 연맹,,신기하네 이게 왜 내 주머니 속에 있지 어이 이거 빌려줄게
-2775,VO_LOE_16_FIRST_ITEM,탐험가 연맹,,박물관에서 쓸만한 물건이 있는지 찾아볼게요 뭐든 필요하면 부르세요
-2776,VO_LOE_16_GOBLET,탐험가 연맹,,난 뱀이 정말 싫어
-2777,VO_LOE_16_GREAVE,탐험가 연맹,,아까 처리한 로서의 갑옷 중 일부가 아주 쓸만하더군요
-2778,VO_LOE_16_LOCKET,탐험가 연맹,,카라잔의 망령들이 아직도 이 목걸이에 깃들어 있습니다
-2779,VO_LOE_16_PIPE,탐험가 연맹,,받으세요 브란한텐 얘기하지 마세요 이 파이프를 무척 마음에 들어하더라구요
-2780,VO_LOE_16_RAFAAM_DEATH2,탐험가 연맹,,안돼 내가 패배할 수는 없어
-2781,VO_LOE_16_RAFAAM_SELF_INTRO,탐험가 연맹,,위대한 고고학자 라팜
-2782,VO_LOE_16_SHARD,탐험가 연맹,,열지 마시오라는 상자에 이런게 있더라구 그러니까 잘 써봐
-2783,VO_LOE_16_SPLINTER,탐험가 연맹,,화산 심장부에 이런게 있더군요 청지기가 식사를 하고 이를 쑤시는 용도로 썼다고 하더라구요
-2784,VO_LOE_16_TEAR,탐험가 연맹,,우리 종족이 신성히 여기던 유물이에요 어서 드세요
-2785,VO_LOE_16_TURN_2,탐험가 연맹,,지팡이의 힘이 최고조에 달하고 있어요 준비하세요
-2786,VO_LOE_16_TURN_2_2,탐험가 연맹,,압도적인 힘으로
-2787,VO_LOE_16_TURN_2_3,탐험가 연맹,,지팡이에 과부하가 걸렸어요 지금이에요
-2788,VO_LOE_16_TURN_3,탐험가 연맹,,난 절대로 쓰러지지 않는다 난 무적이다
-2789,VO_LOE_16_TURN_3_2,탐험가 연맹,,지팡이에 다시 힘이 모이기 시작했어요 곧 다시 기회가 올거에요
-2790,VO_LOE_16_TURN_4,탐험가 연맹,,지팡이가 거의 준비됐어요 서두르세요
-2791,VO_LOE_16_TURN_5,탐험가 연맹,,압도적인 힘으로
-2792,VO_LOE_16_TURN_5_2,탐험가 연맹,,보호막이 사라졌어요 지금이 기회에요
-2793,VO_LOE_16_TURN_6,탐험가 연맹,,보호막이 다시 생겨났어요 주의하세요
-2794,VO_LOE_16_VIAL,탐험가 연맹,,쭉 들이키세요라고 되어 있는데 낙스라마스에서 찾은거라 아무도 마시려고 하지 않더라구요
-2795,VO_LOE_ARCHAEDAS_TURN_1_CARTOGRAPHER,탐험가 연맹,,그 전에 우릴 묻어버리려고 한다는게 문제죠
-2796,VO_LOE_INTRO_1,탐험가 연맹,,때맞춰 오셨군요 모험가님 탐험가의 전당에 오신걸 환영해요
-2797,VO_LOE_INTRO_2,탐험가 연맹,,우린 엄청난 발견을 눈앞에 두고 있습니다
-2798,VO_LOE_INTRO_3,탐험가 연맹,,우린 시초의 지팡이의 세조각을 찾고 있어요 조각을 모으는걸 도와주시겠어요
-2799,VO_LOE_INTRO_5,탐험가 연맹,,저는 지도 제작자인 엘리스 스타시커에요 최근에 우린 시초의 지팡이의 세 조각에 관한 단서를 찾았죠 당신의 도움이 꼭 필요해요
-2800,VO_LOE_INTRO_6,탐험가 연맹,,저는 이곳에 남아서 탐험을 지휘하겠지만 다른 이들은 이미 현장에 나가있어요 그들을 도와주시겠어요
-2801,VO_LOE_NAZJAR_TURN_3_CARTOGRAPHER,탐험가 연맹,,리노가 태양의 홀을 가지고 돌아왔고 브란은 지금 오는 중이에요
-2802,VO_LOE_SCARVASH_TURN_6_CARTOGRAPHER,탐험가 연맹,,브란 집중하세요
-2803,VO_LOE_WING_1_WIN_2,탐험가 연맹,,그래 지팡이를 찾고 있단 말이지
-2804,VO_LOE_WING_3_WIN_1,탐험가 연맹,,탐험가 여러분 우리가 해냈어요 길고 긴 시간 끝에 태초의 지팡이를 복원했어요
-2805,VO_LOE_WING_3_WIN_2,탐험가 연맹,,믿을 수 없군요 우리가 세 조각을 모두 확보하다니
-2806,VO_LOE_WING_3_WIN_3,탐험가 연맹,,아이 뭐라고
-2807,VO_LOE_WING_3_WIN_4,탐험가 연맹,,안녕하신가 탐험가여 난 위대한 고고학자 라팜이다
-2808,VO_LOE_WING_3_WIN_5,탐험가 연맹,,내 지팡이를 찾아줘서 고맙군 이 유물에 어떤 힘이 깃들어 있는지 내가 친히 보여주지
-2809,VO_LOE_ZINAAR_TURN_10_CARTOGRAPHER_2,탐험가 연맹,,팔아치우려고 찾고있는게 아니라구요
-2810,VO_LOE_ZINAAR_TURN_6_CARTOGRAPHER_2,탐험가 연맹,,했어요
-2811,VO_LOE_ZINAAR_TURN_6_CARTOGRAPHER_2_ALT,탐험가 연맹,,그것도 했었구요
-2812,VO_LOEA01_12_Attack_02,탐험가 연맹,,잘들어라 시간이 얼마 없다 라팜 또한 지팡이를 노리고 있다 놈이 그걸 가지게 해선 안된다
-2813,VO_LOEA01_12_Death_04,탐험가 연맹,,죽음
-2814,VO_LOEA01_12_Play_01,탐험가 연맹,,난 사원을 지킨다
-2815,VO_LOEA01_PHAERIX_PREGAME,탐험가 연맹,,사원의 보물창고야 자네가 경비병을 상대하면 나머진 내가 알아서 하지
-2816,VO_LOEA02_ZINAAR_PREGAME,탐험가 연맹,,오르시스의 사원이군요 저 안에 태양의 홀이 있는데 하필이면 리노가 그곳에 있는 반짝이는 램프를 문질러 버렸다는군요
-2817,VO_LOEA02_ZINAAR_PREGAME_ALT,탐험가 연맹,,리노가 태양의 홀을 거의 확보했는데 하필이면 그곳에 있는 반짝이는 램프를 문질러 버렸다는군요
-2818,VO_LOEA03_TEMPLE_PREGAME,탐험가 연맹,,첫번째 조각을 찾았어 이제 여기서 깔려죽지만 않으면 되겠는데
-2819,VO_LOEA04_13bt_Attack_02,탐험가 연맹,,언젠간 나도 히어로즈오브더스톰에 등장하고 싶다
-2820,VO_LOEA04_13bt_Death_04,탐험가 연맹,,죽음
-2821,VO_LOEA04_13bt_Play_01,탐험가 연맹,,홀을 가져가면 안된다
-2822,VO_LOEA04_24_Attack2_03,탐험가 연맹,,날 데려가다오 여긴 월급도 안주더군
-2823,VO_LOEA04_24_Death_04,탐험가 연맹,,죽음
-2824,VO_LOEA04_24_Play_01,탐험가 연맹,,도망갈 수는 없다
-2825,VO_LOEA04_BRANN_TURN_1,탐험가 연맹,,제가 예전에 여기에 왔을땐 스카바시는 조그만 트로그였어요 이젠 몸집도 커지고 더 바보스럽고 못생겨졌네요
-2826,VO_LOEA04_SCARVASH_PREGAME,탐험가 연맹,,안녕하십니까 탐험가 님 지팡이의 윗부분에 관한 단서를 찾았어요  바로 이곳 울다만 어딘가에 있는 것 같습니다
-2827,VO_LOEA07_12_Death_02,탐험가 연맹,,죽음
-2828,VO_LOEA07_12_Play_01,탐험가 연맹,,잠깐
-2829,VO_LOEA07_MINE_ARCHAEDAS,탐험가 연맹,,마그니의 수염이여 저건 아카에다스 아닙니까
-2830,VO_LOEA07_MINE_BARREL_FORWARD,탐험가 연맹,,전속력으로
-2831,VO_LOEA07_MINE_BOOM,탐험가 연맹,,폭탄이나 받아라 이놈들아
-2832,VO_LOEA07_MINE_BOOMZOOKA,탐험가 연맹,,쾅 하하 한 발 더 준비하겠습니다
-2833,VO_LOEA07_MINE_DETONATE,탐험가 연맹,,뭐하시는거에요 선로를 부수면 어떡합니까
-2834,VO_LOEA07_MINE_DYNAMITE,탐험가 연맹,,조심하세요 선로까지 날려버렸잖아요
-2835,VO_LOEA07_MINE_HUNKER_DOWN,탐험가 연맹,,엎드리세요
-2836,VO_LOEA07_MINE_PARROT,탐험가 연맹,,짹짹아 날아
-2837,VO_LOEA07_MINE_RAMMING,탐험가 연맹,,다 비켜
-2838,VO_LOEA07_MINE_REPAIRS,탐험가 연맹,,조금만 손보면 새것처럼 멀쩡해 질겁니다
-2839,VO_LOEA07_MINE_SPIKED_DECOY,탐험가 연맹,,어이 멍청한 트로그들아 날 잡아봐
-2840,VO_LOEA07_MINECART_PREGAME,탐험가 연맹,,이 선로는 울다만의 중심부로 향할거에요
-2841,VO_LOEA08_ARCHAEDAS_PREGAME,탐험가 연맹,,바위 거인 아카에다스가 지팡이의 윗부분을 가지고 있습니다 하지만 순순히 넘겨주진 않을거 같군요
-2842,VO_LOEA08_TURN_1_BRANN,탐험가 연맹,,고대 티탄을 받들던 시종이군요 온갖 지식을 전수받을 수 있을겁니다
-2843,VO_LOEA09_1_RESPONSE,탐험가 연맹,,저녁거리가 더 늘었구나
-2844,VO_LOEA09_1_TURN1,탐험가 연맹,,감히 이곳을 침범하려 하다니
-2845,VO_LOEA09_6_Attack_02,탐험가 연맹,,명중이다
-2846,VO_LOEA09_6_Death_05,탐험가 연맹,,죽음
-2847,VO_LOEA09_6_Play_01,탐험가 연맹,,육지 놈들에게 죽음을
-2848,VO_LOEA09_DEATH,탐험가 연맹,,죽음
-2849,VO_LOEA09_FINLEY_DEATH,탐험가 연맹,,전 괜찮습니다 탐험가 님 저 나가를 끝장내십시오
-2850,VO_LOEA09_HERO_POWER,탐험가 연맹,,저녁 시간이다 오늘은 멀록 탕으로 포식하겠군
-2851,VO_LOEA09_HERO_POWER1,탐험가 연맹,,안녕하십니까 제가 지금 좀 난처한 상황에 놓였는데 도와주시겠습니까
-2852,VO_LOEA09_HERO_POWER2,탐험가 연맹,,이것 참 이 안은 정말 어둡군요
-2853,VO_LOEA09_HERO_POWER3,탐험가 연맹,,오호 이거 점점 뜨거워지는데요
-2854,VO_LOEA09_HERO_POWER4,탐험가 연맹,,딱히 쾌적하진 않군요 이곳은
-2855,VO_LOEA09_HERO_POWER5,탐험가 연맹,,확실히 매우 덥군요
-2856,VO_LOEA09_HERO_POWER6,탐험가 연맹,,도움의 손길이 간절하게 필요합니다
-2857,VO_LOEA09_QUOTE1,탐험가 연맹,,감사합니다 탐험가 님 정말 위험했습니다
-2858,VO_LOEA09_SLITHERSPEAR_PREGAME,탐험가 연맹,,핀리 경과 연락이 되지 않아요 그를 찾아주시겠어요
-2859,VO_LOEA09_UNSTABLE,탐험가 연맹,,가마솥에 다시 들어가라
-2860,VO_LOEA09_WIN,탐험가 연맹,,진심으로 감사드립니다 탐험가 님 마지막 조각을 함께 찾으러 가시겠습니까
-2861,VO_LOEA10_GIANTFIN_PREGAME,탐험가 연맹,,오호 통재라 거대 아가미 님은 만나지 않았으면 했건만
-2862,VO_LOEA12_NAGA_PREGAME,탐험가 연맹,,저 나가가 진주를 가지고 있습니다 어서 진주를 확보하고 이곳을 떠나시죠
-2863,VO_LOEA13_SKELESAURUS_PREGAME,탐험가 연맹,,참으로 멋진 박물관이군 하 내가 만난 새 친구를 소개해주마 인사해라 뼈다귀 사우르스 헥스
-2864,VO_LOEA14_STEELSENTINEL_PREGAME,탐험가 연맹,,오호 정말 재밌는 장난감이로군 네가 계속 부수지만 않으면 좋을텐데 말이야
-2865,VO_LOEA15_1_LOSS_11,탐험가 연맹,,정말 쓸모없는 덱이군 내가 만든 덱을 써야겠어
-2866,VO_LOEA15_1_LOW_HEALTH_10,탐험가 연맹,,네 덱을 가져온건 실수였나보군
-2867,VO_LOEA15_1_MAGMA_RAGER_09,탐험가 연맹,,용암 광전사라니 이런 카드를 대체 왜 쓰는 것이냐
-2868,VO_LOEA15_1_PREGAME_06,탐험가 연맹,,그래 그 덱을 쓰겠다고
-2869,VO_LOEA15_1_START_07,탐험가 연맹,,그 덱 마음에 드는데 내가 가져야겠어
-2870,VO_LOEA15_1_TURN1_08,탐험가 연맹,,오 좋아 패가 아주 훌륭하군
-2871,VO_LOEA15_1_WIN_12,탐험가 연맹,,네 덱은 정말 강력하군
-2872,VO_LOEA15_GOLDEN,탐험가 연맹,,황금 카드로만 이루어진 덱이라니 내 덱에  버금갈 정도로 호화롭구나
-2873,VO_LOEA16_1_CARD_04,탐험가 연맹,,난 무수한 세계에서 온갖 유물들을 수집했다
-2874,VO_LOEA16_1_RESPONSE_03,탐험가 연맹,,그래 그래
-2875,VO_LOEA16_1_START_01,탐험가 연맹,,이게 시초의 지팡이의 진정한 힘이다
-2876,VO_LOEA16_1_TURN1_02,탐험가 연맹,,나는 무적이다 티탄의 힘이 내 손안에 있다
-2877,VO_LOEA16_RAFAAM2_PREGAME,탐험가 연맹,,그만 너따위는 시초의 지팡이의 힘을 당해낼 수 없다
+2625,VO_KTRAF_RAFAAM_SELF_INTRO,탐험가 연맹,대도 라팜,위대한 고고학자 라팜
+2626,VO_LOE10_NYAH_FINLEY,탐험가 연맹,핀리 므르글턴 경,이거야 원 어린아이 같이 굴지 마십시오
+2627,VO_LOE_003_Attack_02,탐험가 연맹,에테리얼 창조술사,내 차지야
+2628,VO_LOE_003_Death_03,탐험가 연맹,에테리얼 창조술사,죽음
+2629,VO_LOE_003_Play_01,탐험가 연맹,에테리얼 창조술사,없는 것 빼고 다 있다고
+2630,VO_LOE_006_Attack_02,탐험가 연맹,박물관 관리인,그그그거 만지시면 안됩니다
+2631,VO_LOE_006_Death_03,탐험가 연맹,박물관 관리인,죽음
+2632,VO_LOE_006_Play3_05,탐험가 연맹,박물관 관리인,박물관에 오신걸 환영합니다
+2633,VO_LOE_011_Attack_10,탐험가 연맹,리노 잭슨,얼마까지 알아보고 왔나
+2634,VO_LOE_011_Death_11,탐험가 연맹,리노 잭슨,안돼
+2635,VO_LOE_011_Play_12,탐험가 연맹,리노 잭슨,우린 부자가 될거야
+2636,VO_LOE_012_Attack_02,탐험가 연맹,불명,조심
+2637,VO_LOE_012_Death_03,탐험가 연맹,불명,죽음
+2638,VO_LOE_012_Play_01,탐험가 연맹,불명,고맙다
+2639,VO_LOE_017_Attack_02,탐험가 연맹,울다만의 수호자,어림도 없다
+2640,VO_LOE_017_Death_03,탐험가 연맹,울다만의 수호자,창조주여
+2641,VO_LOE_017_Play_01,탐험가 연맹,울다만의 수호자,우리의 비밀을 파헤치려 하다니
+2642,VO_LOE_018_Attack_02,탐험가 연맹,땅굴 트로그,주먹
+2643,VO_LOE_018_Death_03,탐험가 연맹,땅굴 트로그,죽음
+2644,VO_LOE_018_Play_01,탐험가 연맹,땅굴 트로그,트로그가 최고다
+2645,VO_LOE_01_DEATH_2,탐험가 연맹,태양의 사냥꾼 패릭스,오르시스여 내 복수를 해다오
+2646,VO_LOE_01_RESPONSE,탐험가 연맹,태양의 사냥꾼 패릭스,진노하는 태양을 두려워하라
+2647,VO_LOE_01_STAFF,탐험가 연맹,리노 잭슨,내꺼다
+2648,VO_LOE_01_STAFF_2,탐험가 연맹,태양의 사냥꾼 패릭스,네놈을 불살라 버리겠다
+2649,VO_LOE_01_STAFF_2_RENO,탐험가 연맹,리노 잭슨,그 유물 잘 간수하고 있어 비싼거라구
+2650,VO_LOE_01_START,탐험가 연맹,태양의 사냥꾼 패릭스,나는 불사의 몸이다
+2651,VO_LOE_01_WIN,탐험가 연맹,리노 잭슨,홀을 찾았다 내 모습을 해리슨이 봐야하는데
+2652,VO_LOE_01_WIN_2,탐험가 연맹,리노 잭슨,지팡이를 잡아
+2653,VO_LOE_01_WIN_2_ALT_2,탐험가 연맹,리노 잭슨,땅이 왜 이렇게 흔들리는거지
+2654,VO_LOE_01_WOUNDED,탐험가 연맹,리노 잭슨,좋아 놈을 거의 잡았어 어서 끝장내버려
+2655,VO_LOE_023_Attack_02,탐험가 연맹,어둠의 행상인,거래 완료
+2656,VO_LOE_023_Death_03,탐험가 연맹,어둠의 행상인,죽음
+2657,VO_LOE_023_Play_01,탐험가 연맹,어둠의 행상인,원하는게 뭔가
+2658,VO_LOE_02_DEATH,탐험가 연맹,지나르,안돼 다시 갇힐 순 없어
+2659,VO_LOE_02_INTRO,탐험가 연맹,지나르,태양의 홀은 내것이다
+2660,VO_LOE_02_MORE_WISHES,탐험가 연맹,리노 잭슨,저런 소원도 들어준단 말이야
+2661,VO_LOE_02_PHAERIX_STAFF_RECOVER,탐험가 연맹,지나르,이 홀에는 너희들이 상상도 못할 힘이 담겨있다
+2662,VO_LOE_02_RESPONSE,탐험가 연맹,지나르,우주에 깃든 힘을 보여주마
+2663,VO_LOE_02_START,탐험가 연맹,지나르,마침내 풀려났다 그 보석으로 눈깜짝할 새에 죽여주마
+2664,VO_LOE_02_START2,탐험가 연맹,리노 잭슨,어이 자네 나는 리노 잭슨이야 세계적으로 유명한 고고학자이자 탐험가 그리고 보물 사냥꾼이지
+2665,VO_LOE_02_START3,탐험가 연맹,엘리스 스타시커,자제력이라곤 눈씻고 찾아볼 수 없는걸로도 유명하죠
+2666,VO_LOE_02_TURN_10,탐험가 연맹,리노 잭슨,상상해봐 태양의 홀이라니 떼돈을 벌 수 있을거야
+2667,VO_LOE_02_TURN_6,탐험가 연맹,리노 잭슨,혹시 저번에 내가 변장을 한채로 오우거가 드글대는 혈투의 전장에 잠입했던 얘기를 했던가
+2668,VO_LOE_02_TURN_6_2,탐험가 연맹,리노 잭슨,아니면 저번에 내가 검은바위 훈련 강당에 몰래 숨어서
+2669,VO_LOE_02_WIN,탐험가 연맹,리노 잭슨,어서 가지 홀은 저 전당 안에 있을거야
+2670,VO_LOE_02_WISH,탐험가 연맹,리노 잭슨,우릴 죽이려 하면서도 소원을 이뤄주다니 참 특이한 친구로군
+2671,VO_LOE_038_Attack_02,탐험가 연맹,나가 바다 마녀,여제 님을 위해
+2672,VO_LOE_038_Death_03,탐험가 연맹,나가 바다 마녀,죽음
+2673,VO_LOE_038_Play_01,탐험가 연맹,나가 바다 마녀,날 거슬리게 하지 마라
+2674,VO_LOE_03_RESPONSE,탐험가 연맹,리노 잭슨,서둘러
+2675,VO_LOE_03_TURN_1,탐험가 연맹,리노 잭슨,천장이 무너지고 괴물들이 몰려들고 있어 서둘러
+2676,VO_LOE_03_TURN_10,탐험가 연맹,리노 잭슨,거의 다 왔어 태양이 보여
+2677,VO_LOE_03_TURN_2,탐험가 연맹,리노 잭슨,오호 빛나는 샘이라 한 번 확인해볼까
+2678,VO_LOE_03_TURN_2_2,탐험가 연맹,엘리스 스타시커,지금 그럴 시간이 어딨어요
+2679,VO_LOE_03_TURN_3_BOULDER,탐험가 연맹,리노 잭슨,엄청나게 큰 바위야 어서 피해
+2680,VO_LOE_03_TURN_3_WARNING,탐험가 연맹,리노 잭슨,흔들림이 점점 더 심해지고 있어 다음 턴에 천장이 완전히 무너질거야
+2681,VO_LOE_03_TURN_4,탐험가 연맹,리노 잭슨,조심해 가시 함정이야
+2682,VO_LOE_03_TURN_4_BAD,탐험가 연맹,리노 잭슨,방금 그건 좀 아팠겠어
+2683,VO_LOE_03_TURN_4_GOOD,탐험가 연맹,리노 잭슨,이야하 멋진데 실력이 나랑 버금갈 정도야
+2684,VO_LOE_03_TURN_4_NEITHER,탐험가 연맹,리노 잭슨,그래 그것도 한 방법이지 좀 빨리 올 수는 없겠어
+2685,VO_LOE_03_TURN_5,탐험가 연맹,리노 잭슨,저 조각상 멋진데 눈이 루비로 되어있잖아
+2686,VO_LOE_03_TURN_5_4,탐험가 연맹,리노 잭슨,저 녀석 기분이 안좋아 보이네 보석을 돌려받고 싶은가봐
+2687,VO_LOE_03_TURN_6,탐험가 연맹,리노 잭슨,조심해 천장이 무너지고 있어
+2688,VO_LOE_03_TURN_6_2,탐험가 연맹,리노 잭슨,방금 좀 위험했는데 내가 순발력이 좋았으니 망정이지 아 그런거 아니야 고마워 하기는
+2689,VO_LOE_03_TURN_7,탐험가 연맹,리노 잭슨,이 쪽은 좀 어둡기는 한데 지름길 같아보여 여기로 가자구
+2690,VO_LOE_03_TURN_7_2,탐험가 연맹,엘리스 스타시커,제 지도에는 절대 가지말 것이라고 되어있는데요
+2691,VO_LOE_03_TURN_8,탐험가 연맹,리노 잭슨,점점 후끈거리잖아 서둘러야겠어
+2692,VO_LOE_03_TURN_9,탐험가 연맹,리노 잭슨,벌레라니 왜 하필 벌레인거야
+2693,VO_LOE_03_WIN,탐험가 연맹,리노 잭슨,해냈어 이 사막을 보는게 반가울 줄이야 물이라도 좀 마셔야겠어
+2694,VO_LOE_04_DEATH,탐험가 연맹,족장 스카바쉬,죽음
+2695,VO_LOE_04_RESPONSE,탐험가 연맹,족장 스카바쉬,트로그 바보 부순다
+2696,VO_LOE_04_SCARVASH_TURN_2,탐험가 연맹,족장 스카바쉬,트로그 바보 아니야 트로그 너 바보로 만든다
+2697,VO_LOE_04_START,탐험가 연맹,족장 스카바쉬,울다만은 트로그 꺼다
+2698,VO_LOE_04_WIN,탐험가 연맹,브란 브론즈비어드,놈들이 멈추질 않는군요 이쪽입니다 광산 수레에 올라타세요
+2699,VO_LOE_053_Attack_02,탐험가 연맹,서풍의 신령,이곳에서 떠나라
+2700,VO_LOE_053_Death_03,탐험가 연맹,서풍의 신령,죽음
+2701,VO_LOE_053_Play_01,탐험가 연맹,서풍의 신령,여긴 필멸자가 올 곳이 아니다
+2702,VO_LOE_076_Attack_13,탐험가 연맹,핀리 므르글턴 경,물론이죠
+2703,VO_LOE_076_Death_alt_15,탐험가 연맹,핀리 므르글턴 경,이런
+2704,VO_LOE_076_Play_alt4_20,탐험가 연맹,핀리 므르글턴 경,함께 모험을 떠나보시죠
+2705,VO_LOE_077_Attack_12,탐험가 연맹,브란 브론즈비어드,역사 속으로 사라지시죠
+2706,VO_LOE_077_Death_13,탐험가 연맹,브란 브론즈비어드,죽음
+2707,VO_LOE_077_MAGNI_14,탐험가 연맹,브란 브론즈비어드,오 형님 최근에 무라딘 소식은 들으셨습니까
+2708,VO_LOE_077_Play_16,탐험가 연맹,브란 브론즈비어드,탐구 정신이 불끈 솟는군요
+2709,VO_LOE_079_Attack_13,탐험가 연맹,엘리스 스타시커,물러나세요
+2710,VO_LOE_079_Death_14,탐험가 연맹,엘리스 스타시커,죽음
+2711,VO_LOE_079_Play_15,탐험가 연맹,엘리스 스타시커,유물을 가져오셨나요
+2712,VO_LOE_07_RESPONSE,탐험가 연맹,브란 브론즈비어드,정말 그럴 시간이 있으십니까
+2713,VO_LOE_07_START,탐험가 연맹,브란 브론즈비어드,조심하세요 놈들이 쫓아오고 있어요
+2714,VO_LOE_07_WIN,탐험가 연맹,브란 브론즈비어드,달리는 수레를 타며 폭탄을 마음껏 던지다니 색다른 경험이군요
+2715,VO_LOE_089_2_Attack_02,탐험가 연맹,교활한 소인족,공격
+2716,VO_LOE_089_2_Death_04,탐험가 연맹,교활한 소인족,죽음
+2717,VO_LOE_089_2_Play_01,탐험가 연맹,교활한 소인족,이봐 너
+2718,VO_LOE_089_3_Attack_02,탐험가 연맹,궁시렁대는 소인족,안녕
+2719,VO_LOE_089_3_Death2_05,탐험가 연맹,궁시렁대는 소인족,내 얼굴
+2720,VO_LOE_089_3_Play_01,탐험가 연맹,궁시렁대는 소인족,죽어라
+2721,VO_LOE_089_Attack2_03,탐험가 연맹,흔들거리는 소인족,잡아
+2722,VO_LOE_089_Attack_Trio,탐험가 연맹,흔들거리는 소인족,공격 잡아 안녕
+2723,VO_LOE_089_Death2_05_ALT1,탐험가 연맹,흔들거리는 소인족,죽음
+2724,VO_LOE_089_Death_Trio,탐험가 연맹,흔들거리는 소인족,죽음
+2725,VO_LOE_089_Play2_06,탐험가 연맹,흔들거리는 소인족,기합
+2726,VO_LOE_089_Play_Trio,탐험가 연맹,흔들거리는 소인족,기합
+2727,VO_LOE_08_ANIMATE_STONE,탐험가 연맹,아카에다스,대지와 바위여 일어나라
+2728,VO_LOE_08_DEATH,탐험가 연맹,아카에다스,죽음
+2729,VO_LOE_08_LANDSLIDE,탐험가 연맹,아카에다스,널 묻어버리겠다
+2730,VO_LOE_08_RESPONSE,탐험가 연맹,아카에다스,먼지같은 존재여
+2731,VO_LOE_08_START,탐험가 연맹,아카에다스,누가 창조자의 진노를 사려 하는가
+2732,VO_LOE_08_WIN,탐험가 연맹,브란 브론즈비어드,지팡이의 윗부분을 손에 넣었습니다 이제 하나만 더 찾으면 된다구요
+2733,VO_LOE_08_WIN_2,탐험가 연맹,대도 라팜,두번째 조각을 모았군 이제 곧 내 계획이 완성된다
+2734,VO_LOE_092_Attack_02,탐험가 연맹,대도 라팜,보아라
+2735,VO_LOE_092_Death_03,탐험가 연맹,대도 라팜,죽음
+2736,VO_LOE_092_Play_04,탐험가 연맹,대도 라팜,나는 위대한 고고학자 라팜이다
+2737,VO_LOE_10_START_2,탐험가 연맹,핀리 므르글턴 경,진심이십니까 말이 너무 심하시군요
+2738,VO_LOE_10_WIN,탐험가 연맹,핀리 므르글턴 경,안타깝군요 조금만 더 교양이 있었다면 괜찮은 벗이 될 수 있었을텐데
+2739,VO_LOE_110_Attack_02,탐험가 연맹,고대의 망령,풀려났다
+2740,VO_LOE_110_Death_03,탐험가 연맹,고대의 망령,죽음
+2741,VO_LOE_110_Play_01,탐험가 연맹,고대의 망령,고대 저주가
+2742,VO_LOE_116_Attack_02,탐험가 연맹,성물회 구도자,머지 않았다
+2743,VO_LOE_116_Death_03,탐험가 연맹,성물회 구도자,죽음
+2744,VO_LOE_116_Play4_06,탐험가 연맹,성물회 구도자,계획대로야
+2745,VO_LOE_12_DEATH,탐험가 연맹,여군주 나즈자르,죽음
+2746,VO_LOE_12_NAZJAR_PEARL,탐험가 연맹,핀리 므르글턴 경,놀랍군요 이 진주는 끝없는 힘을 간직하고 있습니다
+2747,VO_LOE_12_NAZJAR_TURN_1,탐험가 연맹,여군주 나즈자르,나는 아즈샤라의 칼날이다 누가 내게 감히 도전하느냐
+2748,VO_LOE_12_NAZJAR_TURN_1_FINLEY,탐험가 연맹,핀리 므르글턴 경,반갑습니다 부인 저는 핀리 므르글턴 경입니다
+2749,VO_LOE_12_NAZJAR_TURN_3_FINLEY,탐험가 연맹,핀리 므르글턴 경,엘리스 님 다른 이들은 어떻습니까
+2750,VO_LOE_12_NAZJAR_TURN_5,탐험가 연맹,여군주 나즈자르,나락의 군대여 일어나라 죽음의 물결이여 적을 모조리 쓸어버려라
+2751,VO_LOE_12_NAZJAR_TURN_5_FINLEY,탐험가 연맹,핀리 므르글턴 경,말씀이 좀 과격하신 것 같습니다만
+2752,VO_LOE_12_RESPONSE,탐험가 연맹,여군주 나즈자르,나는 진주의 힘을 다룬다
+2753,VO_LOE_12_START,탐험가 연맹,여군주 나즈자르,해일의 힘이 널 집어삼키리라
+2754,VO_LOE_12_WIN,탐험가 연맹,핀리 므르글턴 경,브라보 진주를 확보했습니다 탐험가의 전당으로 함께 가시지요 유물을 결합시켜야 합니다
+2755,VO_LOE_12_WIN_2,탐험가 연맹,대도 라팜,모든 조각이 한데 모였다
+2756,VO_LOE_13_TURN_1,탐험가 연맹,엘리스 스타시커,지팡이에 저주가 걸려있었어요 에테리얼들이 전당 안으로 침입하여 닥치는대로 훔치고 있다구요
+2757,VO_LOE_13_TURN_1_2,탐험가 연맹,대도 라팜,닥치는대로는 아니야 흥미로운 것들만 관심 있거든
+2758,VO_LOE_13_TURN_5,탐험가 연맹,대도 라팜,오 이건 아서스의 인장 반지로군 상태도 아주 좋아
+2759,VO_LOE_13_TURN_5_2,탐험가 연맹,엘리스 스타시커,리노 브란 유물들을 숨기세요
+2760,VO_LOE_13_TURN_9,탐험가 연맹,브란 브론즈비어드,놈이 병사들을 소환하고 있습니다 엘리스 저자를 막으세요
+2761,VO_LOE_13_TURN_9_2,탐험가 연맹,엘리스 스타시커,텔작서스 날로레 지팡이가 너무 강력해요 하지만 시간을 벌 수는 있을 것 같아요
+2762,VO_LOE_13_WIN,탐험가 연맹,엘리스 스타시커,우리가 이들을 막겠습니다 탐험가 님 라팜에게 가세요
+2763,VO_LOE_14_START,탐험가 연맹,브란 브론즈비어드,저건 로서의 갑옷이잖아 저걸 발굴하려고 검은바위 산에서 몇 달을 고생했는데
+2764,VO_LOE_14_TURN_13,탐험가 연맹,엘리스 스타시커,브란 라팜이 도서관의 책들을 부리고 있어요 저는 로데론 전시실의 날아다니는 망치들을 상대하고 있을게요
+2765,VO_LOE_14_TURN_5,탐험가 연맹,핀리 므르글턴 경,전당의 동쪽에 있는 움직이는 칼들은 모두 처리했습니다 엘리스 님 전 누굴 도우면 되겠습니까
+2766,VO_LOE_14_TURN_5_2,탐험가 연맹,엘리스 스타시커,주 보존실에 있는 리노에게 가세요 폭탄로봇에 둘러쌓여 있을거에요
+2767,VO_LOE_14_TURN_9,탐험가 연맹,대도 라팜,다들 바빠보이는군 이 브로치도 맘에 드는데
+2768,VO_LOE_14_WIN,탐험가 연맹,엘리스 스타시커,박물관은 이제 안정된거 같아요 탐험가 님 라팜을 상대하세요
+2769,VO_LOE_15_DEATH,탐험가 연맹,대도 라팜,죽음
+2770,VO_LOE_15_RESPONSE,탐험가 연맹,대도 라팜,멋진 카드가 이렇게나 많다니
+2771,VO_LOE_15_SPARE,탐험가 연맹,엘리스 스타시커,탐험가 님 여기 남는 덱이 있어요 이걸 쓰세요
+2772,VO_LOE_16_BOOM_BOT,탐험가 연맹,리노 잭슨,이런 거야 얼마든지 있지 끝장내버려
+2773,VO_LOE_16_CROWN,탐험가 연맹,핀리 므르글턴 경,이성을 잃은 불운한 마법사의 유산입니다
+2774,VO_LOE_16_EYE,탐험가 연맹,리노 잭슨,신기하네 이게 왜 내 주머니 속에 있지 어이 이거 빌려줄게
+2775,VO_LOE_16_FIRST_ITEM,탐험가 연맹,엘리스 스타시커,박물관에서 쓸만한 물건이 있는지 찾아볼게요 뭐든 필요하면 부르세요
+2776,VO_LOE_16_GOBLET,탐험가 연맹,리노 잭슨,난 뱀이 정말 싫어
+2777,VO_LOE_16_GREAVE,탐험가 연맹,핀리 므르글턴 경,아까 처리한 로서의 갑옷 중 일부가 아주 쓸만하더군요
+2778,VO_LOE_16_LOCKET,탐험가 연맹,브란 브론즈비어드,카라잔의 망령들이 아직도 이 목걸이에 깃들어 있습니다
+2779,VO_LOE_16_PIPE,탐험가 연맹,엘리스 스타시커,받으세요 브란한텐 얘기하지 마세요 이 파이프를 무척 마음에 들어하더라구요
+2780,VO_LOE_16_RAFAAM_DEATH2,탐험가 연맹,대도 라팜,안돼 내가 패배할 수는 없어
+2781,VO_LOE_16_RAFAAM_SELF_INTRO,탐험가 연맹,대도 라팜,위대한 고고학자 라팜
+2782,VO_LOE_16_SHARD,탐험가 연맹,리노 잭슨,열지 마시오라는 상자에 이런게 있더라구 그러니까 잘 써봐
+2783,VO_LOE_16_SPLINTER,탐험가 연맹,브란 브론즈비어드,화산 심장부에 이런게 있더군요 청지기가 식사를 하고 이를 쑤시는 용도로 썼다고 하더라구요
+2784,VO_LOE_16_TEAR,탐험가 연맹,엘리스 스타시커,우리 종족이 신성히 여기던 유물이에요 어서 드세요
+2785,VO_LOE_16_TURN_2,탐험가 연맹,엘리스 스타시커,지팡이의 힘이 최고조에 달하고 있어요 준비하세요
+2786,VO_LOE_16_TURN_2_2,탐험가 연맹,대도 라팜,압도적인 힘으로
+2787,VO_LOE_16_TURN_2_3,탐험가 연맹,엘리스 스타시커,지팡이에 과부하가 걸렸어요 지금이에요
+2788,VO_LOE_16_TURN_3,탐험가 연맹,대도 라팜,난 절대로 쓰러지지 않는다 난 무적이다
+2789,VO_LOE_16_TURN_3_2,탐험가 연맹,엘리스 스타시커,지팡이에 다시 힘이 모이기 시작했어요 곧 다시 기회가 올거에요
+2790,VO_LOE_16_TURN_4,탐험가 연맹,엘리스 스타시커,지팡이가 거의 준비됐어요 서두르세요
+2791,VO_LOE_16_TURN_5,탐험가 연맹,대도 라팜,압도적인 힘으로
+2792,VO_LOE_16_TURN_5_2,탐험가 연맹,엘리스 스타시커,보호막이 사라졌어요 지금이 기회에요
+2793,VO_LOE_16_TURN_6,탐험가 연맹,엘리스 스타시커,보호막이 다시 생겨났어요 주의하세요
+2794,VO_LOE_16_VIAL,탐험가 연맹,엘리스 스타시커,쭉 들이키세요라고 되어 있는데 낙스라마스에서 찾은거라 아무도 마시려고 하지 않더라구요
+2795,VO_LOE_ARCHAEDAS_TURN_1_CARTOGRAPHER,탐험가 연맹,엘리스 스타시커,그 전에 우릴 묻어버리려고 한다는게 문제죠
+2796,VO_LOE_INTRO_1,탐험가 연맹,엘리스 스타시커,때맞춰 오셨군요 모험가님 탐험가의 전당에 오신걸 환영해요
+2797,VO_LOE_INTRO_2,탐험가 연맹,핀리 므르글턴 경,우린 엄청난 발견을 눈앞에 두고 있습니다
+2798,VO_LOE_INTRO_3,탐험가 연맹,엘리스 스타시커,우린 시초의 지팡이의 세조각을 찾고 있어요 조각을 모으는걸 도와주시겠어요
+2799,VO_LOE_INTRO_5,탐험가 연맹,엘리스 스타시커,저는 지도 제작자인 엘리스 스타시커에요 최근에 우린 시초의 지팡이의 세 조각에 관한 단서를 찾았죠 당신의 도움이 꼭 필요해요
+2800,VO_LOE_INTRO_6,탐험가 연맹,엘리스 스타시커,저는 이곳에 남아서 탐험을 지휘하겠지만 다른 이들은 이미 현장에 나가있어요 그들을 도와주시겠어요
+2801,VO_LOE_NAZJAR_TURN_3_CARTOGRAPHER,탐험가 연맹,엘리스 스타시커,리노가 태양의 홀을 가지고 돌아왔고 브란은 지금 오는 중이에요
+2802,VO_LOE_SCARVASH_TURN_6_CARTOGRAPHER,탐험가 연맹,엘리스 스타시커,브란 집중하세요
+2803,VO_LOE_WING_1_WIN_2,탐험가 연맹,대도 라팜,그래 지팡이를 찾고 있단 말이지
+2804,VO_LOE_WING_3_WIN_1,탐험가 연맹,엘리스 스타시커,탐험가 여러분 우리가 해냈어요 길고 긴 시간 끝에 태초의 지팡이를 복원했어요
+2805,VO_LOE_WING_3_WIN_2,탐험가 연맹,브란 브론즈비어드,믿을 수 없군요 우리가 세 조각을 모두 확보하다니
+2806,VO_LOE_WING_3_WIN_3,탐험가 연맹,리노 잭슨,아이 뭐라고
+2807,VO_LOE_WING_3_WIN_4,탐험가 연맹,대도 라팜,안녕하신가 탐험가여 난 위대한 고고학자 라팜이다
+2808,VO_LOE_WING_3_WIN_5,탐험가 연맹,대도 라팜,내 지팡이를 찾아줘서 고맙군 이 유물에 어떤 힘이 깃들어 있는지 내가 친히 보여주지
+2809,VO_LOE_ZINAAR_TURN_10_CARTOGRAPHER_2,탐험가 연맹,엘리스 스타시커,팔아치우려고 찾고있는게 아니라구요
+2810,VO_LOE_ZINAAR_TURN_6_CARTOGRAPHER_2,탐험가 연맹,엘리스 스타시커,했어요
+2811,VO_LOE_ZINAAR_TURN_6_CARTOGRAPHER_2_ALT,탐험가 연맹,엘리스 스타시커,그것도 했었구요
+2812,VO_LOEA01_12_Attack_02,탐험가 연맹,톨비르 중보병,잘들어라 시간이 얼마 없다 라팜 또한 지팡이를 노리고 있다 놈이 그걸 가지게 해선 안된다
+2813,VO_LOEA01_12_Death_04,탐험가 연맹,톨비르 중보병,죽음
+2814,VO_LOEA01_12_Play_01,탐험가 연맹,톨비르 중보병,난 사원을 지킨다
+2815,VO_LOEA01_PHAERIX_PREGAME,탐험가 연맹,리노 잭슨,사원의 보물창고야 자네가 경비병을 상대하면 나머진 내가 알아서 하지
+2816,VO_LOEA02_ZINAAR_PREGAME,탐험가 연맹,엘리스 스타시커,오르시스의 사원이군요 저 안에 태양의 홀이 있는데 하필이면 리노가 그곳에 있는 반짝이는 램프를 문질러 버렸다는군요
+2817,VO_LOEA02_ZINAAR_PREGAME_ALT,탐험가 연맹,엘리스 스타시커,리노가 태양의 홀을 거의 확보했는데 하필이면 그곳에 있는 반짝이는 램프를 문질러 버렸다는군요
+2818,VO_LOEA03_TEMPLE_PREGAME,탐험가 연맹,리노 잭슨,첫번째 조각을 찾았어 이제 여기서 깔려죽지만 않으면 되겠는데
+2819,VO_LOEA04_13bt_Attack_02,탐험가 연맹,오르시스 경비병,언젠간 나도 히어로즈오브더스톰에 등장하고 싶다
+2820,VO_LOEA04_13bt_Death_04,탐험가 연맹,오르시스 경비병,죽음
+2821,VO_LOEA04_13bt_Play_01,탐험가 연맹,오르시스 경비병,홀을 가져가면 안된다
+2822,VO_LOEA04_24_Attack2_03,탐험가 연맹,아누비사스 사원경비병,날 데려가다오 여긴 월급도 안주더군
+2823,VO_LOEA04_24_Death_04,탐험가 연맹,아누비사스 사원경비병,죽음
+2824,VO_LOEA04_24_Play_01,탐험가 연맹,아누비사스 사원경비병,도망갈 수는 없다
+2825,VO_LOEA04_BRANN_TURN_1,탐험가 연맹,브란 브론즈비어드,제가 예전에 여기에 왔을땐 스카바시는 조그만 트로그였어요 이젠 몸집도 커지고 더 바보스럽고 못생겨졌네요
+2826,VO_LOEA04_SCARVASH_PREGAME,탐험가 연맹,브란 브론즈비어드,안녕하십니까 탐험가 님 지팡이의 윗부분에 관한 단서를 찾았어요  바로 이곳 울다만 어딘가에 있는 것 같습니다
+2827,VO_LOEA07_12_Death_02,탐험가 연맹,토석인 추격자,죽음
+2828,VO_LOEA07_12_Play_01,탐험가 연맹,토석인 추격자,잠깐
+2829,VO_LOEA07_MINE_ARCHAEDAS,탐험가 연맹,브란 브론즈비어드,마그니의 수염이여 저건 아카에다스 아닙니까
+2830,VO_LOEA07_MINE_BARREL_FORWARD,탐험가 연맹,브란 브론즈비어드,전속력으로
+2831,VO_LOEA07_MINE_BOOM,탐험가 연맹,브란 브론즈비어드,폭탄이나 받아라 이놈들아
+2832,VO_LOEA07_MINE_BOOMZOOKA,탐험가 연맹,브란 브론즈비어드,쾅 하하 한 발 더 준비하겠습니다
+2833,VO_LOEA07_MINE_DETONATE,탐험가 연맹,브란 브론즈비어드,뭐하시는거에요 선로를 부수면 어떡합니까
+2834,VO_LOEA07_MINE_DYNAMITE,탐험가 연맹,브란 브론즈비어드,조심하세요 선로까지 날려버렸잖아요
+2835,VO_LOEA07_MINE_HUNKER_DOWN,탐험가 연맹,브란 브론즈비어드,엎드리세요
+2836,VO_LOEA07_MINE_PARROT,탐험가 연맹,브란 브론즈비어드,짹짹아 날아
+2837,VO_LOEA07_MINE_RAMMING,탐험가 연맹,브란 브론즈비어드,다 비켜
+2838,VO_LOEA07_MINE_REPAIRS,탐험가 연맹,브란 브론즈비어드,조금만 손보면 새것처럼 멀쩡해 질겁니다
+2839,VO_LOEA07_MINE_SPIKED_DECOY,탐험가 연맹,브란 브론즈비어드,어이 멍청한 트로그들아 날 잡아봐
+2840,VO_LOEA07_MINECART_PREGAME,탐험가 연맹,브란 브론즈비어드,이 선로는 울다만의 중심부로 향할거에요
+2841,VO_LOEA08_ARCHAEDAS_PREGAME,탐험가 연맹,브란 브론즈비어드,바위 거인 아카에다스가 지팡이의 윗부분을 가지고 있습니다 하지만 순순히 넘겨주진 않을거 같군요
+2842,VO_LOEA08_TURN_1_BRANN,탐험가 연맹,브란 브론즈비어드,고대 티탄을 받들던 시종이군요 온갖 지식을 전수받을 수 있을겁니다
+2843,VO_LOEA09_1_RESPONSE,탐험가 연맹,군주 갈퀴창날,저녁거리가 더 늘었구나
+2844,VO_LOEA09_1_TURN1,탐험가 연맹,군주 갈퀴창날,감히 이곳을 침범하려 하다니
+2845,VO_LOEA09_6_Attack_02,탐험가 연맹,갈퀴창날 궁수,명중이다
+2846,VO_LOEA09_6_Death_05,탐험가 연맹,갈퀴창날 궁수,죽음
+2847,VO_LOEA09_6_Play_01,탐험가 연맹,갈퀴창날 궁수,육지 놈들에게 죽음을
+2848,VO_LOEA09_DEATH,탐험가 연맹,군주 갈퀴창날,죽음
+2849,VO_LOEA09_FINLEY_DEATH,탐험가 연맹,핀리 므르글턴 경,전 괜찮습니다 탐험가 님 저 나가를 끝장내십시오
+2850,VO_LOEA09_HERO_POWER,탐험가 연맹,군주 갈퀴창날,저녁 시간이다 오늘은 멀록 탕으로 포식하겠군
+2851,VO_LOEA09_HERO_POWER1,탐험가 연맹,핀리 므르글턴 경,안녕하십니까 제가 지금 좀 난처한 상황에 놓였는데 도와주시겠습니까
+2852,VO_LOEA09_HERO_POWER2,탐험가 연맹,핀리 므르글턴 경,이것 참 이 안은 정말 어둡군요
+2853,VO_LOEA09_HERO_POWER3,탐험가 연맹,핀리 므르글턴 경,오호 이거 점점 뜨거워지는데요
+2854,VO_LOEA09_HERO_POWER4,탐험가 연맹,핀리 므르글턴 경,딱히 쾌적하진 않군요 이곳은
+2855,VO_LOEA09_HERO_POWER5,탐험가 연맹,핀리 므르글턴 경,확실히 매우 덥군요
+2856,VO_LOEA09_HERO_POWER6,탐험가 연맹,핀리 므르글턴 경,도움의 손길이 간절하게 필요합니다
+2857,VO_LOEA09_QUOTE1,탐험가 연맹,핀리 므르글턴 경,감사합니다 탐험가 님 정말 위험했습니다
+2858,VO_LOEA09_SLITHERSPEAR_PREGAME,탐험가 연맹,엘리스 스타시커,핀리 경과 연락이 되지 않아요 그를 찾아주시겠어요
+2859,VO_LOEA09_UNSTABLE,탐험가 연맹,군주 갈퀴창날,가마솥에 다시 들어가라
+2860,VO_LOEA09_WIN,탐험가 연맹,핀리 므르글턴 경,진심으로 감사드립니다 탐험가 님 마지막 조각을 함께 찾으러 가시겠습니까
+2861,VO_LOEA10_GIANTFIN_PREGAME,탐험가 연맹,핀리 므르글턴 경,오호 통재라 거대 아가미 님은 만나지 않았으면 했건만
+2862,VO_LOEA12_NAGA_PREGAME,탐험가 연맹,핀리 므르글턴 경,저 나가가 진주를 가지고 있습니다 어서 진주를 확보하고 이곳을 떠나시죠
+2863,VO_LOEA13_SKELESAURUS_PREGAME,탐험가 연맹,대도 라팜,참으로 멋진 박물관이군 하 내가 만난 새 친구를 소개해주마 인사해라 뼈다귀 사우르스 헥스
+2864,VO_LOEA14_STEELSENTINEL_PREGAME,탐험가 연맹,대도 라팜,오호 정말 재밌는 장난감이로군 네가 계속 부수지만 않으면 좋을텐데 말이야
+2865,VO_LOEA15_1_LOSS_11,탐험가 연맹,대도 라팜,정말 쓸모없는 덱이군 내가 만든 덱을 써야겠어
+2866,VO_LOEA15_1_LOW_HEALTH_10,탐험가 연맹,대도 라팜,네 덱을 가져온건 실수였나보군
+2867,VO_LOEA15_1_MAGMA_RAGER_09,탐험가 연맹,대도 라팜,용암 광전사라니 이런 카드를 대체 왜 쓰는 것이냐
+2868,VO_LOEA15_1_PREGAME_06,탐험가 연맹,대도 라팜,그래 그 덱을 쓰겠다고
+2869,VO_LOEA15_1_START_07,탐험가 연맹,대도 라팜,그 덱 마음에 드는데 내가 가져야겠어
+2870,VO_LOEA15_1_TURN1_08,탐험가 연맹,대도 라팜,오 좋아 패가 아주 훌륭하군
+2871,VO_LOEA15_1_WIN_12,탐험가 연맹,대도 라팜,네 덱은 정말 강력하군
+2872,VO_LOEA15_GOLDEN,탐험가 연맹,대도 라팜,황금 카드로만 이루어진 덱이라니 내 덱에 버금갈만큼 호화롭구나
+2873,VO_LOEA16_1_CARD_04,탐험가 연맹,대도 라팜,난 무수한 세계에서 온갖 유물들을 수집했다
+2874,VO_LOEA16_1_RESPONSE_03,탐험가 연맹,대도 라팜,그래 그래
+2875,VO_LOEA16_1_START_01,탐험가 연맹,대도 라팜,이게 시초의 지팡이의 진정한 힘이다
+2876,VO_LOEA16_1_TURN1_02,탐험가 연맹,대도 라팜,나는 무적이다 티탄의 힘이 내 손안에 있다
+2877,VO_LOEA16_RAFAAM2_PREGAME,탐험가 연맹,대도 라팜,그만 너따위는 시초의 지팡이의 힘을 당해낼 수 없다
 2878,VO_Maiden_Female_Titan_FinalMaidenEmoteResponse_01,불명,불명,너의 행동은 그냥 넘길 수가 없다
 2879,VO_Malchezaar_Male_Demon_Brawl_06,한여름 밤의 카라잔,공작 말체자르,물론 이길거라는 생각은 하지 않았겠지
 2880,VO_Malchezaar_Male_Demon_EmoteParty_01,한여름 밤의 카라잔,공작 말체자르,말체자르도 파티를 좋아한다
@@ -2896,45 +2896,45 @@ id,filename,expansion,cardname,txt
 2895,VO_Malchezaar_Male_Demon_PrologueTurn11_02,한여름 밤의 카라잔,공작 말체자르,자락서스를 초대했다고 저 약골을
 2896,VO_Malchezaar_Male_Demon_PrologueTurn1_04,한여름 밤의 카라잔,공작 말체자르,나는 에레다르의 공작이거늘 날 초대하지 않다니
 2897,VO_Malchezaar_Male_Demon_PrologueWin_01,한여름 밤의 카라잔,공작 말체자르,네놈까지 데려가겠다
-2898,VO_Mediva_01_Female_Blood Elf_AranHeroPower_01,한여름 밤의 카라잔,,불타버려
-2899,VO_Mediva_01_Female_Blood Elf_AranSpell_04,한여름 밤의 카라잔,,추워
-2900,VO_Mediva_01_Female_Blood Elf_ChessEmoteOops_03,한여름 밤의 카라잔,,조심해
-2901,VO_Mediva_01_Female_Blood Elf_ChessEmoteOops_06,한여름 밤의 카라잔,,위험해
-2902,VO_Mediva_01_Female_Blood Elf_CroneTurn1_03,한여름 밤의 카라잔,,오 티토
-2903,VO_Mediva_01_Female_Blood Elf_CuratorBeasts_04,한여름 밤의 카라잔,,야성적이야
-2904,VO_Mediva_01_Female_Blood Elf_CuratorBeasts_09,한여름 밤의 카라잔,,괜찮아
-2905,VO_Mediva_01_Female_Blood Elf_IllhoofWounded_03,한여름 밤의 카라잔,,복실복실
-2906,VO_Mediva_01_Female_Blood Elf_JulianneDeadlyPoison_03,한여름 밤의 카라잔,,안돼 그것만은
-2907,VO_Mediva_01_Female_Blood Elf_NetherspiteTurn1_02,한여름 밤의 카라잔,,반짝이네
-2908,VO_Mediva_01_Female_Blood Elf_PrologueTurn5_02,한여름 밤의 카라잔,,우리말이야
-2909,VO_Mediva_01_Female_Blood Elf_PrologueTurn5_06,한여름 밤의 카라잔,,메디바
-2910,VO_Mediva_02_Female_Draenei_AranHeroPower_03,한여름 밤의 카라잔,,앗 뜨거
-2911,VO_Mediva_02_Female_Draenei_AranSpell_01,한여름 밤의 카라잔,,으스스해
-2912,VO_Mediva_02_Female_Draenei_AranSpell_10,한여름 밤의 카라잔,,오우 추워
-2913,VO_Mediva_02_Female_Draenei_AranSpell_13,한여름 밤의 카라잔,,어우 쌀쌀해
-2914,VO_Mediva_02_Female_Draenei_ChessEmoteOops_04,한여름 밤의 카라잔,,저런 함정이라니
-2915,VO_Mediva_02_Female_Draenei_CroneTurn1_05,한여름 밤의 카라잔,,차마 못보겠어
-2916,VO_Mediva_02_Female_Draenei_CuratorBeasts_05,한여름 밤의 카라잔,,귀여워라
-2917,VO_Mediva_02_Female_Draenei_CuratorBeasts_08,한여름 밤의 카라잔,,엣취
-2918,VO_Mediva_02_Female_Draenei_IllhoofWounded_02,한여름 밤의 카라잔,,임프는 최고야
-2919,VO_Mediva_02_Female_Draenei_IllhoofWounded_09,한여름 밤의 카라잔,,너무 무서워
-2920,VO_Mediva_02_Female_Draenei_JulianneDeadlyPoison_02,한여름 밤의 카라잔,,비극적이야
-2921,VO_Mediva_02_Female_Draenei_NetherspiteTurn1_04,한여름 밤의 카라잔,,반짝여
-2922,VO_Mediva_02_Female_Draenei_PrologueTurn5_02,한여름 밤의 카라잔,,우리 말인가요
-2923,VO_Mediva_02_Female_Draenei_PrologueTurn5_05,한여름 밤의 카라잔,,네
-2924,VO_Mediva_03_Male_Night Elf_AranHeroPower_01,한여름 밤의 카라잔,,불타버려 베이비
-2925,VO_Mediva_03_Male_Night Elf_AranHeroPower_04,한여름 밤의 카라잔,,뜨거워
-2926,VO_Mediva_03_Male_Night Elf_AranSpell_01,한여름 밤의 카라잔,,음침해
-2927,VO_Mediva_03_Male_Night Elf_AranSpell_06,한여름 밤의 카라잔,,눈사람 만들까
-2928,VO_Mediva_03_Male_Night Elf_ChessEmoteOops_01,한여름 밤의 카라잔,,함정이다
-2929,VO_Mediva_03_Male_Night Elf_CuratorBeasts_01,한여름 밤의 카라잔,,사나운 야수
-2930,VO_Mediva_03_Male_Night Elf_CuratorBeasts_04,한여름 밤의 카라잔,,엣취 베이비
-2931,VO_Mediva_03_Male_Night Elf_IllhoofWounded_01,한여름 밤의 카라잔,,애완동물을 데려오셨네
-2932,VO_Mediva_03_Male_Night Elf_IllhoofWounded_04,한여름 밤의 카라잔,,오우 야 좋지 않아
-2933,VO_Mediva_03_Male_Night Elf_JulianneDeadlyPoison_02,한여름 밤의 카라잔,,분명 독이야
-2934,VO_Mediva_03_Male_Night Elf_PrologueTurn5_01,한여름 밤의 카라잔,,부르셨습니까
-2935,VO_Mediva_03_Male_Night Elf_PrologueTurn5_02,한여름 밤의 카라잔,,예
-2936,VO_Mediva_03_Male_Night Elf_PrologueTurn5_03,한여름 밤의 카라잔,,메디바 등장
+2898,VO_Mediva_01_Female_Blood Elf_AranHeroPower_01,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,불타버려
+2899,VO_Mediva_01_Female_Blood Elf_AranSpell_04,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,추워
+2900,VO_Mediva_01_Female_Blood Elf_ChessEmoteOops_03,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,조심해
+2901,VO_Mediva_01_Female_Blood Elf_ChessEmoteOops_06,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,위험해
+2902,VO_Mediva_01_Female_Blood Elf_CroneTurn1_03,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,오 티토
+2903,VO_Mediva_01_Female_Blood Elf_CuratorBeasts_04,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,야성적이야
+2904,VO_Mediva_01_Female_Blood Elf_CuratorBeasts_09,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,괜찮아
+2905,VO_Mediva_01_Female_Blood Elf_IllhoofWounded_03,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,복실복실
+2906,VO_Mediva_01_Female_Blood Elf_JulianneDeadlyPoison_03,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,안돼 그것만은
+2907,VO_Mediva_01_Female_Blood Elf_NetherspiteTurn1_02,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,반짝이네
+2908,VO_Mediva_01_Female_Blood Elf_PrologueTurn5_02,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,우리말이야
+2909,VO_Mediva_01_Female_Blood Elf_PrologueTurn5_06,한여름 밤의 카라잔,차원문 파티! - 수지 시즐송,메디바
+2910,VO_Mediva_02_Female_Draenei_AranHeroPower_03,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,앗 뜨거
+2911,VO_Mediva_02_Female_Draenei_AranSpell_01,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,으스스해
+2912,VO_Mediva_02_Female_Draenei_AranSpell_10,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,오우 추워
+2913,VO_Mediva_02_Female_Draenei_AranSpell_13,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,어우 쌀쌀해
+2914,VO_Mediva_02_Female_Draenei_ChessEmoteOops_04,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,저런 함정이라니
+2915,VO_Mediva_02_Female_Draenei_CroneTurn1_05,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,차마 못보겠어
+2916,VO_Mediva_02_Female_Draenei_CuratorBeasts_05,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,귀여워라
+2917,VO_Mediva_02_Female_Draenei_CuratorBeasts_08,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,엣취
+2918,VO_Mediva_02_Female_Draenei_IllhoofWounded_02,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,임프는 최고야
+2919,VO_Mediva_02_Female_Draenei_IllhoofWounded_09,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,너무 무서워
+2920,VO_Mediva_02_Female_Draenei_JulianneDeadlyPoison_02,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,비극적이야
+2921,VO_Mediva_02_Female_Draenei_NetherspiteTurn1_04,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,반짝여
+2922,VO_Mediva_02_Female_Draenei_PrologueTurn5_02,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,우리 말인가요
+2923,VO_Mediva_02_Female_Draenei_PrologueTurn5_05,한여름 밤의 카라잔,차원문 파티! - 완다 원더후브스,네
+2924,VO_Mediva_03_Male_Night Elf_AranHeroPower_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,불타버려 베이비
+2925,VO_Mediva_03_Male_Night Elf_AranHeroPower_04,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,뜨거워
+2926,VO_Mediva_03_Male_Night Elf_AranSpell_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,음침해
+2927,VO_Mediva_03_Male_Night Elf_AranSpell_06,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,눈사람 만들까
+2928,VO_Mediva_03_Male_Night Elf_ChessEmoteOops_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,함정이다
+2929,VO_Mediva_03_Male_Night Elf_CuratorBeasts_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,사나운 야수
+2930,VO_Mediva_03_Male_Night Elf_CuratorBeasts_04,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,엣취 베이비
+2931,VO_Mediva_03_Male_Night Elf_IllhoofWounded_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,애완동물을 데려오셨네
+2932,VO_Mediva_03_Male_Night Elf_IllhoofWounded_04,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,오우 야 좋지 않아
+2933,VO_Mediva_03_Male_Night Elf_JulianneDeadlyPoison_02,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,분명 독이야
+2934,VO_Mediva_03_Male_Night Elf_PrologueTurn5_01,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,부르셨습니까
+2935,VO_Mediva_03_Male_Night Elf_PrologueTurn5_02,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,예
+2936,VO_Mediva_03_Male_Night Elf_PrologueTurn5_03,한여름 밤의 카라잔,차원문 파티! - 마크 문워커,메디바 등장
 2937,VO_Medivh_Male_Human_EmoteGreetings_01,한여름 밤의 카라잔,수호자 메디브,자넨 왜 여기 있는건가
 2938,VO_Medivh_Male_Human_EmoteOops_01,한여름 밤의 카라잔,수호자 메디브,그게 네 계획이라고 정말 우습군
 2939,VO_Medivh_Male_Human_EmoteSorry_01,한여름 밤의 카라잔,수호자 메디브,계산에 착오가 있었군
@@ -3291,235 +3291,235 @@ id,filename,expansion,cardname,txt
 3290,VO_NEW1_038_Death_03,오리지널,그룰,죽음
 3291,VO_NEW1_038_Play_01,오리지널,그룰,부질없는 짓이다
 3292,VO_NEW1_040_Death_12,오리지널,불명,죽음
-3293,VO_OG_024_Male_Faceless_Attack_01,고대 신의 속삭임,,구워주마
-3294,VO_OG_024_Male_Faceless_Death_01,고대 신의 속삭임,,죽음
-3295,VO_OG_024_Male_Faceless_Play_01,고대 신의 속삭임,,불이 필요한가
-3296,VO_OG_026_Male_Qiraji_Attack_01,고대 신의 속삭임,,너도 보아라
-3297,VO_OG_026_Male_Qiraji_Death_01,고대 신의 속삭임,,죽음
-3298,VO_OG_026_Male_Qiraji_Play_01,고대 신의 속삭임,,미래가 보인다 종말이 보인다
-3299,VO_OG_042_Male_OldGod_Attack_01,고대 신의 속삭임,,너무나 달콤하구나
-3300,VO_OG_042_Male_OldGod_Death_01,고대 신의 속삭임,,죽음
-3301,VO_OG_042_Male_OldGod_Play_01,고대 신의 속삭임,,네 영혼의 정수가 느껴지는군
-3302,VO_OG_044_Male_Night Elf_Attack_02,고대 신의 속삭임,,재가 되어 사라져라
-3303,VO_OG_044_Male_Night Elf_Death_01,고대 신의 속삭임,,죽음
-3304,VO_OG_044_Male_Night Elf_Play_02,고대 신의 속삭임,,보아라 불의 땅이 포효하는 모습을
-3305,VO_OG_044_Male_Night Elf_Tyrande_01,고대 신의 속삭임,,넌 우리 백성들을 파멸로 이끌 것이다
-3306,VO_OG_070_Male_Troll_Attack_01,고대 신의 속삭임,,살짝만 베어주지
-3307,VO_OG_070_Male_Troll_Death_01,고대 신의 속삭임,,죽음
-3308,VO_OG_070_Male_Troll_Play_01,고대 신의 속삭임,,넌 별로 날카롭지 않군
-3309,VO_OG_080_Male_Klaxxi_Attack_01,고대 신의 속삭임,,한 방울 맛보겠느냐
-3310,VO_OG_080_Male_Klaxxi_Death_01,고대 신의 속삭임,,죽음
-3311,VO_OG_080_Male_Klaxxi_Play_01,고대 신의 속삭임,,훌륭한 독이 아주 많다
-3312,VO_OG_082_Male_Kobold_Attack_01,고대 신의 속삭임,,좋았어
-3313,VO_OG_082_Male_Kobold_Death_01,고대 신의 속삭임,,내꺼라고
-3314,VO_OG_082_Male_Kobold_Play_01,고대 신의 속삭임,,네 양초 가져간다
-3315,VO_OG_083_Male_Human_Attack_01,고대 신의 속삭임,,바싹 익혀드리죠
-3316,VO_OG_083_Male_Human_Death_01,고대 신의 속삭임,,죽음
-3317,VO_OG_083_Male_Human_Play_01,고대 신의 속삭임,,불좀 빌려드릴까요
-3318,VO_OG_085_Androgynous _Faceless_Attack_01,고대 신의 속삭임,,얼어붙어라
-3319,VO_OG_085_Androgynous _Faceless_Death_01,고대 신의 속삭임,,죽음
-3320,VO_OG_085_Androgynous _Faceless_Play_02,고대 신의 속삭임,,한기가 느껴지는가
-3321,VO_OG_096_Female_Night Elf_Attack_01,고대 신의 속삭임,,사라져라
-3322,VO_OG_096_Female_Night Elf_Death_01,고대 신의 속삭임,,죽음
-3323,VO_OG_096_Female_Night Elf_Play_01,고대 신의 속삭임,,빛을 삼키리라
-3324,VO_OG_109_Female_Human_Attack_01,고대 신의 속삭임,,찾고야 말겠어
-3325,VO_OG_109_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3326,VO_OG_109_Female_Human_Play_01,고대 신의 속삭임,,진실은 분명 여기 있을거야
-3327,VO_OG_120_Male_Elemental_Attack_01,고대 신의 속삭임,,종말
-3328,VO_OG_120_Male_Elemental_Death_01,고대 신의 속삭임,,실체가 무너진다
-3329,VO_OG_120_Male_Elemental_Death_02,고대 신의 속삭임,,실체가 무너진다
-3330,VO_OG_120_Male_Elemental_Play_01,고대 신의 속삭임,,혼돈이 손짓한다
-3331,VO_OG_121_Male_Ogre_Attack_01,고대 신의 속삭임,,파괴여 오라 영원한 밤이여 오라
-3332,VO_OG_121_Male_Ogre_Death_01,고대 신의 속삭임,,죽음
-3333,VO_OG_121_Male_Ogre_Play_01,고대 신의 속삭임,,그분의 의지에 모두 굴복하리라 그분의 왕국에서 혼돈이 찾아온다
-3334,VO_OG_131_Male_Qiraji_Attack_01,고대 신의 속삭임,,고통을 맛보리라
-3335,VO_OG_131_Male_Qiraji_Death_01,고대 신의 속삭임,,죽음
-3336,VO_OG_131_Male_Qiraji_Play_01,고대 신의 속삭임,,영혼의 향연이 시작되리라
-3337,VO_OG_133_Male_OldGod_Attack_01,고대 신의 속삭임,,공포가 널 옥죈다
-3338,VO_OG_133_Male_OldGod_Death_01,고대 신의 속삭임,,죽음
-3339,VO_OG_133_Male_OldGod_Play_01,고대 신의 속삭임,,증오를 삼켜라 분노를 받아들여라
-3340,VO_OG_134_Male_OldGod_Attack_01,고대 신의 속삭임,,오직 죽음만이 영원하다
-3341,VO_OG_134_Male_OldGod_Death_01,고대 신의 속삭임,,죽음
-3342,VO_OG_134_Male_OldGod_Play_01,고대 신의 속삭임,,죽음의 신앞에 무릎을 꿇어라
-3343,VO_OG_141_Androgynous _Faceless_Attack_01,고대 신의 속삭임,,하찮은 것
-3344,VO_OG_141_Androgynous _Faceless_Death_01,고대 신의 속삭임,,죽음
-3345,VO_OG_141_Androgynous _Faceless_Play_01,고대 신의 속삭임,,분노 증오 공포
-3346,VO_OG_142_Male_Faceless_Attack_01,고대 신의 속삭임,,살점따위
-3347,VO_OG_142_Male_Faceless_Death_01,고대 신의 속삭임,,안돼
-3348,VO_OG_142_Male_Faceless_Play_01,고대 신의 속삭임,,절대적인 공포
-3349,VO_OG_145_Male_Mech_Attack_01,고대 신의 속삭임,,안녕
-3350,VO_OG_145_Male_Mech_Death_01,고대 신의 속삭임,,안녕
-3351,VO_OG_145_Male_Mech_Play_01,고대 신의 속삭임,,안녕 안녕 안녕
-3352,VO_OG_150_Male_Troll_Attack_01,고대 신의 속삭임,,모조리 죽여버리겠다
-3353,VO_OG_150_Male_Troll_Death_01,고대 신의 속삭임,,죽음
-3354,VO_OG_150_Male_Troll_Play_01,고대 신의 속삭임,,피바다를 만들 시간이군
-3355,VO_OG_158_Male_Faceless_Attack_01,고대 신의 속삭임,,그 분의 먹잇감이 되어라
-3356,VO_OG_158_Male_Faceless_Death_01,고대 신의 속삭임,,죽음
-3357,VO_OG_158_Male_Faceless_Play_01,고대 신의 속삭임,,주인님께서 굶주리셨다
-3358,VO_OG_162_Male_Panderan_Attack_01,고대 신의 속삭임,,크툰
-3359,VO_OG_162_Male_Panderan_Death_01,고대 신의 속삭임,,죽음
-3360,VO_OG_162_Male_Panderan_Play_01,고대 신의 속삭임,,크툰 크툰 크툰
-3361,VO_OG_173a_Androgynous _Monster_Attack_01,고대 신의 속삭임,,웃음
-3362,VO_OG_173a_Androgynous _Monster_Death_01,고대 신의 속삭임,,안돼
-3363,VO_OG_173a_Androgynous _Monster_Play_01,고대 신의 속삭임,,세계의 종말이 다시금 도래했노라
-3364,VO_OG_188_Male_Klaxxi_Attack_02,고대 신의 속삭임,,달아날 순 없다
-3365,VO_OG_188_Male_Klaxxi_Death_01,고대 신의 속삭임,,죽음
-3366,VO_OG_188_Male_Klaxxi_Play_02,고대 신의 속삭임,,나는 무리를 지킨다
-3367,VO_OG_200_Male_BloodElf_Attack_01,고대 신의 속삭임,,웃음
-3368,VO_OG_200_Male_BloodElf_Death_01,고대 신의 속삭임,,죽음
-3369,VO_OG_200_Male_BloodElf_Play_01,고대 신의 속삭임,,역시 내가 옳았어
-3370,VO_OG_200_Male_BloodElf_Trigger_01,고대 신의 속삭임,,웃음
-3371,VO_OG_202_Male_Keeper_Attack_01,고대 신의 속삭임,,내 분노를 느껴라
-3372,VO_OG_202_Male_Keeper_Death_01,고대 신의 속삭임,,죽음
-3373,VO_OG_202_Male_Keeper_Play_01,고대 신의 속삭임,,이 땅은 날 섬긴다
-3374,VO_OG_207_Androgynous _Faceless_Attack_01,고대 신의 속삭임,,새 친구야
-3375,VO_OG_207_Androgynous _Faceless_Death_01,고대 신의 속삭임,,죽음
-3376,VO_OG_207_Androgynous _Faceless_Play_01,고대 신의 속삭임,,이제는 외롭지 않아
-3377,VO_OG_209_Male_Elemental_Attack_01,고대 신의 속삭임,,황혼이 손짓한다
-3378,VO_OG_209_Male_Elemental_Death_01,고대 신의 속삭임,,죽음
-3379,VO_OG_209_Male_Elemental_Play_01,고대 신의 속삭임,,나는 칠흙보다 어두운 밤이다
-3380,VO_OG_218_Male_Tauren_Attack_01,고대 신의 속삭임,,도망쳐라
-3381,VO_OG_218_Male_Tauren_Death_01,고대 신의 속삭임,,죽음
-3382,VO_OG_218_Male_Tauren_Play_01,고대 신의 속삭임,,도끼를 휘두를 시간이군
-3383,VO_OG_220_Male_Orc_Attack_01,고대 신의 속삭임,,약해빠진 것
-3384,VO_OG_220_Male_Orc_Death_01,고대 신의 속삭임,,죽음
-3385,VO_OG_220_Male_Orc_Play_01,고대 신의 속삭임,,진정한 호드를 막을 순 없다
-3386,VO_OG_221_Female_Draenai_Attack_01,고대 신의 속삭임,,겨우 그거냐
-3387,VO_OG_221_Female_Draenai_Death_01,고대 신의 속삭임,,복수해다오
-3388,VO_OG_221_Female_Draenai_Play_01,고대 신의 속삭임,,난 그 무엇도 두렵지 않다 쥐만 빼고
-3389,VO_OG_229_Male_Demon_Attack_01,고대 신의 속삭임,,죽어라 벌레같은 놈
-3390,VO_OG_229_Male_Demon_Death_01,고대 신의 속삭임,,너무 일찍이야
-3391,VO_OG_229_Male_Demon_Play_01,고대 신의 속삭임,,빛의 세례를 받아라
-3392,VO_OG_229_Male_Demon_Trigger_01,고대 신의 속삭임,,살아라 벌레 같은 놈
-3393,VO_OG_234_Female_Human_Attack_01,고대 신의 속삭임,,새로운 물약이다
-3394,VO_OG_234_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3395,VO_OG_234_Female_Human_Play_01,고대 신의 속삭임,,이 수액만 넣으면
-3396,VO_OG_241_Male_Human_Attack_01,고대 신의 속삭임,,기합
-3397,VO_OG_241_Male_Human_Death_01,고대 신의 속삭임,,잘가
-3398,VO_OG_241_Male_Human_Play_01,고대 신의 속삭임,,이게 뭐야 살려줘
-3399,VO_OG_247_Male_Worgen_Attack_01,고대 신의 속삭임,,살상
-3400,VO_OG_247_Male_Worgen_Death_01,고대 신의 속삭임,,죽음
-3401,VO_OG_247_Male_Worgen_Play_01,고대 신의 속삭임,,피의 맛이 느껴진다
-3402,VO_OG_249_Male_Tauren_Attack_01,고대 신의 속삭임,,얼마든지
-3403,VO_OG_249_Male_Tauren_Death_01,고대 신의 속삭임,,죽음
-3404,VO_OG_249_Male_Tauren_Play_01,고대 신의 속삭임,,군단을 위하여
-3405,VO_OG_254_Androgynous _Faceless_Attack_01,고대 신의 속삭임,,맛있구나
-3406,VO_OG_254_Androgynous _Faceless_Death_01,고대 신의 속삭임,,죽음
-3407,VO_OG_254_Androgynous _Faceless_Play_01,고대 신의 속삭임,,알필요 없다고 난 이미 알고있다
-3408,VO_OG_255_Male_Orc_Attack_01,고대 신의 속삭임,,두려움에 몸서리쳐라
-3409,VO_OG_255_Male_Orc_Death_01,고대 신의 속삭임,,죽음
-3410,VO_OG_255_Male_Orc_Play_01,고대 신의 속삭임,,공포의 선율이 널 휘감는다
-3411,VO_OG_267_Female_Faceless_Attack_01,고대 신의 속삭임,,버릇없는 것
-3412,VO_OG_267_Female_Faceless_Death_01,고대 신의 속삭임,,죽음
-3413,VO_OG_267_Female_Faceless_Play_01,고대 신의 속삭임,,내 얼굴이 어때서
-3414,VO_OG_272_Male_Troll_Attack_01,고대 신의 속삭임,,피로 맺어진 서약
-3415,VO_OG_272_Male_Troll_Death_01,고대 신의 속삭임,,잠깐 뭐
-3416,VO_OG_272_Male_Troll_Play_01,고대 신의 속삭임,,이 문서는 법적 효력이 있는 것 같군
-3417,VO_OG_280_Male_OldGod_Attack_01,고대 신의 속삭임,,너는 죽을 것이다
-3418,VO_OG_280_Male_OldGod_Death_01,고대 신의 속삭임,,죽음
-3419,VO_OG_280_Male_OldGod_InPlay_01,고대 신의 속삭임,,네 하수인은 널 버릴 것이다
-3420,VO_OG_280_Male_OldGod_InPlay_02,고대 신의 속삭임,,죽음이 가깝다
-3421,VO_OG_280_Male_OldGod_InPlay_03,고대 신의 속삭임,,네 덱은 널 배신하게 될 것이다
-3422,VO_OG_280_Male_OldGod_InPlay_04,고대 신의 속삭임,,넌 이미 죽은 목숨이다
-3423,VO_OG_280_Male_OldGod_InPlay_05,고대 신의 속삭임,,공포를 맞이해라
-3424,VO_OG_280_Male_OldGod_InPlay_06,고대 신의 속삭임,,네 하수인들은 널 짐으로 생각한다
-3425,VO_OG_280_Male_OldGod_InPlay_07,고대 신의 속삭임,,소망은 환상일 뿐
-3426,VO_OG_280_Male_OldGod_InPlay_08,고대 신의 속삭임,,그건 네 탓이었다
-3427,VO_OG_280_Male_OldGod_InPlay_09,고대 신의 속삭임,,그 판단 때문에 너의 심장은 터지리라
-3428,VO_OG_280_Male_OldGod_InPlay_10,고대 신의 속삭임,,비명을 지르며 도망쳐라
-3429,VO_OG_280_Male_OldGod_InPlay_11,고대 신의 속삭임,,공포에 굴복해라
-3430,VO_OG_280_Male_OldGod_InPlay_12,고대 신의 속삭임,,반갑구나
-3431,VO_OG_280_Male_OldGod_Play_01,고대 신의 속삭임,,나의 꿈이 끝나고 너의 악몽이 시작된다
-3432,VO_OG_281_Female_Human_Attack_01,고대 신의 속삭임,,이 쪽 말인가
-3433,VO_OG_281_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3434,VO_OG_281_Female_Human_Play_01,고대 신의 속삭임,,묻겠다 그대가 나의 주인인가
-3435,VO_OG_283_Female_Undead_Attack_01,고대 신의 속삭임,,난 복종한다
-3436,VO_OG_283_Female_Undead_Death_01,고대 신의 속삭임,,그 분의 뜻대로
-3437,VO_OG_283_Female_Undead_Play_01,고대 신의 속삭임,,크툰 님께서 날 지켜주시니
-3438,VO_OG_284_Female_Orc_Attack_01,고대 신의 속삭임,,여길 봐라
-3439,VO_OG_284_Female_Orc_Death_01,고대 신의 속삭임,,죽음
-3440,VO_OG_284_Female_Orc_Play_01,고대 신의 속삭임,,이런 내 보석이 깨졌잖아
-3441,VO_OG_286_Male_Gnome_Attack_01,고대 신의 속삭임,,그 분이 오신다
-3442,VO_OG_286_Male_Gnome_Death_01,고대 신의 속삭임,,죽음
-3443,VO_OG_286_Male_Gnome_Play_01,고대 신의 속삭임,,그 분의 말씀이 들리나
-3444,VO_OG_286_Male_Gnome_Trigger_01,고대 신의 속삭임,,귀를 기울여봐
-3445,VO_OG_290_Female_Night Elf_Attack_01,고대 신의 속삭임,,경청하라
-3446,VO_OG_290_Female_Night Elf_Death_01,고대 신의 속삭임,,죽음
-3447,VO_OG_290_Female_Night Elf_Play_01,고대 신의 속삭임,,크툰 님께서 부르신다
-3448,VO_OG_291_Female_Goblin_Attack_01,고대 신의 속삭임,,암흑이여
-3449,VO_OG_291_Female_Goblin_Death_01,고대 신의 속삭임,,죽음
-3450,VO_OG_291_Female_Goblin_Play_01,고대 신의 속삭임,,어둠의 부름이 들린다
-3451,VO_OG_292_Male_Worgen_Attack_01,고대 신의 속삭임,,번뜩이는 눈이여
-3452,VO_OG_292_Male_Worgen_Death_01,고대 신의 속삭임,,죽음
-3453,VO_OG_292_Male_Worgen_Play_01,고대 신의 속삭임,,야수들은 날 배신했다
-3454,VO_OG_293_Male_Arakkoa_Attack_01,고대 신의 속삭임,,포효와 울음소리로
-3455,VO_OG_293_Male_Arakkoa_Death_01,고대 신의 속삭임,,죽음
-3456,VO_OG_293_Male_Arakkoa_Play_01,고대 신의 속삭임,,고대의 존재여
-3457,VO_OG_295_Male_Worgen_Attack_01,고대 신의 속삭임,,쭉 들이켜
-3458,VO_OG_295_Male_Worgen_Death_01,고대 신의 속삭임,,죽음
-3459,VO_OG_295_Male_Worgen_Play_01,고대 신의 속삭임,,약 먹을 시간이다
-3460,VO_OG_300_Male_Monster_Attack_01,고대 신의 속삭임,,맛있는 필멸자
-3461,VO_OG_300_Male_Monster_Death_01,고대 신의 속삭임,,죽음
-3462,VO_OG_300_Male_Monster_Play_01,고대 신의 속삭임,,이 세계엔 맛있는게 가득해
-3463,VO_OG_301_Female_Dwarf_Attack_01,고대 신의 속삭임,,내 방패를 받아라
-3464,VO_OG_301_Female_Dwarf_Death_01,고대 신의 속삭임,,죽음
-3465,VO_OG_301_Female_Dwarf_Play_01,고대 신의 속삭임,,크툰께서 우릴 보호하신다
-3466,VO_OG_302_Female_Gnome_Attack_01,고대 신의 속삭임,,하나 또 하나
-3467,VO_OG_302_Female_Gnome_Death_01,고대 신의 속삭임,,죽음
-3468,VO_OG_302_Female_Gnome_Play_01,고대 신의 속삭임,,한줄로 서
-3469,VO_OG_303_Female_Human_Attack_01,고대 신의 속삭임,,반짝여라
-3470,VO_OG_303_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3471,VO_OG_303_Female_Human_Play_01,고대 신의 속삭임,,마법을 만들어볼까요
-3472,VO_OG_309_Female_Wasp_Attack_01,고대 신의 속삭임,,날 받들어라
-3473,VO_OG_309_Female_Wasp_Death_01,고대 신의 속삭임,,죽음
-3474,VO_OG_309_Female_Wasp_Play_01,고대 신의 속삭임,,나는 여왕이 되리라
-3475,VO_OG_310_Female_Human_Attack_01,고대 신의 속삭임,,물러서라
-3476,VO_OG_310_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3477,VO_OG_310_Female_Human_Play_01,고대 신의 속삭임,,집으로 돌아가세요
-3478,VO_OG_312_Male_Qiraji_Attack_01,고대 신의 속삭임,,닻을 올려라
-3479,VO_OG_312_Male_Qiraji_Death_01,고대 신의 속삭임,,죽음
-3480,VO_OG_312_Male_Qiraji_Play_02,고대 신의 속삭임,,출항이다
-3481,VO_OG_313_Female_Bear_Attack_01,고대 신의 속삭임,,어느 쪽이야
-3482,VO_OG_313_Female_Bear_Death_01,고대 신의 속삭임,,죽음
-3483,VO_OG_313_Female_Bear_Play_01,고대 신의 속삭임,,여긴 달숲이 아니잖아
-3484,VO_OG_315_Female_Gnome_Attack_01,고대 신의 속삭임,,찌르고 찢는다
-3485,VO_OG_315_Female_Gnome_Death_01,고대 신의 속삭임,,죽음
-3486,VO_OG_315_Female_Gnome_Play_01,고대 신의 속삭임,,갈고리와 칼날의 이름으로
-3487,VO_OG_316_Male_Faceless_Attack_01,고대 신의 속삭임,,네 정신이 갈라진다
-3488,VO_OG_316_Male_Faceless_Death_01,고대 신의 속삭임,,죽음
-3489,VO_OG_316_Male_Faceless_Play_01,고대 신의 속삭임,,공허를 들여다 보아라
-3490,VO_OG_317_Male_Dragon_Attack_01,고대 신의 속삭임,,먼지 같은 필멸자여
-3491,VO_OG_317_Male_Dragon_Death_01,고대 신의 속삭임,,죽음
-3492,VO_OG_317_Male_Dragon_Play_01,고대 신의 속삭임,,용족들이여 내게 무릎 꿇을지어다
-3493,VO_OG_319_Male_Giant_Attack_01,고대 신의 속삭임,,너무나 큰 고통을
-3494,VO_OG_319_Male_Giant_Death_01,고대 신의 속삭임,,죽음
-3495,VO_OG_319_Male_Giant_Play_01,고대 신의 속삭임,,오너라 미천한 족속들이여
-3496,VO_OG_321_Male_Dwarf_Attack_01,고대 신의 속삭임,,너의 고통을 느껴라
-3497,VO_OG_321_Male_Dwarf_Death_01,고대 신의 속삭임,,죽음
-3498,VO_OG_321_Male_Dwarf_Play_01,고대 신의 속삭임,,크툰 님께 내 피를
-3499,VO_OG_322_Female_Goblin_Attack_02,고대 신의 속삭임,,상어 밥으로 써주지
-3500,VO_OG_322_Female_Goblin_Death_01,고대 신의 속삭임,,죽음
-3501,VO_OG_322_Female_Goblin_Play_01,고대 신의 속삭임,,노를 저어라
-3502,VO_OG_323_Male_Gnome_Attack_01,고대 신의 속삭임,,내놔
-3503,VO_OG_323_Male_Gnome_Death_01,고대 신의 속삭임,,죽음
-3504,VO_OG_323_Male_Gnome_Play_01,고대 신의 속삭임,,내꺼 다 내꺼야
-3505,VO_OG_330_Male_Undead_Attack_01,고대 신의 속삭임,,사라고
-3506,VO_OG_330_Male_Undead_Death_01,고대 신의 속삭임,,완판
-3507,VO_OG_330_Male_Undead_Play_01,고대 신의 속삭임,,먹거리 많은데 드셔볼텐가
-3508,VO_OG_334_Female_Human_Attack_01,고대 신의 속삭임,,이단자다
-3509,VO_OG_334_Female_Human_Death_01,고대 신의 속삭임,,죽음
-3510,VO_OG_334_Female_Human_Play_01,고대 신의 속삭임,,암호는 알고있나
-3511,VO_OG_335_Male_Shade_Attack_01,고대 신의 속삭임,,아무도 모르게
-3512,VO_OG_335_Male_Shade_Death_01,고대 신의 속삭임,,죽음
-3513,VO_OG_335_Male_Shade_Play_02,고대 신의 속삭임,,나의 메아리는 영원하다
-3514,VO_OG_338_Male_Human_Attack_01,고대 신의 속삭임,,월척이구나
-3515,VO_OG_338_Male_Human_Death_01,고대 신의 속삭임,,죽음
-3516,VO_OG_338_Male_Human_Play_01,고대 신의 속삭임,,더 큰 고기를 낚아야겠어
-3517,VO_OG_339_Male_Qiraji_Attack_01,고대 신의 속삭임,,그분께서 강림하신다
-3518,VO_OG_339_Male_Qiraji_Death_01,고대 신의 속삭임,,죽음
-3519,VO_OG_339_Male_Qiraji_Play_02,고대 신의 속삭임,,잠든 자가 깨어나노라
-3520,VO_OG_340_Male_Faceless_Attack_01,고대 신의 속삭임,,무릎을 꿇어라
-3521,VO_OG_340_Male_Faceless_Death_01,고대 신의 속삭임,,죽음
+3293,VO_OG_024_Male_Faceless_Attack_01,고대 신의 속삭임,얼굴 없는 화염투사,구워주마
+3294,VO_OG_024_Male_Faceless_Death_01,고대 신의 속삭임,얼굴 없는 화염투사,죽음
+3295,VO_OG_024_Male_Faceless_Play_01,고대 신의 속삭임,얼굴 없는 화염투사,불이 필요한가
+3296,VO_OG_026_Male_Qiraji_Attack_01,고대 신의 속삭임,영원한 감시자,너도 보아라
+3297,VO_OG_026_Male_Qiraji_Death_01,고대 신의 속삭임,영원한 감시자,죽음
+3298,VO_OG_026_Male_Qiraji_Play_01,고대 신의 속삭임,영원한 감시자,미래가 보인다 종말이 보인다
+3299,VO_OG_042_Male_OldGod_Attack_01,고대 신의 속삭임,타락자 느조스,너무나 달콤하구나
+3300,VO_OG_042_Male_OldGod_Death_01,고대 신의 속삭임,타락자 느조스,죽음
+3301,VO_OG_042_Male_OldGod_Play_01,고대 신의 속삭임,타락자 느조스,네 영혼의 정수가 느껴지는군
+3302,VO_OG_044_Male_Night Elf_Attack_02,고대 신의 속삭임,판드랄 스태그헬름,재가 되어 사라져라
+3303,VO_OG_044_Male_Night Elf_Death_01,고대 신의 속삭임,판드랄 스태그헬름,죽음
+3304,VO_OG_044_Male_Night Elf_Play_02,고대 신의 속삭임,판드랄 스태그헬름,보아라 불의 땅이 포효하는 모습을
+3305,VO_OG_044_Male_Night Elf_Tyrande_01,고대 신의 속삭임,판드랄 스태그헬름,넌 우리 백성들을 파멸로 이끌 것이다
+3306,VO_OG_070_Male_Troll_Attack_01,고대 신의 속삭임,이교도 칼잡이,살짝만 베어주지
+3307,VO_OG_070_Male_Troll_Death_01,고대 신의 속삭임,이교도 칼잡이,죽음
+3308,VO_OG_070_Male_Troll_Play_01,고대 신의 속삭임,이교도 칼잡이,넌 별로 날카롭지 않군
+3309,VO_OG_080_Male_Klaxxi_Attack_01,고대 신의 속삭임,독한 마음의 자릴,한 방울 맛보겠느냐
+3310,VO_OG_080_Male_Klaxxi_Death_01,고대 신의 속삭임,독한 마음의 자릴,죽음
+3311,VO_OG_080_Male_Klaxxi_Play_01,고대 신의 속삭임,독한 마음의 자릴,훌륭한 독이 아주 많다
+3312,VO_OG_082_Male_Kobold_Attack_01,고대 신의 속삭임,진화한 코볼트,좋았어
+3313,VO_OG_082_Male_Kobold_Death_01,고대 신의 속삭임,진화한 코볼트,내꺼라고
+3314,VO_OG_082_Male_Kobold_Play_01,고대 신의 속삭임,진화한 코볼트,네 양초 가져간다
+3315,VO_OG_083_Male_Human_Attack_01,고대 신의 속삭임,황혼의 불꽃소환사,바싹 익혀드리죠
+3316,VO_OG_083_Male_Human_Death_01,고대 신의 속삭임,황혼의 불꽃소환사,죽음
+3317,VO_OG_083_Male_Human_Play_01,고대 신의 속삭임,황혼의 불꽃소환사,불좀 빌려드릴까요
+3318,VO_OG_085_Androgynous _Faceless_Attack_01,고대 신의 속삭임,정신 나간 서리술사,얼어붙어라
+3319,VO_OG_085_Androgynous _Faceless_Death_01,고대 신의 속삭임,정신 나간 서리술사,죽음
+3320,VO_OG_085_Androgynous _Faceless_Play_02,고대 신의 속삭임,정신 나간 서리술사,한기가 느껴지는가
+3321,VO_OG_096_Female_Night Elf_Attack_01,고대 신의 속삭임,황혼의 암흑치유사,사라져라
+3322,VO_OG_096_Female_Night Elf_Death_01,고대 신의 속삭임,황혼의 암흑치유사,죽음
+3323,VO_OG_096_Female_Night Elf_Play_01,고대 신의 속삭임,황혼의 암흑치유사,빛을 삼키리라
+3324,VO_OG_109_Female_Human_Attack_01,고대 신의 속삭임,어둠골 사서,찾고야 말겠어
+3325,VO_OG_109_Female_Human_Death_01,고대 신의 속삭임,어둠골 사서,죽음
+3326,VO_OG_109_Female_Human_Play_01,고대 신의 속삭임,어둠골 사서,진실은 분명 여기 있을거야
+3327,VO_OG_120_Male_Elemental_Attack_01,고대 신의 속삭임,아노말루스,종말
+3328,VO_OG_120_Male_Elemental_Death_01,고대 신의 속삭임,아노말루스,실체가 무너진다
+3329,VO_OG_120_Male_Elemental_Death_02,고대 신의 속삭임,아노말루스,실체가 무너진다
+3330,VO_OG_120_Male_Elemental_Play_01,고대 신의 속삭임,아노말루스,혼돈이 손짓한다
+3331,VO_OG_121_Male_Ogre_Attack_01,고대 신의 속삭임,초갈,파괴여 오라 영원한 밤이여 오라
+3332,VO_OG_121_Male_Ogre_Death_01,고대 신의 속삭임,초갈,죽음
+3333,VO_OG_121_Male_Ogre_Play_01,고대 신의 속삭임,초갈,그분의 의지에 모두 굴복하리라 그분의 왕국에서 혼돈이 찾아온다
+3334,VO_OG_131_Male_Qiraji_Attack_01,고대 신의 속삭임,쌍둥이 제왕 베클로어,고통을 맛보리라
+3335,VO_OG_131_Male_Qiraji_Death_01,고대 신의 속삭임,쌍둥이 제왕 베클로어,죽음
+3336,VO_OG_131_Male_Qiraji_Play_01,고대 신의 속삭임,쌍둥이 제왕 베클로어,영혼의 향연이 시작되리라
+3337,VO_OG_133_Male_OldGod_Attack_01,고대 신의 속삭임,해방된 분노 이샤라즈,공포가 널 옥죈다
+3338,VO_OG_133_Male_OldGod_Death_01,고대 신의 속삭임,해방된 분노 이샤라즈,죽음
+3339,VO_OG_133_Male_OldGod_Play_01,고대 신의 속삭임,해방된 분노 이샤라즈,증오를 삼켜라 분노를 받아들여라
+3340,VO_OG_134_Male_OldGod_Attack_01,고대 신의 속삭임,희망의 끝 요그사론,오직 죽음만이 영원하다
+3341,VO_OG_134_Male_OldGod_Death_01,고대 신의 속삭임,희망의 끝 요그사론,죽음
+3342,VO_OG_134_Male_OldGod_Play_01,고대 신의 속삭임,희망의 끝 요그사론,죽음의 신앞에 무릎을 꿇어라
+3343,VO_OG_141_Androgynous _Faceless_Attack_01,고대 신의 속삭임,얼굴 없는 괴수,하찮은 것
+3344,VO_OG_141_Androgynous _Faceless_Death_01,고대 신의 속삭임,얼굴 없는 괴수,죽음
+3345,VO_OG_141_Androgynous _Faceless_Play_01,고대 신의 속삭임,얼굴 없는 괴수,분노 증오 공포
+3346,VO_OG_142_Male_Faceless_Attack_01,고대 신의 속삭임,기괴한 공포,살점따위
+3347,VO_OG_142_Male_Faceless_Death_01,고대 신의 속삭임,기괴한 공포,안돼
+3348,VO_OG_142_Male_Faceless_Play_01,고대 신의 속삭임,기괴한 공포,절대적인 공포
+3349,VO_OG_145_Male_Mech_Attack_01,고대 신의 속삭임,광기로봇,안녕
+3350,VO_OG_145_Male_Mech_Death_01,고대 신의 속삭임,광기로봇,안녕
+3351,VO_OG_145_Male_Mech_Play_01,고대 신의 속삭임,광기로봇,안녕 안녕 안녕
+3352,VO_OG_150_Male_Troll_Attack_01,고대 신의 속삭임,변종 광전사,모조리 죽여버리겠다
+3353,VO_OG_150_Male_Troll_Death_01,고대 신의 속삭임,변종 광전사,죽음
+3354,VO_OG_150_Male_Troll_Play_01,고대 신의 속삭임,변종 광전사,피바다를 만들 시간이군
+3355,VO_OG_158_Male_Faceless_Attack_01,고대 신의 속삭임,열성적인 수습생,그 분의 먹잇감이 되어라
+3356,VO_OG_158_Male_Faceless_Death_01,고대 신의 속삭임,열성적인 수습생,죽음
+3357,VO_OG_158_Male_Faceless_Play_01,고대 신의 속삭임,열성적인 수습생,주인님께서 굶주리셨다
+3358,VO_OG_162_Male_Panderan_Attack_01,고대 신의 속삭임,크툰의 사도,크툰
+3359,VO_OG_162_Male_Panderan_Death_01,고대 신의 속삭임,크툰의 사도,죽음
+3360,VO_OG_162_Male_Panderan_Play_01,고대 신의 속삭임,크툰의 사도,크툰 크툰 크툰
+3361,VO_OG_173a_Androgynous _Monster_Attack_01,고대 신의 속삭임,고대의 존재,웃음
+3362,VO_OG_173a_Androgynous _Monster_Death_01,고대 신의 속삭임,고대의 존재,안돼
+3363,VO_OG_173a_Androgynous _Monster_Play_01,고대 신의 속삭임,고대의 존재,세계의 종말이 다시금 도래했노라
+3364,VO_OG_188_Male_Klaxxi_Attack_02,고대 신의 속삭임,클락시 호박술사,달아날 순 없다
+3365,VO_OG_188_Male_Klaxxi_Death_01,고대 신의 속삭임,클락시 호박술사,죽음
+3366,VO_OG_188_Male_Klaxxi_Play_02,고대 신의 속삭임,클락시 호박술사,나는 무리를 지킨다
+3367,VO_OG_200_Male_BloodElf_Attack_01,고대 신의 속삭임,살아남은 파멸의 예언자,웃음
+3368,VO_OG_200_Male_BloodElf_Death_01,고대 신의 속삭임,살아남은 파멸의 예언자,죽음
+3369,VO_OG_200_Male_BloodElf_Play_01,고대 신의 속삭임,살아남은 파멸의 예언자,역시 내가 옳았어
+3370,VO_OG_200_Male_BloodElf_Trigger_01,고대 신의 속삭임,살아남은 파멸의 예언자,웃음
+3371,VO_OG_202_Male_Keeper_Attack_01,고대 신의 속삭임,수렁의 수호자,내 분노를 느껴라
+3372,VO_OG_202_Male_Keeper_Death_01,고대 신의 속삭임,수렁의 수호자,죽음
+3373,VO_OG_202_Male_Keeper_Play_01,고대 신의 속삭임,수렁의 수호자,이 땅은 날 섬긴다
+3374,VO_OG_207_Androgynous _Faceless_Attack_01,고대 신의 속삭임,얼굴 없는 소환사,새 친구야
+3375,VO_OG_207_Androgynous _Faceless_Death_01,고대 신의 속삭임,얼굴 없는 소환사,죽음
+3376,VO_OG_207_Androgynous _Faceless_Play_01,고대 신의 속삭임,얼굴 없는 소환사,이제는 외롭지 않아
+3377,VO_OG_209_Male_Elemental_Attack_01,고대 신의 속삭임,승천한 할라질,황혼이 손짓한다
+3378,VO_OG_209_Male_Elemental_Death_01,고대 신의 속삭임,승천한 할라질,죽음
+3379,VO_OG_209_Male_Elemental_Play_01,고대 신의 속삭임,승천한 할라질,나는 칠흑보다 어두운 밤이다
+3380,VO_OG_218_Male_Tauren_Attack_01,고대 신의 속삭임,블러드후프 용사,도망쳐라
+3381,VO_OG_218_Male_Tauren_Death_01,고대 신의 속삭임,블러드후프 용사,죽음
+3382,VO_OG_218_Male_Tauren_Play_01,고대 신의 속삭임,블러드후프 용사,도끼를 휘두를 시간이군
+3383,VO_OG_220_Male_Orc_Attack_01,고대 신의 속삭임,말코록,약해빠진 것
+3384,VO_OG_220_Male_Orc_Death_01,고대 신의 속삭임,말코록,죽음
+3385,VO_OG_220_Male_Orc_Play_01,고대 신의 속삭임,말코록,진정한 호드를 막을 순 없다
+3386,VO_OG_221_Female_Draenai_Attack_01,고대 신의 속삭임,헌신적인 영웅,겨우 그거냐
+3387,VO_OG_221_Female_Draenai_Death_01,고대 신의 속삭임,헌신적인 영웅,복수해다오
+3388,VO_OG_221_Female_Draenai_Play_01,고대 신의 속삭임,헌신적인 영웅,난 그 무엇도 두렵지 않다 쥐만 빼고
+3389,VO_OG_229_Male_Demon_Attack_01,고대 신의 속삭임,빛의 군주 라그나로스,죽어라 벌레같은 놈
+3390,VO_OG_229_Male_Demon_Death_01,고대 신의 속삭임,빛의 군주 라그나로스,너무 일찍이야
+3391,VO_OG_229_Male_Demon_Play_01,고대 신의 속삭임,빛의 군주 라그나로스,빛의 세례를 받아라
+3392,VO_OG_229_Male_Demon_Trigger_01,고대 신의 속삭임,빛의 군주 라그나로스,살아라 벌레 같은 놈
+3393,VO_OG_234_Female_Human_Attack_01,고대 신의 속삭임,어둠골 연금술사,새로운 물약이다
+3394,VO_OG_234_Female_Human_Death_01,고대 신의 속삭임,어둠골 연금술사,죽음
+3395,VO_OG_234_Female_Human_Play_01,고대 신의 속삭임,어둠골 연금술사,이 수액만 넣으면
+3396,VO_OG_241_Male_Human_Attack_01,고대 신의 속삭임,지배당한 주민,기합
+3397,VO_OG_241_Male_Human_Death_01,고대 신의 속삭임,지배당한 주민,자유다
+3398,VO_OG_241_Male_Human_Play_01,고대 신의 속삭임,지배당한 주민,이게 뭐야 살려줘
+3399,VO_OG_247_Male_Worgen_Attack_01,고대 신의 속삭임,뒤틀린 늑대인간,살상
+3400,VO_OG_247_Male_Worgen_Death_01,고대 신의 속삭임,뒤틀린 늑대인간,죽음
+3401,VO_OG_247_Male_Worgen_Play_01,고대 신의 속삭임,뒤틀린 늑대인간,피의 맛이 느껴진다
+3402,VO_OG_249_Male_Tauren_Attack_01,고대 신의 속삭임,감염된 타우렌,얼마든지
+3403,VO_OG_249_Male_Tauren_Death_01,고대 신의 속삭임,감염된 타우렌,죽음
+3404,VO_OG_249_Male_Tauren_Play_01,고대 신의 속삭임,감염된 타우렌,군단을 위하여
+3405,VO_OG_254_Androgynous _Faceless_Attack_01,고대 신의 속삭임,비밀을 삼키는 자,맛있구나
+3406,VO_OG_254_Androgynous _Faceless_Death_01,고대 신의 속삭임,비밀을 삼키는 자,죽음
+3407,VO_OG_254_Androgynous _Faceless_Play_01,고대 신의 속삭임,비밀을 삼키는 자,알필요 없다고 난 이미 알고있다
+3408,VO_OG_255_Male_Orc_Attack_01,고대 신의 속삭임,파멸의 사절,두려움에 몸서리쳐라
+3409,VO_OG_255_Male_Orc_Death_01,고대 신의 속삭임,파멸의 사절,죽음
+3410,VO_OG_255_Male_Orc_Play_01,고대 신의 속삭임,파멸의 사절,공포의 선율이 널 휘감는다
+3411,VO_OG_267_Female_Faceless_Attack_01,고대 신의 속삭임,남쪽바다 촉수얼굴,버릇없는 것
+3412,VO_OG_267_Female_Faceless_Death_01,고대 신의 속삭임,남쪽바다 촉수얼굴,죽음
+3413,VO_OG_267_Female_Faceless_Play_01,고대 신의 속삭임,남쪽바다 촉수얼굴,내 얼굴이 어때서
+3414,VO_OG_272_Male_Troll_Attack_01,고대 신의 속삭임,황혼의 소환사,피로 맺어진 서약
+3415,VO_OG_272_Male_Troll_Death_01,고대 신의 속삭임,황혼의 소환사,잠깐 뭐
+3416,VO_OG_272_Male_Troll_Play_01,고대 신의 속삭임,황혼의 소환사,이 문서는 법적 효력이 있는 것 같군
+3417,VO_OG_280_Male_OldGod_Attack_01,고대 신의 속삭임,크툰,너는 죽을 것이다
+3418,VO_OG_280_Male_OldGod_Death_01,고대 신의 속삭임,크툰,죽음
+3419,VO_OG_280_Male_OldGod_InPlay_01,고대 신의 속삭임,크툰,네 하수인들은 널 버릴 것이다
+3420,VO_OG_280_Male_OldGod_InPlay_02,고대 신의 속삭임,크툰,죽음이 가깝다
+3421,VO_OG_280_Male_OldGod_InPlay_03,고대 신의 속삭임,크툰,네 덱은 널 배신하게 될 것이다
+3422,VO_OG_280_Male_OldGod_InPlay_04,고대 신의 속삭임,크툰,넌 이미 죽은 목숨이다
+3423,VO_OG_280_Male_OldGod_InPlay_05,고대 신의 속삭임,크툰,공포를 맞이해라
+3424,VO_OG_280_Male_OldGod_InPlay_06,고대 신의 속삭임,크툰,네 하수인들은 널 짐으로 생각한다
+3425,VO_OG_280_Male_OldGod_InPlay_07,고대 신의 속삭임,크툰,소망은 환상일 뿐
+3426,VO_OG_280_Male_OldGod_InPlay_08,고대 신의 속삭임,크툰,그건 네 탓이었다
+3427,VO_OG_280_Male_OldGod_InPlay_09,고대 신의 속삭임,크툰,그 판단 때문에 너의 심장은 터지리라
+3428,VO_OG_280_Male_OldGod_InPlay_10,고대 신의 속삭임,크툰,비명을 지르며 도망쳐라
+3429,VO_OG_280_Male_OldGod_InPlay_11,고대 신의 속삭임,크툰,공포에 굴복해라
+3430,VO_OG_280_Male_OldGod_InPlay_12,고대 신의 속삭임,크툰,반갑구나
+3431,VO_OG_280_Male_OldGod_Play_01,고대 신의 속삭임,크툰,나의 꿈이 끝나고 너의 악몽이 시작된다
+3432,VO_OG_281_Female_Human_Attack_01,고대 신의 속삭임,악의 신도,이 쪽 말인가
+3433,VO_OG_281_Female_Human_Death_01,고대 신의 속삭임,악의 신도,죽음
+3434,VO_OG_281_Female_Human_Play_01,고대 신의 속삭임,악의 신도,묻겠다 그대가 나의 주인인가
+3435,VO_OG_283_Female_Undead_Attack_01,고대 신의 속삭임,크툰의 추종자,난 복종한다
+3436,VO_OG_283_Female_Undead_Death_01,고대 신의 속삭임,크툰의 추종자,그 분의 뜻대로
+3437,VO_OG_283_Female_Undead_Play_01,고대 신의 속삭임,크툰의 추종자,크툰 님께서 날 지켜주시니
+3438,VO_OG_284_Female_Orc_Attack_01,고대 신의 속삭임,황혼의 풍수사,여길 봐라
+3439,VO_OG_284_Female_Orc_Death_01,고대 신의 속삭임,황혼의 풍수사,죽음
+3440,VO_OG_284_Female_Orc_Play_01,고대 신의 속삭임,황혼의 풍수사,이런 내 보석이 깨졌잖아
+3441,VO_OG_286_Male_Gnome_Attack_01,고대 신의 속삭임,황혼의 장로,그 분이 오신다
+3442,VO_OG_286_Male_Gnome_Death_01,고대 신의 속삭임,황혼의 장로,죽음
+3443,VO_OG_286_Male_Gnome_Play_01,고대 신의 속삭임,황혼의 장로,그 분의 말씀이 들리나
+3444,VO_OG_286_Male_Gnome_Trigger_01,고대 신의 속삭임,황혼의 장로,귀를 기울여봐
+3445,VO_OG_290_Female_Night Elf_Attack_01,고대 신의 속삭임,고대의 선구자,경청하라
+3446,VO_OG_290_Female_Night Elf_Death_01,고대 신의 속삭임,고대의 선구자,죽음
+3447,VO_OG_290_Female_Night Elf_Play_01,고대 신의 속삭임,고대의 선구자,크툰 님께서 부르신다
+3448,VO_OG_291_Female_Goblin_Attack_01,고대 신의 속삭임,그림자술사,암흑이여
+3449,VO_OG_291_Female_Goblin_Death_01,고대 신의 속삭임,그림자술사,죽음
+3450,VO_OG_291_Female_Goblin_Play_01,고대 신의 속삭임,그림자술사,어둠의 부름이 들린다
+3451,VO_OG_292_Male_Worgen_Attack_01,고대 신의 속삭임,배신당한 사육사,번뜩이는 눈이여
+3452,VO_OG_292_Male_Worgen_Death_01,고대 신의 속삭임,배신당한 사육사,죽음
+3453,VO_OG_292_Male_Worgen_Play_01,고대 신의 속삭임,배신당한 사육사,야수들은 날 배신했다
+3454,VO_OG_293_Male_Arakkoa_Attack_01,고대 신의 속삭임,어둠에 물든 아라코아,포효와 울음소리로
+3455,VO_OG_293_Male_Arakkoa_Death_01,고대 신의 속삭임,어둠에 물든 아라코아,죽음
+3456,VO_OG_293_Male_Arakkoa_Play_01,고대 신의 속삭임,어둠에 물든 아라코아,고대의 존재여
+3457,VO_OG_295_Male_Worgen_Attack_01,고대 신의 속삭임,이교도 약제사,쭉 들이켜
+3458,VO_OG_295_Male_Worgen_Death_01,고대 신의 속삭임,이교도 약제사,죽음
+3459,VO_OG_295_Male_Worgen_Play_01,고대 신의 속삭임,이교도 약제사,약 먹을 시간이다
+3460,VO_OG_300_Male_Monster_Attack_01,고대 신의 속삭임,괴물,맛있는 필멸자
+3461,VO_OG_300_Male_Monster_Death_01,고대 신의 속삭임,괴물,죽음
+3462,VO_OG_300_Male_Monster_Play_01,고대 신의 속삭임,괴물,이 세계엔 맛있는게 가득해
+3463,VO_OG_301_Female_Dwarf_Attack_01,고대 신의 속삭임,고대의 방패병,내 방패를 받아라
+3464,VO_OG_301_Female_Dwarf_Death_01,고대 신의 속삭임,고대의 방패병,죽음
+3465,VO_OG_301_Female_Dwarf_Play_01,고대 신의 속삭임,고대의 방패병,크툰께서 우릴 보호하신다
+3466,VO_OG_302_Female_Gnome_Attack_01,고대 신의 속삭임,저승의 안내인,하나 또 하나
+3467,VO_OG_302_Female_Gnome_Death_01,고대 신의 속삭임,저승의 안내인,죽음
+3468,VO_OG_302_Female_Gnome_Play_01,고대 신의 속삭임,저승의 안내인,한줄로 서
+3469,VO_OG_303_Female_Human_Attack_01,고대 신의 속삭임,이교도 마법사,반짝여라
+3470,VO_OG_303_Female_Human_Death_01,고대 신의 속삭임,이교도 마법사,죽음
+3471,VO_OG_303_Female_Human_Play_01,고대 신의 속삭임,이교도 마법사,마법을 만들어볼까요
+3472,VO_OG_309_Female_Wasp_Attack_01,고대 신의 속삭임,공주 후후란,날 받들어라
+3473,VO_OG_309_Female_Wasp_Death_01,고대 신의 속삭임,공주 후후란,죽음
+3474,VO_OG_309_Female_Wasp_Play_01,고대 신의 속삭임,공주 후후란,나는 여왕이 되리라
+3475,VO_OG_310_Female_Human_Attack_01,고대 신의 속삭임,어둠골 감시대원,물러서라
+3476,VO_OG_310_Female_Human_Death_01,고대 신의 속삭임,어둠골 감시대원,죽음
+3477,VO_OG_310_Female_Human_Play_01,고대 신의 속삭임,어둠골 감시대원,집으로 돌아가세요
+3478,VO_OG_312_Male_Qiraji_Attack_01,고대 신의 속삭임,느조스의 일등항해사,닻을 올려라
+3479,VO_OG_312_Male_Qiraji_Death_01,고대 신의 속삭임,느조스의 일등항해사,죽음
+3480,VO_OG_312_Male_Qiraji_Play_02,고대 신의 속삭임,느조스의 일등항해사,출항이다
+3481,VO_OG_313_Female_Bear_Attack_01,고대 신의 속삭임,혼란스러운 드루이드,어느 쪽이야
+3482,VO_OG_313_Female_Bear_Death_01,고대 신의 속삭임,혼란스러운 드루이드,죽음
+3483,VO_OG_313_Female_Bear_Play_01,고대 신의 속삭임,혼란스러운 드루이드,여긴 달숲이 아니잖아
+3484,VO_OG_315_Female_Gnome_Attack_01,고대 신의 속삭임,붉은해적단 이교도,찌르고 찢는다
+3485,VO_OG_315_Female_Gnome_Death_01,고대 신의 속삭임,붉은해적단 이교도,죽음
+3486,VO_OG_315_Female_Gnome_Play_01,고대 신의 속삭임,붉은해적단 이교도,갈고리와 칼날의 이름으로
+3487,VO_OG_316_Male_Faceless_Attack_01,고대 신의 속삭임,사자 볼라즈,네 정신이 갈라진다
+3488,VO_OG_316_Male_Faceless_Death_01,고대 신의 속삭임,사자 볼라즈,죽음
+3489,VO_OG_316_Male_Faceless_Play_01,고대 신의 속삭임,사자 볼라즈,공허를 들여다 보아라
+3490,VO_OG_317_Male_Dragon_Attack_01,고대 신의 속삭임,용족의 군주 데스윙,먼지 같은 필멸자여
+3491,VO_OG_317_Male_Dragon_Death_01,고대 신의 속삭임,용족의 군주 데스윙,죽음
+3492,VO_OG_317_Male_Dragon_Play_01,고대 신의 속삭임,용족의 군주 데스윙,용족들이여 내게 무릎 꿇을지어다
+3493,VO_OG_319_Male_Giant_Attack_01,고대 신의 속삭임,쌍둥이 제왕 베크닐라쉬,너무나 큰 고통을
+3494,VO_OG_319_Male_Giant_Death_01,고대 신의 속삭임,쌍둥이 제왕 베크닐라쉬,죽음
+3495,VO_OG_319_Male_Giant_Play_01,고대 신의 속삭임,쌍둥이 제왕 베크닐라쉬,오너라 미천한 족속들이여
+3496,VO_OG_321_Male_Dwarf_Attack_01,고대 신의 속삭임,실성한 신봉자,너의 고통을 느껴라
+3497,VO_OG_321_Male_Dwarf_Death_01,고대 신의 속삭임,실성한 신봉자,죽음
+3498,VO_OG_321_Male_Dwarf_Play_01,고대 신의 속삭임,실성한 신봉자,크툰 님께 내 피를
+3499,VO_OG_322_Female_Goblin_Attack_02,고대 신의 속삭임,검은바다 해적,상어 밥으로 써주지
+3500,VO_OG_322_Female_Goblin_Death_01,고대 신의 속삭임,검은바다 해적,죽음
+3501,VO_OG_322_Female_Goblin_Play_01,고대 신의 속삭임,검은바다 해적,노를 저어라
+3502,VO_OG_323_Male_Gnome_Attack_01,고대 신의 속삭임,오염된 수집가,내놔
+3503,VO_OG_323_Male_Gnome_Death_01,고대 신의 속삭임,오염된 수집가,죽음
+3504,VO_OG_323_Male_Gnome_Play_01,고대 신의 속삭임,오염된 수집가,내꺼 다 내꺼야
+3505,VO_OG_330_Male_Undead_Attack_01,고대 신의 속삭임,언더시티 상인,사라고
+3506,VO_OG_330_Male_Undead_Death_01,고대 신의 속삭임,언더시티 상인,완판
+3507,VO_OG_330_Male_Undead_Play_01,고대 신의 속삭임,언더시티 상인,먹거리 많은데 드셔볼텐가
+3508,VO_OG_334_Female_Human_Attack_01,고대 신의 속삭임,두건 쓴 수행사제,이단자다
+3509,VO_OG_334_Female_Human_Death_01,고대 신의 속삭임,두건 쓴 수행사제,죽음
+3510,VO_OG_334_Female_Human_Play_01,고대 신의 속삭임,두건 쓴 수행사제,암호는 알고있나
+3511,VO_OG_335_Male_Shade_Attack_01,고대 신의 속삭임,변화무쌍한 망령,아무도 모르게
+3512,VO_OG_335_Male_Shade_Death_01,고대 신의 속삭임,변화무쌍한 망령,죽음
+3513,VO_OG_335_Male_Shade_Play_02,고대 신의 속삭임,변화무쌍한 망령,나의 메아리는 영원하다
+3514,VO_OG_338_Male_Human_Attack_01,고대 신의 속삭임,어둠의 낚시꾼 내트,월척이구나
+3515,VO_OG_338_Male_Human_Death_01,고대 신의 속삭임,어둠의 낚시꾼 내트,죽음
+3516,VO_OG_338_Male_Human_Play_01,고대 신의 속삭임,어둠의 낚시꾼 내트,더 큰 고기를 낚아야겠어
+3517,VO_OG_339_Male_Qiraji_Attack_01,고대 신의 속삭임,스케람 이교도,그분께서 강림하신다
+3518,VO_OG_339_Male_Qiraji_Death_01,고대 신의 속삭임,스케람 이교도,죽음
+3519,VO_OG_339_Male_Qiraji_Play_02,고대 신의 속삭임,스케람 이교도,잠든 자가 깨어나노라
+3520,VO_OG_340_Male_Faceless_Attack_01,고대 신의 속삭임,음험한 소고스,무릎을 꿇어라
+3521,VO_OG_340_Male_Faceless_Death_01,고대 신의 속삭임,음험한 소고스,죽음
 3522,VO_OG_340_Male_Faceless_Play_01,고대 신의 속삭임,,고대신들에게 경배하라
 3523,VO_RAFAAM_GREETINGS,탐험가 연맹,대도 라팜,안녕하신가 탐험가여
 3524,VO_RAFAAM_LAUGH_36,탐험가 연맹,대도 라팜,웃음
