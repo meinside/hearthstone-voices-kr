@@ -9,7 +9,6 @@ if __FILE__ == $0
   db = SQLite3::Database.new DB_FILENAME
 
   # select all unknown cards
-  #db.execute("select id, filename, expansion, cardname, txt from voices where expansion = ? and (cardname is null or cardname = '') order by id", ['고대 신의 속삭임']).each{|row|
   db.execute("select id, filename, expansion, cardname, txt from voices where cardname is null or cardname = '' order by id").each{|row|
     id, filename, expansion, txt = row[0], row[1], row[2], row[4]
 
