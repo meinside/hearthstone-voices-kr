@@ -14,7 +14,7 @@ def get_filepath(expansion, cardname, txt)
   cardname = escape(cardname)
   txt = escape(txt)
 
-  filepath = File.join(OUTPUT_DIR, "#{["Hearthstone", expansion, cardname, txt].compact.reject{|x|x.empty?}.join(" - ")}.#{SOUNDFILE_EXT}")
+  filepath = File.join(OUTPUT_DIR, "#{[expansion, cardname, txt].compact.reject{|x|x.empty?}.join(" - ")}.#{SOUNDFILE_EXT}")
 
   get_safe_filepath(filepath)
 end
