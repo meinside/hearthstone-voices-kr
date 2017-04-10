@@ -39,6 +39,8 @@ if __FILE__ == $0
         expansion = "한여름 밤의 카라잔"
       when filename =~ /^VO_CFM_/i # 비열한 거리의 가젯잔
         expansion = "비열한 거리의 가젯잔"
+      when filename =~ /^VO_UNG_/i # 운고로를 향한 여정
+        expansion = "운고로를 향한 여정"
       else
         expansion = ""
       end
